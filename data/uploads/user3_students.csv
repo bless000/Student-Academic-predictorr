@@ -1,0 +1,4 @@
+student_id,age,gender,department,attendance,previous_gpa,study_hours,assignment_score,ca_score,semester_result,performance_category
+ST001,20,Male,Computer Science,85.0,3.5,8.0,80.0,78.0,75.0,High
+ST002,21,Female,Engineering,60.0,2.5,4.0,55.0,52.0,50.0,Medium
+ST003,19,Male,Law,45.0,1.8,2.0,40.0,38.0,35.0,Low

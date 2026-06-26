@@ -1,0 +1,3001 @@
+student_id,age,gender,department,attendance,previous_gpa,study_hours,assignment_score,ca_score,semester_result,performance_category
+ST0001,27,Male,Computer Science,58.9,2.57,3.1,59.0,73.1,54.2,Medium
+ST0002,28,Female,Medicine,67.9,2.77,6.1,70.8,70.0,78.6,Medium
+ST0003,25,Male,Economics,64.2,3.5,4.2,59.2,58.8,55.8,Medium
+ST0004,22,Female,Accounting,94.6,3.43,10.3,94.2,77.1,84.4,High
+ST0005,18,Female,Law,58.7,2.5,1.2,49.5,18.5,32.0,Low
+ST0006,29,Female,Economics,62.7,2.9,7.0,67.0,61.9,68.0,Medium
+ST0007,24,Female,Education,65.5,2.07,6.0,75.7,58.6,67.5,Medium
+ST0008,29,Female,Medicine,88.4,3.1,5.2,46.0,57.5,49.6,Medium
+ST0009,25,Male,Law,89.0,3.77,9.1,95.6,75.0,79.6,High
+ST0010,19,Male,Medicine,44.7,1.88,1.4,31.7,21.1,37.0,Low
+ST0011,26,Male,Education,53.0,1.17,1.5,31.0,41.8,54.1,Low
+ST0012,23,Female,Law,94.6,3.43,10.7,77.4,88.3,78.7,High
+ST0013,19,Male,Economics,85.7,3.63,10.5,81.3,77.0,69.0,High
+ST0014,23,Female,Accounting,60.2,3.13,2.6,72.3,66.9,62.2,Medium
+ST0015,18,Male,Accounting,53.7,1.59,0.9,44.1,28.0,11.5,Low
+ST0016,18,Female,Law,87.2,2.6,6.0,60.3,72.3,69.6,Medium
+ST0017,24,Female,Computer Science,74.1,3.1,5.8,68.4,60.6,50.6,Medium
+ST0018,23,Female,Education,74.4,3.41,14.4,78.1,64.3,83.9,High
+ST0019,26,Female,Medicine,57.7,2.32,4.8,31.1,26.7,24.9,Low
+ST0020,25,Male,Medicine,58.3,2.14,0.0,31.7,16.0,52.1,Low
+ST0021,29,Male,Engineering,80.1,4.0,8.5,72.3,72.3,74.6,High
+ST0022,21,Female,Economics,76.7,3.96,8.7,76.3,88.9,68.5,High
+ST0023,27,Male,Engineering,90.9,2.62,4.9,50.5,60.1,53.2,Medium
+ST0024,23,Male,Engineering,61.0,2.66,1.4,58.5,59.1,60.3,Medium
+ST0025,18,Male,Law,56.6,2.21,6.1,41.6,61.8,46.2,Medium
+ST0026,28,Female,Medicine,49.4,2.5,0.4,29.5,22.9,27.6,Low
+ST0027,19,Female,Business Admin,63.5,0.99,1.7,26.7,35.5,65.0,Low
+ST0028,28,Female,Law,74.9,3.16,8.9,73.3,55.5,45.2,Medium
+ST0029,17,Female,Computer Science,75.8,3.67,9.5,96.2,77.1,80.2,High
+ST0030,26,Male,Business Admin,70.8,2.33,5.0,65.9,62.6,68.5,Medium
+ST0031,19,Female,Business Admin,78.4,2.51,5.5,37.8,85.0,55.3,Medium
+ST0032,24,Male,Education,83.9,2.67,5.8,76.9,71.7,56.0,Medium
+ST0033,28,Female,Economics,95.1,3.84,9.2,90.6,91.4,88.5,High
+ST0034,29,Female,Law,54.5,2.5,1.8,35.7,30.6,40.3,Low
+ST0035,18,Male,Economics,91.7,3.75,9.7,87.4,78.2,71.0,High
+ST0036,18,Female,Economics,91.8,3.04,11.2,97.0,74.3,80.7,High
+ST0037,19,Female,Education,60.3,2.77,7.0,74.4,64.3,54.6,Medium
+ST0038,21,Male,Business Admin,84.2,3.39,9.1,79.3,81.4,87.6,High
+ST0039,20,Female,Engineering,98.9,3.21,4.0,83.5,94.4,87.9,High
+ST0040,29,Female,Economics,80.1,2.41,6.0,67.1,70.6,85.0,Medium
+ST0041,28,Male,Computer Science,87.8,3.07,7.6,78.7,75.8,79.2,High
+ST0042,29,Female,Computer Science,88.0,3.6,8.3,83.2,86.6,71.1,High
+ST0043,29,Male,Education,77.2,3.35,8.0,89.0,82.1,79.5,High
+ST0044,27,Female,Accounting,91.1,3.57,9.5,77.3,60.5,76.9,High
+ST0045,19,Female,Law,81.7,3.29,5.2,64.0,53.8,54.8,Medium
+ST0046,18,Female,Business Admin,70.6,2.62,5.0,68.0,45.6,35.0,Medium
+ST0047,25,Female,Business Admin,45.9,1.83,1.3,57.4,41.9,41.6,Low
+ST0048,24,Female,Engineering,94.7,3.99,10.3,88.0,79.2,74.5,High
+ST0049,22,Male,Medicine,53.7,1.73,5.7,28.1,50.0,44.2,Low
+ST0050,26,Male,Business Admin,75.0,2.55,5.6,60.2,65.0,66.1,Medium
+ST0051,28,Male,Computer Science,79.8,1.84,4.8,62.2,65.4,57.6,Medium
+ST0052,22,Male,Economics,82.5,2.51,5.2,77.5,57.6,59.9,Medium
+ST0053,23,Female,Business Admin,95.8,3.38,4.7,84.0,87.9,67.2,High
+ST0054,25,Female,Engineering,60.0,2.24,0.0,28.8,33.3,35.8,Low
+ST0055,28,Female,Computer Science,100.0,3.57,7.6,81.7,84.3,78.4,High
+ST0056,27,Female,Economics,44.1,1.6,2.5,28.1,42.7,55.0,Low
+ST0057,24,Female,Computer Science,59.0,3.43,2.7,70.5,66.4,55.6,Medium
+ST0058,29,Female,Education,90.6,3.79,6.8,80.8,80.3,82.7,High
+ST0059,19,Male,Law,49.7,1.72,1.7,56.5,11.5,56.4,Low
+ST0060,28,Female,Computer Science,81.5,2.78,3.3,66.0,60.1,59.8,Medium
+ST0061,22,Male,Education,88.4,3.7,8.2,69.1,74.3,79.3,High
+ST0062,20,Male,Computer Science,92.4,3.43,9.1,86.6,79.3,68.1,High
+ST0063,28,Female,Engineering,99.9,3.53,9.6,90.4,83.7,82.4,High
+ST0064,29,Male,Law,84.1,3.74,11.8,82.5,73.2,71.5,High
+ST0065,19,Male,Accounting,87.9,3.78,4.0,98.0,74.2,79.9,High
+ST0066,20,Female,Computer Science,53.3,3.2,3.6,69.9,40.3,66.9,Medium
+ST0067,27,Female,Law,72.1,2.42,4.2,68.9,61.1,63.8,Medium
+ST0068,20,Female,Medicine,88.2,2.84,3.2,48.7,58.1,67.2,Medium
+ST0069,28,Female,Business Admin,57.5,2.8,2.5,65.6,68.9,53.8,Medium
+ST0070,24,Male,Medicine,67.2,3.66,9.9,85.2,89.9,69.4,High
+ST0071,25,Female,Medicine,54.2,2.93,4.0,61.2,63.5,53.1,Medium
+ST0072,25,Female,Accounting,43.9,1.92,0.4,27.0,46.2,24.2,Low
+ST0073,27,Female,Medicine,62.2,2.02,1.1,48.8,30.6,33.5,Low
+ST0074,27,Male,Education,86.6,2.11,3.8,64.3,78.0,61.8,Medium
+ST0075,22,Female,Accounting,92.5,3.63,5.8,88.3,87.8,84.4,High
+ST0076,23,Male,Law,69.5,3.65,11.2,90.0,86.5,77.4,High
+ST0077,20,Male,Computer Science,46.9,2.24,1.2,46.5,22.4,23.3,Low
+ST0078,20,Female,Economics,64.7,2.37,3.0,41.1,9.3,37.1,Low
+ST0079,22,Female,Computer Science,47.2,2.05,2.7,55.0,38.6,65.0,Low
+ST0080,25,Male,Medicine,24.0,2.5,1.7,16.6,43.0,34.4,Low
+ST0081,23,Female,Economics,57.1,3.21,5.0,75.5,57.9,53.3,Medium
+ST0082,28,Female,Computer Science,72.3,2.84,3.7,57.0,47.7,53.7,Medium
+ST0083,25,Female,Law,96.1,3.54,6.1,86.8,74.6,76.1,High
+ST0084,22,Female,Medicine,73.6,2.78,6.4,70.6,62.6,54.4,Medium
+ST0085,17,Male,Engineering,62.4,2.42,5.7,61.5,60.3,50.4,Medium
+ST0086,28,Male,Business Admin,86.2,3.32,10.8,90.3,65.2,70.6,High
+ST0087,27,Female,Business Admin,51.0,1.18,0.6,28.0,40.5,38.8,Low
+ST0088,18,Female,Education,66.5,2.69,8.3,75.4,47.0,66.3,Medium
+ST0089,28,Male,Medicine,61.7,1.33,3.2,58.5,24.5,27.0,Low
+ST0090,28,Female,Law,58.6,2.07,2.6,24.1,50.6,52.0,Low
+ST0091,26,Female,Education,75.8,3.75,10.1,81.5,89.0,75.3,High
+ST0092,20,Male,Computer Science,71.8,2.73,5.5,58.3,58.7,66.3,Medium
+ST0093,21,Female,Economics,55.2,1.14,3.8,52.4,45.0,24.5,Low
+ST0094,23,Female,Education,62.3,2.05,5.9,48.5,42.8,70.7,Medium
+ST0095,23,Female,Education,70.7,1.84,6.8,55.1,63.3,35.0,Medium
+ST0096,28,Male,Education,95.8,3.37,6.2,79.3,75.2,86.6,High
+ST0097,18,Female,Law,47.0,2.5,2.5,50.7,38.0,53.3,Low
+ST0098,22,Male,Law,47.2,2.5,4.2,40.0,22.5,43.1,Low
+ST0099,21,Male,Law,84.2,3.59,7.6,74.8,85.9,76.7,High
+ST0100,26,Female,Law,80.6,3.18,4.6,74.7,59.0,65.8,Medium
+ST0101,21,Male,Engineering,69.3,2.86,5.2,63.3,66.2,52.3,Medium
+ST0102,25,Female,Engineering,76.7,3.37,7.5,73.3,76.2,86.3,High
+ST0103,20,Male,Accounting,85.4,3.84,4.3,73.6,61.4,69.5,High
+ST0104,22,Male,Computer Science,87.9,2.61,5.2,73.2,53.2,67.6,Medium
+ST0105,27,Male,Accounting,87.7,2.57,7.2,80.3,57.5,54.6,Medium
+ST0106,25,Male,Education,81.5,3.33,11.4,75.7,82.1,78.3,High
+ST0107,29,Female,Engineering,75.8,3.12,8.0,56.8,53.8,47.4,Medium
+ST0108,29,Male,Computer Science,87.7,4.0,8.8,87.8,80.1,81.2,High
+ST0109,29,Female,Economics,96.7,3.81,11.1,84.6,72.7,91.7,High
+ST0110,22,Female,Business Admin,78.4,2.94,6.8,72.7,57.8,74.3,Medium
+ST0111,19,Male,Education,47.3,1.56,3.6,65.0,33.7,52.6,Low
+ST0112,20,Female,Medicine,97.9,3.46,8.9,82.5,86.8,60.0,High
+ST0113,19,Male,Education,44.7,2.01,3.8,34.1,15.5,45.4,Low
+ST0114,27,Female,Education,65.8,2.73,3.8,39.9,69.0,70.7,Medium
+ST0115,25,Female,Computer Science,93.2,3.26,8.6,81.9,84.8,83.3,High
+ST0116,21,Male,Medicine,86.0,2.97,6.5,68.2,48.6,58.6,Medium
+ST0117,23,Female,Law,82.2,3.76,9.3,81.1,82.8,79.7,High
+ST0118,29,Female,Economics,94.3,3.69,12.7,90.9,79.3,68.3,High
+ST0119,28,Female,Economics,65.7,2.4,3.5,55.1,68.5,56.4,Medium
+ST0120,22,Female,Business Admin,74.2,2.61,7.3,57.8,71.1,64.0,Medium
+ST0121,29,Female,Accounting,54.1,2.18,0.2,29.3,45.2,26.6,Low
+ST0122,20,Female,Medicine,80.5,2.31,6.1,68.3,53.0,63.8,Medium
+ST0123,22,Male,Education,79.9,3.01,9.7,69.5,80.8,75.9,High
+ST0124,22,Male,Medicine,68.7,3.09,5.7,65.2,64.7,42.6,Medium
+ST0125,29,Male,Medicine,78.0,3.22,5.0,60.1,42.4,64.4,Medium
+ST0126,20,Male,Accounting,70.1,2.79,4.5,56.7,62.4,62.8,Medium
+ST0127,20,Female,Accounting,70.0,2.8,4.7,68.6,43.5,43.2,Medium
+ST0128,27,Female,Accounting,95.1,3.95,9.5,73.4,88.4,79.6,High
+ST0129,26,Female,Computer Science,100.0,4.0,4.0,71.1,89.1,77.9,High
+ST0130,23,Female,Accounting,78.5,2.8,4.1,72.6,62.0,64.5,Medium
+ST0131,18,Male,Economics,71.3,2.08,1.5,55.3,22.2,64.8,Low
+ST0132,29,Male,Law,52.1,1.98,6.2,64.7,64.4,59.3,Medium
+ST0133,20,Male,Economics,76.4,3.22,5.3,59.0,61.9,49.6,Medium
+ST0134,29,Female,Economics,73.6,2.76,2.2,68.4,68.3,74.4,Medium
+ST0135,23,Female,Accounting,78.3,2.48,6.8,55.7,62.5,66.2,Medium
+ST0136,22,Female,Economics,83.9,3.54,8.6,76.0,78.6,65.6,High
+ST0137,24,Male,Economics,86.0,3.53,8.9,85.8,87.0,72.8,High
+ST0138,22,Female,Accounting,68.2,2.57,7.7,50.6,56.2,61.3,Medium
+ST0139,22,Female,Economics,67.1,2.69,6.1,70.5,49.3,61.6,Medium
+ST0140,26,Female,Engineering,56.2,1.4,1.9,18.7,37.0,28.0,Low
+ST0141,17,Female,Accounting,41.6,1.21,1.2,26.9,40.6,38.3,Low
+ST0142,22,Female,Accounting,87.2,2.94,1.0,81.9,67.5,77.6,Medium
+ST0143,24,Male,Computer Science,54.5,1.77,2.6,31.5,43.2,6.5,Low
+ST0144,28,Female,Computer Science,52.5,2.5,2.1,60.7,34.8,50.0,Low
+ST0145,22,Female,Education,63.2,3.18,5.5,59.8,35.0,55.5,Medium
+ST0146,27,Male,Business Admin,88.5,3.73,8.3,74.0,75.7,87.6,High
+ST0147,26,Female,Accounting,76.0,2.99,6.0,52.2,53.2,51.2,Medium
+ST0148,29,Male,Engineering,55.6,2.09,4.0,48.3,36.3,23.8,Low
+ST0149,17,Female,Law,73.4,3.03,6.5,72.0,73.7,64.1,Medium
+ST0150,20,Female,Medicine,83.8,4.0,8.2,85.1,81.1,61.0,High
+ST0151,19,Female,Economics,77.1,3.5,1.0,79.2,57.1,60.9,Medium
+ST0152,24,Male,Business Admin,45.2,2.06,0.0,49.0,33.0,24.4,Low
+ST0153,23,Female,Education,66.6,2.94,3.5,69.6,66.9,76.5,Medium
+ST0154,19,Male,Economics,73.0,3.32,3.6,69.5,58.1,57.4,Medium
+ST0155,23,Female,Medicine,87.1,3.66,12.2,89.9,87.0,74.4,High
+ST0156,27,Female,Engineering,63.1,3.18,6.8,76.7,54.0,55.7,Medium
+ST0157,24,Male,Law,96.0,3.46,10.3,80.5,82.6,68.8,High
+ST0158,24,Female,Business Admin,53.0,0.4,1.7,20.4,52.5,47.3,Low
+ST0159,23,Female,Medicine,65.5,2.66,7.2,60.9,68.4,48.3,Medium
+ST0160,19,Male,Computer Science,42.3,2.41,1.1,36.1,58.0,32.8,Low
+ST0161,26,Male,Medicine,74.3,2.9,4.9,49.0,63.5,50.7,Medium
+ST0162,28,Female,Medicine,79.8,3.35,1.4,75.7,55.9,56.7,Medium
+ST0163,26,Male,Computer Science,80.7,3.66,9.1,90.6,74.1,91.3,High
+ST0164,27,Female,Law,86.6,3.51,8.5,83.3,78.3,72.9,High
+ST0165,28,Male,Engineering,75.2,2.71,6.4,71.9,69.9,61.2,Medium
+ST0166,23,Female,Law,78.8,3.12,1.9,65.8,73.7,54.4,Medium
+ST0167,25,Female,Education,83.4,3.47,6.0,83.0,80.2,79.6,High
+ST0168,29,Male,Computer Science,55.3,2.12,1.3,45.0,39.0,30.4,Low
+ST0169,29,Male,Computer Science,60.4,1.78,0.1,43.2,40.8,25.0,Low
+ST0170,26,Male,Education,81.0,3.4,8.7,75.9,85.1,79.2,High
+ST0171,28,Male,Business Admin,66.3,2.5,2.8,37.5,32.7,44.6,Low
+ST0172,23,Male,Computer Science,64.4,2.5,3.1,26.9,30.4,15.7,Low
+ST0173,20,Female,Economics,88.0,2.66,9.7,81.6,51.0,50.9,Medium
+ST0174,27,Male,Accounting,78.4,3.51,9.3,90.1,80.1,65.4,High
+ST0175,18,Male,Law,56.2,1.77,4.1,57.2,55.6,31.3,Low
+ST0176,26,Male,Medicine,88.3,2.6,4.4,64.7,61.5,70.5,Medium
+ST0177,21,Female,Education,79.3,2.71,6.3,57.3,83.5,35.0,Medium
+ST0178,22,Male,Computer Science,69.7,2.77,8.0,55.1,73.1,46.2,Medium
+ST0179,17,Male,Computer Science,98.8,3.46,9.1,79.3,90.3,86.7,High
+ST0180,28,Male,Economics,76.4,2.34,3.6,51.7,37.5,70.6,Medium
+ST0181,19,Male,Law,100.0,3.46,7.3,80.2,70.9,80.8,High
+ST0182,18,Female,Business Admin,47.5,1.65,1.1,38.7,39.0,31.8,Low
+ST0183,29,Female,Education,70.2,2.81,3.6,72.0,61.0,53.0,Medium
+ST0184,24,Male,Law,31.2,2.07,0.5,51.2,35.1,47.4,Low
+ST0185,29,Female,Law,91.5,3.74,7.6,76.3,79.1,70.8,High
+ST0186,26,Male,Law,64.7,3.49,6.9,68.9,70.1,78.9,High
+ST0187,18,Male,Medicine,83.1,3.74,8.1,76.4,70.8,64.0,High
+ST0188,25,Male,Business Admin,30.7,2.36,1.1,48.9,22.8,24.9,Low
+ST0189,21,Male,Education,80.6,2.94,4.1,65.6,50.5,59.1,Medium
+ST0190,26,Female,Economics,63.6,2.83,4.9,57.3,49.7,58.1,Medium
+ST0191,24,Female,Economics,88.3,4.0,8.3,94.0,96.9,70.4,High
+ST0192,28,Male,Computer Science,70.8,2.81,1.7,56.7,65.6,82.3,Medium
+ST0193,20,Male,Engineering,57.9,2.79,7.4,68.4,64.6,71.1,Medium
+ST0194,26,Male,Law,83.8,3.52,7.0,79.2,79.8,75.0,High
+ST0195,18,Male,Computer Science,84.4,3.32,6.5,49.4,56.4,55.3,Medium
+ST0196,18,Male,Medicine,32.9,2.5,3.8,45.7,37.3,52.7,Low
+ST0197,21,Female,Law,87.5,4.0,11.3,86.1,90.0,74.6,High
+ST0198,26,Male,Economics,51.3,1.8,3.8,42.0,41.2,34.1,Low
+ST0199,23,Male,Business Admin,95.0,3.81,10.7,78.0,90.4,92.7,High
+ST0200,23,Female,Accounting,81.6,3.49,7.9,81.4,85.1,80.3,High
+ST0201,27,Male,Economics,74.0,2.7,4.9,70.0,39.9,57.9,Medium
+ST0202,22,Female,Law,61.9,2.37,6.2,43.0,73.3,60.3,Medium
+ST0203,29,Male,Economics,76.9,3.42,8.4,77.0,79.7,80.2,High
+ST0204,29,Female,Computer Science,45.3,2.41,0.8,20.4,52.5,51.7,Low
+ST0205,20,Male,Business Admin,62.8,2.93,8.5,69.0,70.4,66.2,Medium
+ST0206,19,Male,Economics,79.5,3.38,4.1,44.6,70.5,61.5,Medium
+ST0207,27,Female,Business Admin,95.0,2.54,3.3,62.9,71.8,80.8,Medium
+ST0208,28,Female,Economics,72.4,3.1,3.7,46.7,76.9,68.9,Medium
+ST0209,21,Male,Economics,79.2,3.64,11.0,88.0,83.7,76.6,High
+ST0210,26,Male,Education,66.9,3.15,5.2,65.5,62.0,63.0,Medium
+ST0211,29,Male,Medicine,86.3,2.9,6.5,44.4,70.7,52.8,Medium
+ST0212,22,Female,Education,62.2,2.8,4.7,72.6,75.1,72.8,Medium
+ST0213,25,Female,Law,49.3,2.32,3.7,66.1,54.8,53.1,Medium
+ST0214,20,Female,Education,63.6,2.6,4.6,62.8,75.0,67.1,Medium
+ST0215,27,Female,Education,81.8,3.52,8.3,77.9,82.2,63.1,High
+ST0216,21,Male,Economics,85.8,3.51,9.3,90.2,77.4,85.5,High
+ST0217,28,Female,Engineering,85.4,3.01,6.1,82.1,88.2,72.8,High
+ST0218,24,Male,Law,80.3,3.42,6.7,91.4,92.3,65.4,High
+ST0219,21,Male,Medicine,76.0,2.6,1.9,73.5,63.6,43.3,Medium
+ST0220,27,Female,Computer Science,69.8,2.69,8.2,59.4,57.4,44.4,Medium
+ST0221,28,Male,Computer Science,64.3,2.8,1.0,46.9,58.9,59.2,Medium
+ST0222,26,Female,Engineering,59.1,2.92,5.3,55.9,61.4,73.9,Medium
+ST0223,22,Male,Education,87.1,3.36,8.2,78.7,76.2,68.0,High
+ST0224,21,Male,Economics,16.8,2.5,3.6,35.5,38.2,23.9,Low
+ST0225,21,Male,Engineering,89.0,3.5,5.3,72.2,61.8,44.6,Medium
+ST0226,25,Male,Accounting,84.4,3.53,8.8,81.4,80.4,69.5,High
+ST0227,24,Female,Medicine,95.8,2.97,11.3,93.1,77.6,57.2,High
+ST0228,29,Male,Medicine,61.9,2.59,8.1,68.6,50.8,42.0,Medium
+ST0229,29,Male,Computer Science,77.0,2.59,6.0,81.4,68.2,57.5,Medium
+ST0230,27,Female,Accounting,95.9,3.73,11.4,73.1,98.5,76.6,High
+ST0231,17,Female,Business Admin,66.0,3.13,3.5,76.0,52.4,58.4,Medium
+ST0232,28,Female,Medicine,69.5,2.37,1.0,73.0,61.6,58.1,Medium
+ST0233,19,Female,Business Admin,58.1,2.5,0.4,37.8,17.0,24.9,Low
+ST0234,23,Female,Law,93.9,4.0,8.6,86.2,85.9,68.2,High
+ST0235,21,Female,Accounting,83.7,3.81,7.8,81.7,71.7,87.8,High
+ST0236,28,Female,Computer Science,72.6,2.24,4.7,51.4,65.9,55.4,Medium
+ST0237,27,Female,Economics,83.6,3.31,10.7,80.6,77.5,76.4,High
+ST0238,17,Male,Law,74.1,2.39,3.2,75.8,56.4,52.5,Medium
+ST0239,25,Female,Business Admin,39.3,1.89,0.0,49.8,52.1,43.8,Low
+ST0240,25,Female,Education,81.4,3.25,8.2,78.8,76.0,88.2,High
+ST0241,25,Male,Medicine,43.7,1.97,1.4,44.8,49.0,47.0,Low
+ST0242,19,Female,Law,75.3,4.0,8.2,88.3,71.8,70.7,High
+ST0243,24,Female,Accounting,95.0,2.21,7.5,73.5,50.3,68.1,Medium
+ST0244,26,Female,Computer Science,75.4,2.71,3.4,54.8,80.5,58.0,Medium
+ST0245,23,Male,Engineering,81.8,3.92,6.3,78.7,80.3,78.9,High
+ST0246,23,Female,Accounting,93.5,3.82,7.0,79.7,89.6,85.2,High
+ST0247,27,Male,Education,52.2,2.82,8.8,52.5,51.7,65.6,Medium
+ST0248,23,Male,Business Admin,92.8,3.41,8.5,88.0,83.4,80.1,High
+ST0249,24,Male,Economics,87.0,3.74,8.0,80.5,72.1,77.7,High
+ST0250,25,Female,Engineering,55.1,2.01,3.2,34.8,42.9,44.6,Low
+ST0251,19,Male,Medicine,73.5,2.95,5.0,41.1,61.6,80.1,Medium
+ST0252,20,Male,Education,75.7,2.92,7.4,49.4,67.3,63.9,Medium
+ST0253,24,Female,Computer Science,96.2,3.86,6.7,88.6,79.5,78.6,High
+ST0254,18,Male,Law,83.9,2.77,2.8,58.1,61.8,70.3,Medium
+ST0255,19,Female,Accounting,75.0,2.03,3.9,38.2,44.4,48.1,Low
+ST0256,22,Female,Accounting,57.4,2.01,1.4,30.5,41.8,25.9,Low
+ST0257,29,Male,Economics,70.0,2.57,4.2,67.2,69.6,72.5,Medium
+ST0258,23,Female,Accounting,52.7,2.07,2.3,19.9,33.6,33.6,Low
+ST0259,25,Female,Law,69.8,2.41,4.7,55.6,35.0,44.0,Medium
+ST0260,23,Female,Law,47.7,2.45,5.9,70.8,55.8,51.2,Medium
+ST0261,25,Male,Computer Science,84.2,3.12,6.7,57.3,71.1,38.5,Medium
+ST0262,27,Male,Engineering,73.3,2.42,1.4,63.1,65.5,65.0,Medium
+ST0263,27,Female,Medicine,80.6,3.83,6.9,90.9,79.3,77.6,High
+ST0264,24,Female,Law,79.7,2.47,6.5,53.9,67.9,43.7,Medium
+ST0265,26,Female,Medicine,95.0,3.93,9.4,83.3,85.6,87.0,High
+ST0266,25,Male,Medicine,71.9,2.92,5.5,45.7,62.9,52.4,Medium
+ST0267,29,Female,Medicine,35.9,1.98,1.0,38.7,30.6,23.0,Low
+ST0268,26,Male,Education,59.4,2.3,3.8,41.6,53.2,26.3,Low
+ST0269,18,Female,Law,62.9,2.13,2.3,45.3,26.5,23.6,Low
+ST0270,28,Female,Engineering,100.0,3.55,8.6,73.2,68.1,77.3,High
+ST0271,19,Female,Engineering,68.6,2.8,5.2,85.0,56.6,73.8,Medium
+ST0272,21,Male,Business Admin,72.3,2.01,6.3,70.1,50.1,62.2,Medium
+ST0273,25,Female,Engineering,36.8,1.0,1.4,38.5,33.2,23.8,Low
+ST0274,19,Male,Engineering,84.8,3.68,8.9,83.5,74.6,87.4,High
+ST0275,25,Male,Education,87.5,1.81,6.4,67.4,64.7,60.2,Medium
+ST0276,28,Male,Engineering,77.4,2.89,7.3,66.2,65.1,76.7,Medium
+ST0277,27,Female,Economics,52.9,2.01,3.1,41.3,47.1,65.0,Low
+ST0278,26,Female,Economics,86.1,2.74,4.3,70.0,48.9,69.5,Medium
+ST0279,25,Male,Computer Science,66.0,2.25,3.9,59.4,49.4,57.5,Medium
+ST0280,18,Female,Medicine,93.3,3.36,11.0,83.0,92.4,97.3,High
+ST0281,20,Female,Accounting,69.5,3.04,7.7,55.5,63.8,56.6,Medium
+ST0282,26,Male,Computer Science,69.6,2.13,6.5,53.7,58.6,65.9,Medium
+ST0283,17,Male,Business Admin,83.4,2.73,10.4,80.0,92.1,81.2,High
+ST0284,20,Female,Law,97.2,3.53,11.4,77.6,81.3,82.6,High
+ST0285,20,Male,Computer Science,68.4,3.45,7.7,43.9,82.6,51.2,Medium
+ST0286,19,Female,Law,68.6,2.7,4.2,85.0,59.2,55.0,Medium
+ST0287,24,Female,Medicine,100.0,3.16,7.8,89.5,80.3,82.4,High
+ST0288,27,Female,Accounting,48.8,1.73,3.4,45.5,23.8,40.1,Low
+ST0289,22,Male,Medicine,95.1,3.83,9.1,85.1,90.0,67.3,High
+ST0290,19,Male,Business Admin,85.2,3.37,9.8,91.8,75.2,58.9,High
+ST0291,25,Female,Law,68.5,1.35,3.2,33.5,47.9,46.2,Low
+ST0292,29,Male,Education,53.9,0.98,3.0,46.0,42.9,40.3,Low
+ST0293,19,Male,Accounting,81.0,2.37,7.6,63.3,61.3,56.2,Medium
+ST0294,18,Male,Law,60.5,2.94,7.9,47.0,60.8,59.2,Medium
+ST0295,21,Female,Law,83.2,3.4,4.5,85.0,39.4,61.6,Medium
+ST0296,21,Female,Medicine,45.7,2.15,1.8,30.1,28.9,61.2,Low
+ST0297,22,Female,Education,92.4,3.54,9.0,88.6,89.5,71.1,High
+ST0298,26,Female,Law,59.2,1.78,2.0,36.8,36.7,58.5,Low
+ST0299,25,Male,Medicine,75.0,2.09,1.9,20.9,28.9,36.5,Low
+ST0300,27,Female,Computer Science,82.3,3.42,12.2,82.2,80.9,72.6,High
+ST0301,18,Male,Engineering,97.4,3.54,8.0,69.4,79.5,73.6,High
+ST0302,27,Female,Engineering,59.6,2.35,4.4,53.8,62.2,54.7,Medium
+ST0303,19,Male,Business Admin,90.2,3.9,6.9,90.0,74.2,95.2,High
+ST0304,29,Male,Business Admin,62.4,2.34,6.7,61.7,69.3,80.0,Medium
+ST0305,18,Male,Accounting,54.3,2.47,0.6,40.4,54.4,18.4,Low
+ST0306,21,Female,Business Admin,89.0,3.81,9.4,73.9,76.0,89.4,High
+ST0307,20,Female,Computer Science,74.5,3.12,4.2,54.3,67.6,69.3,Medium
+ST0308,29,Male,Economics,78.6,2.4,1.8,58.7,71.7,56.1,Medium
+ST0309,21,Female,Education,76.0,2.97,2.0,53.0,60.1,52.4,Medium
+ST0310,23,Female,Economics,80.7,3.69,7.7,58.9,95.5,69.4,High
+ST0311,23,Male,Medicine,81.1,3.11,7.5,76.8,78.9,75.0,High
+ST0312,18,Female,Medicine,86.5,3.33,5.9,68.6,80.6,63.7,Medium
+ST0313,26,Male,Business Admin,79.1,3.59,7.4,74.0,72.9,66.6,High
+ST0314,25,Female,Accounting,73.2,2.55,8.4,72.0,77.0,51.2,Medium
+ST0315,24,Male,Engineering,69.2,2.84,5.3,61.6,60.7,35.0,Medium
+ST0316,20,Female,Computer Science,85.4,2.95,4.7,73.0,36.4,52.9,Medium
+ST0317,23,Male,Medicine,81.9,3.59,4.6,92.6,78.0,80.6,High
+ST0318,20,Male,Medicine,29.7,1.96,3.7,38.8,26.6,30.8,Low
+ST0319,26,Male,Education,83.4,2.62,5.0,60.0,56.1,56.5,Medium
+ST0320,21,Male,Computer Science,85.4,2.41,2.9,62.6,61.1,61.8,Medium
+ST0321,20,Female,Law,67.2,2.94,9.7,54.8,55.8,57.4,Medium
+ST0322,22,Female,Accounting,91.2,3.68,11.6,62.6,60.9,74.0,High
+ST0323,22,Female,Business Admin,83.0,2.17,1.0,67.7,62.4,47.1,Medium
+ST0324,29,Female,Economics,73.1,2.55,6.0,35.0,51.4,46.7,Medium
+ST0325,17,Male,Engineering,80.0,2.06,5.1,67.6,78.6,53.2,Medium
+ST0326,24,Male,Medicine,75.2,2.08,1.0,70.4,59.9,69.8,Medium
+ST0327,24,Female,Accounting,100.0,3.73,9.6,82.1,67.4,88.8,High
+ST0328,22,Female,Law,56.4,2.33,7.9,58.5,74.5,57.2,Medium
+ST0329,18,Female,Economics,44.9,2.25,2.0,21.5,40.0,64.4,Low
+ST0330,18,Male,Engineering,64.9,2.01,2.3,26.9,40.8,50.4,Low
+ST0331,18,Male,Medicine,84.9,3.42,12.3,86.9,82.1,70.2,High
+ST0332,23,Male,Law,80.8,3.0,6.4,58.7,56.6,54.5,Medium
+ST0333,22,Female,Accounting,56.3,2.31,4.8,42.1,49.9,52.1,Medium
+ST0334,19,Female,Accounting,58.8,1.95,5.6,62.5,67.8,46.9,Medium
+ST0335,22,Female,Engineering,69.5,2.8,5.7,61.9,52.8,42.7,Medium
+ST0336,17,Female,Economics,56.7,1.81,0.9,44.2,37.6,28.8,Low
+ST0337,21,Male,Medicine,40.1,2.37,3.2,51.2,38.1,35.1,Low
+ST0338,24,Male,Economics,69.8,3.21,1.4,56.9,51.1,71.6,Medium
+ST0339,28,Female,Engineering,54.7,1.71,1.2,32.1,29.6,46.5,Low
+ST0340,29,Female,Computer Science,61.0,2.73,5.5,65.0,61.6,48.8,Medium
+ST0341,26,Female,Engineering,36.3,0.92,2.2,19.5,28.3,44.6,Low
+ST0342,25,Female,Accounting,84.5,3.58,5.4,78.4,76.4,79.2,High
+ST0343,28,Male,Economics,66.0,2.93,6.3,67.8,55.9,60.8,Medium
+ST0344,21,Female,Business Admin,74.3,2.39,4.6,10.1,39.2,34.1,Low
+ST0345,22,Female,Engineering,91.2,3.06,9.8,75.8,76.0,81.5,High
+ST0346,29,Female,Law,72.8,3.22,3.1,61.2,68.9,61.6,Medium
+ST0347,26,Male,Business Admin,47.1,1.59,2.9,38.2,51.5,42.4,Low
+ST0348,17,Female,Business Admin,80.8,3.88,6.2,91.8,82.6,76.7,High
+ST0349,23,Female,Business Admin,79.6,3.0,7.7,75.2,63.5,49.3,Medium
+ST0350,21,Female,Engineering,83.7,3.58,11.2,78.3,77.0,92.8,High
+ST0351,22,Female,Business Admin,79.8,2.78,2.2,72.4,52.5,58.4,Medium
+ST0352,24,Male,Accounting,25.7,1.73,3.7,55.2,26.1,49.0,Low
+ST0353,23,Male,Engineering,85.4,3.63,11.0,84.1,79.0,85.7,High
+ST0354,22,Male,Business Admin,82.0,3.01,4.1,46.9,63.1,42.2,Medium
+ST0355,29,Female,Accounting,49.2,1.93,2.2,61.6,57.5,53.6,Low
+ST0356,23,Female,Economics,96.9,3.84,10.3,85.2,76.8,68.0,High
+ST0357,17,Female,Medicine,52.9,1.37,1.8,37.4,37.3,43.9,Low
+ST0358,18,Female,Law,95.8,3.94,9.6,87.3,87.9,69.2,High
+ST0359,26,Female,Engineering,43.7,2.0,0.0,42.1,49.8,18.2,Low
+ST0360,20,Female,Computer Science,74.1,2.58,6.1,72.2,66.5,58.0,Medium
+ST0361,29,Female,Computer Science,46.3,1.87,3.0,48.3,44.6,22.6,Low
+ST0362,17,Female,Business Admin,60.0,1.52,2.7,36.6,15.5,49.2,Low
+ST0363,20,Male,Medicine,55.3,2.68,4.6,64.7,46.7,63.4,Medium
+ST0364,23,Male,Engineering,88.7,3.19,7.5,81.6,75.8,86.2,High
+ST0365,20,Male,Medicine,80.2,3.61,6.2,64.2,85.8,82.0,High
+ST0366,28,Female,Accounting,83.0,3.45,8.4,74.8,74.3,72.5,High
+ST0367,27,Female,Engineering,76.2,1.69,4.5,51.1,49.5,52.7,Medium
+ST0368,20,Female,Accounting,61.1,3.12,4.6,63.4,61.3,58.9,Medium
+ST0369,18,Male,Computer Science,63.1,2.86,6.4,61.2,55.2,80.9,Medium
+ST0370,17,Female,Economics,58.6,2.36,6.3,72.4,56.1,39.5,Medium
+ST0371,17,Female,Law,86.7,3.66,9.2,77.5,78.8,72.0,High
+ST0372,18,Male,Business Admin,88.8,3.55,8.0,80.6,81.3,91.8,High
+ST0373,19,Male,Medicine,65.4,2.48,4.6,53.9,64.7,35.0,Medium
+ST0374,26,Female,Economics,84.6,3.15,3.6,69.6,58.3,38.7,Medium
+ST0375,22,Female,Engineering,88.0,4.0,9.4,73.9,87.7,80.9,High
+ST0376,18,Male,Law,62.2,3.13,4.4,62.8,46.6,66.6,Medium
+ST0377,19,Male,Engineering,72.7,1.99,7.9,56.9,60.6,54.9,Medium
+ST0378,21,Female,Engineering,80.3,3.14,2.7,57.8,52.0,38.2,Medium
+ST0379,21,Female,Economics,100.0,3.78,9.1,78.2,80.9,76.0,High
+ST0380,18,Male,Economics,72.7,3.5,2.9,60.3,67.1,54.0,Medium
+ST0381,22,Male,Engineering,100.0,3.8,7.6,83.6,74.4,71.6,High
+ST0382,29,Male,Engineering,94.2,3.02,2.9,63.2,52.0,55.5,Medium
+ST0383,18,Male,Business Admin,82.5,3.81,8.4,72.7,81.6,81.2,High
+ST0384,20,Female,Business Admin,78.1,3.89,7.2,83.6,69.9,83.9,High
+ST0385,27,Female,Education,88.2,3.32,8.9,79.2,81.4,66.0,High
+ST0386,19,Male,Accounting,56.8,2.41,1.7,47.8,41.7,30.7,Low
+ST0387,22,Female,Computer Science,74.9,2.78,7.6,69.9,67.9,60.6,Medium
+ST0388,23,Female,Economics,72.6,2.34,7.4,73.0,48.6,51.6,Medium
+ST0389,23,Female,Law,92.0,3.61,9.5,71.7,83.1,77.2,High
+ST0390,26,Male,Law,72.3,2.94,1.6,62.2,61.2,52.5,Medium
+ST0391,26,Male,Computer Science,55.4,2.17,2.8,52.2,42.1,32.3,Low
+ST0392,19,Male,Law,73.5,3.33,4.3,66.5,52.5,59.9,Medium
+ST0393,17,Male,Engineering,56.3,3.03,6.2,63.7,66.7,49.7,Medium
+ST0394,28,Male,Engineering,82.2,3.02,3.2,51.6,61.1,59.8,Medium
+ST0395,26,Female,Computer Science,72.3,2.75,3.8,64.9,50.8,46.4,Medium
+ST0396,17,Male,Law,58.9,2.07,3.0,60.7,71.5,56.5,Medium
+ST0397,23,Male,Engineering,88.2,3.82,9.1,87.1,88.6,75.4,High
+ST0398,17,Female,Education,97.7,3.59,8.3,91.3,79.2,61.3,High
+ST0399,29,Male,Computer Science,71.3,3.38,3.5,58.9,51.2,52.8,Medium
+ST0400,18,Male,Economics,51.4,1.83,5.2,62.0,29.0,13.5,Low
+ST0401,29,Male,Medicine,81.1,3.36,12.2,79.9,85.3,70.6,High
+ST0402,22,Male,Accounting,43.9,2.48,0.0,43.6,33.7,43.0,Low
+ST0403,18,Male,Law,62.6,3.26,4.9,48.7,66.8,56.0,Medium
+ST0404,23,Male,Accounting,64.1,2.5,1.4,41.7,38.6,55.9,Low
+ST0405,18,Male,Business Admin,42.0,1.18,2.4,59.2,35.6,27.4,Low
+ST0406,23,Male,Education,70.4,3.36,3.4,59.1,63.0,61.9,Medium
+ST0407,24,Male,Accounting,100.0,3.53,9.2,86.9,74.9,78.5,High
+ST0408,19,Male,Engineering,59.8,1.51,3.2,39.8,21.1,35.1,Low
+ST0409,23,Male,Economics,85.0,3.04,7.3,70.7,65.2,84.3,High
+ST0410,17,Female,Medicine,65.2,3.19,7.0,75.7,51.5,62.8,Medium
+ST0411,18,Female,Economics,64.3,3.44,5.5,68.4,51.8,45.8,Medium
+ST0412,24,Male,Accounting,79.5,3.6,5.6,73.0,85.4,82.8,High
+ST0413,22,Female,Business Admin,60.3,2.11,4.1,73.9,60.5,35.8,Medium
+ST0414,23,Male,Engineering,68.7,3.61,7.0,67.3,92.8,69.5,High
+ST0415,23,Male,Economics,88.0,4.0,6.6,79.5,81.0,71.0,High
+ST0416,17,Female,Business Admin,64.4,2.66,4.1,61.0,62.4,63.9,Medium
+ST0417,29,Female,Engineering,70.2,2.88,5.8,62.0,57.1,52.1,Medium
+ST0418,28,Female,Law,100.0,3.96,6.5,88.3,88.2,74.8,High
+ST0419,24,Female,Engineering,87.3,2.95,3.2,68.7,70.6,60.0,Medium
+ST0420,22,Female,Economics,96.5,3.34,11.0,72.3,72.6,89.6,High
+ST0421,18,Female,Medicine,88.4,3.55,9.5,72.3,77.4,78.0,High
+ST0422,26,Female,Engineering,89.6,2.75,2.8,49.1,62.7,44.5,Medium
+ST0423,25,Female,Business Admin,83.4,3.21,3.7,59.9,44.0,37.6,Medium
+ST0424,24,Male,Economics,79.8,2.95,2.1,54.9,51.4,56.3,Medium
+ST0425,23,Male,Economics,90.8,3.67,7.5,84.4,89.0,89.4,High
+ST0426,26,Female,Computer Science,69.6,3.21,2.9,71.1,57.1,72.9,Medium
+ST0427,29,Male,Medicine,86.1,3.76,10.0,78.8,80.7,85.2,High
+ST0428,24,Female,Education,79.7,3.47,11.6,82.1,70.1,88.0,High
+ST0429,19,Female,Accounting,93.8,3.76,10.4,100.0,97.5,72.5,High
+ST0430,26,Male,Education,92.0,3.09,8.7,75.5,86.6,86.6,High
+ST0431,29,Female,Economics,27.1,1.89,3.7,37.8,46.7,42.2,Low
+ST0432,28,Male,Accounting,78.3,3.26,10.4,82.2,78.9,74.6,High
+ST0433,26,Female,Medicine,48.0,1.23,3.1,37.5,38.4,57.3,Low
+ST0434,24,Male,Law,60.2,2.71,6.2,46.4,62.0,59.0,Medium
+ST0435,22,Male,Business Admin,75.3,3.39,3.0,63.4,60.8,47.3,Medium
+ST0436,18,Female,Computer Science,61.0,3.03,2.8,81.6,67.6,42.4,Medium
+ST0437,20,Male,Medicine,72.0,2.59,3.7,63.5,50.7,65.6,Medium
+ST0438,27,Male,Business Admin,79.0,2.94,5.0,68.6,67.9,62.5,Medium
+ST0439,17,Male,Education,48.8,1.16,2.3,56.9,53.0,46.9,Low
+ST0440,24,Male,Medicine,80.4,3.17,2.1,75.3,64.0,57.2,Medium
+ST0441,17,Male,Law,78.1,3.03,10.5,94.4,74.1,64.7,High
+ST0442,27,Male,Business Admin,68.7,2.43,3.7,68.1,59.5,49.7,Medium
+ST0443,23,Male,Law,77.9,3.07,4.3,63.4,65.2,62.3,Medium
+ST0444,23,Male,Computer Science,77.8,2.62,4.1,56.4,66.3,51.8,Medium
+ST0445,27,Female,Law,63.1,2.35,1.7,32.1,33.2,44.4,Low
+ST0446,25,Female,Medicine,88.0,3.93,9.3,79.8,82.6,78.7,High
+ST0447,27,Male,Law,76.1,2.81,7.1,74.1,68.0,49.5,Medium
+ST0448,29,Male,Accounting,29.5,1.83,2.7,19.0,40.8,49.5,Low
+ST0449,26,Female,Medicine,79.9,3.77,8.8,82.6,69.7,88.1,High
+ST0450,19,Female,Computer Science,36.9,1.81,2.3,40.7,46.0,35.7,Low
+ST0451,25,Male,Economics,17.4,1.94,3.9,28.9,26.2,27.9,Low
+ST0452,24,Female,Computer Science,81.1,3.41,1.0,58.2,63.0,60.0,Medium
+ST0453,23,Female,Engineering,20.9,2.5,3.1,33.1,40.1,40.9,Low
+ST0454,26,Male,Economics,66.0,2.86,5.7,82.2,69.6,75.4,Medium
+ST0455,28,Male,Medicine,69.8,2.43,10.9,51.3,55.7,62.2,Medium
+ST0456,26,Male,Computer Science,100.0,3.75,6.9,79.9,82.5,94.5,High
+ST0457,22,Female,Accounting,73.8,3.14,4.8,53.6,67.5,64.5,Medium
+ST0458,18,Male,Computer Science,74.2,3.59,7.3,86.8,78.7,85.5,High
+ST0459,27,Female,Economics,83.6,3.4,5.9,78.0,73.5,74.8,High
+ST0460,22,Male,Computer Science,72.2,3.38,9.9,84.3,73.9,87.4,High
+ST0461,24,Female,Engineering,68.4,2.45,3.8,69.3,63.6,67.7,Medium
+ST0462,26,Male,Engineering,100.0,3.71,10.0,79.0,88.9,69.3,High
+ST0463,26,Female,Economics,92.9,2.98,10.4,73.4,82.2,88.9,High
+ST0464,19,Female,Economics,75.6,4.0,11.2,79.7,74.8,84.7,High
+ST0465,23,Male,Economics,71.8,1.95,2.1,58.8,64.8,50.0,Medium
+ST0466,17,Female,Accounting,69.3,3.29,3.4,63.9,53.4,55.4,Medium
+ST0467,25,Male,Law,75.9,3.53,8.6,86.3,81.8,68.4,High
+ST0468,19,Male,Computer Science,82.8,2.88,5.4,61.9,54.8,60.2,Medium
+ST0469,17,Male,Education,88.4,3.3,6.6,84.6,74.2,77.5,High
+ST0470,21,Female,Education,75.0,2.5,5.6,45.2,27.2,26.0,Low
+ST0471,17,Male,Computer Science,89.0,3.44,8.1,85.1,71.6,80.1,High
+ST0472,26,Male,Computer Science,56.6,3.07,7.7,57.1,40.0,72.3,Medium
+ST0473,19,Female,Economics,75.2,2.53,3.2,53.4,78.6,69.6,Medium
+ST0474,17,Female,Economics,93.1,3.84,5.3,75.5,88.6,72.3,High
+ST0475,27,Female,Education,38.8,1.87,2.6,48.9,65.0,11.0,Low
+ST0476,18,Male,Law,59.3,1.62,1.1,32.6,27.1,58.2,Low
+ST0477,27,Female,Law,57.6,1.81,0.1,20.8,41.7,29.4,Low
+ST0478,23,Male,Law,71.1,2.23,2.1,60.2,49.4,32.3,Low
+ST0479,22,Male,Business Admin,82.6,2.68,1.0,50.2,68.7,74.1,Medium
+ST0480,20,Male,Law,57.8,3.37,5.9,58.7,54.3,64.7,Medium
+ST0481,22,Male,Business Admin,38.3,1.35,1.3,31.7,57.4,32.0,Low
+ST0482,25,Male,Medicine,77.3,3.51,10.2,76.6,87.0,71.8,High
+ST0483,19,Male,Medicine,78.8,2.78,3.0,58.0,35.0,65.8,Medium
+ST0484,22,Male,Computer Science,50.0,0.7,0.0,34.9,22.2,47.5,Low
+ST0485,28,Female,Accounting,46.1,2.5,0.1,58.3,47.4,51.9,Low
+ST0486,29,Male,Medicine,55.6,2.03,2.4,36.7,39.6,50.4,Low
+ST0487,24,Female,Law,81.8,2.41,5.8,71.0,47.6,58.4,Medium
+ST0488,29,Male,Accounting,53.1,1.6,4.1,32.5,47.5,18.1,Low
+ST0489,24,Male,Law,100.0,3.71,8.3,78.0,78.6,91.1,High
+ST0490,19,Male,Education,46.2,2.45,4.9,45.4,39.0,38.4,Low
+ST0491,23,Male,Engineering,89.1,3.73,7.6,78.9,76.7,86.2,High
+ST0492,25,Male,Economics,65.7,2.86,7.4,39.5,75.8,53.9,Medium
+ST0493,25,Female,Education,60.8,1.93,2.4,43.5,30.4,16.9,Low
+ST0494,17,Male,Business Admin,42.6,1.51,4.7,50.3,35.0,46.1,Low
+ST0495,23,Male,Medicine,56.0,2.27,3.2,77.5,70.0,53.4,Medium
+ST0496,29,Female,Law,90.9,3.26,10.5,75.2,86.4,74.6,High
+ST0497,18,Female,Economics,89.4,3.5,10.5,71.3,88.9,76.9,High
+ST0498,25,Female,Economics,92.4,2.99,4.0,75.3,50.3,62.1,Medium
+ST0499,18,Female,Engineering,96.4,3.59,10.5,82.4,65.3,55.0,High
+ST0500,23,Male,Economics,56.8,1.77,5.0,42.8,32.6,42.0,Low
+ST0501,21,Male,Computer Science,59.8,2.8,4.0,50.8,79.8,47.2,Medium
+ST0502,22,Male,Computer Science,89.6,3.91,7.0,63.4,85.4,98.0,High
+ST0503,21,Female,Engineering,71.9,2.88,4.4,77.9,59.2,56.1,Medium
+ST0504,26,Female,Accounting,36.6,2.34,1.1,28.3,63.2,35.9,Low
+ST0505,28,Female,Computer Science,80.9,3.81,9.6,76.7,83.5,73.9,High
+ST0506,17,Male,Computer Science,74.7,2.65,8.0,61.6,52.1,59.6,Medium
+ST0507,23,Male,Engineering,36.5,1.86,2.5,42.3,53.6,65.0,Low
+ST0508,24,Female,Education,78.7,3.27,10.1,51.9,61.3,53.2,Medium
+ST0509,27,Male,Education,75.0,1.4,1.5,42.8,47.4,31.3,Low
+ST0510,25,Female,Law,79.6,2.1,3.8,77.7,74.5,67.4,Medium
+ST0511,19,Female,Engineering,50.4,2.46,0.7,30.3,50.1,37.5,Low
+ST0512,29,Male,Medicine,87.6,3.32,9.0,70.2,76.1,66.5,High
+ST0513,22,Female,Economics,74.2,4.0,14.0,82.4,74.9,100.0,High
+ST0514,26,Male,Computer Science,73.8,3.34,5.7,57.0,50.5,54.6,Medium
+ST0515,29,Male,Education,83.5,3.15,11.5,78.0,69.9,76.7,High
+ST0516,28,Male,Education,48.7,2.0,2.0,36.8,37.3,43.1,Low
+ST0517,17,Male,Medicine,78.2,2.63,9.4,76.9,67.6,38.6,Medium
+ST0518,25,Male,Economics,92.8,3.5,7.0,79.1,73.1,82.1,High
+ST0519,25,Female,Engineering,88.2,3.13,10.5,46.5,54.9,48.6,Medium
+ST0520,22,Male,Economics,73.9,3.05,2.1,55.8,70.0,52.5,Medium
+ST0521,26,Female,Engineering,85.7,3.65,8.9,77.1,87.5,77.0,High
+ST0522,25,Male,Computer Science,74.1,2.58,8.0,58.1,60.7,68.3,Medium
+ST0523,26,Female,Computer Science,52.3,3.07,5.1,67.4,61.8,52.4,Medium
+ST0524,28,Female,Business Admin,77.7,3.99,6.1,89.2,91.9,69.1,High
+ST0525,27,Male,Education,70.3,3.5,2.8,58.9,75.0,54.8,Medium
+ST0526,28,Female,Education,62.6,2.91,6.6,58.1,65.5,44.2,Medium
+ST0527,25,Male,Business Admin,59.1,2.28,0.2,48.7,40.0,27.4,Low
+ST0528,20,Female,Accounting,25.8,2.04,3.3,24.7,46.1,38.6,Low
+ST0529,19,Female,Education,95.0,1.84,4.3,45.0,78.5,55.4,Medium
+ST0530,17,Female,Business Admin,51.9,1.6,0.1,42.0,42.5,46.3,Low
+ST0531,27,Female,Medicine,71.3,3.28,4.8,38.6,47.1,61.3,Medium
+ST0532,29,Female,Computer Science,65.4,2.12,2.9,53.1,55.7,47.5,Medium
+ST0533,17,Female,Business Admin,72.2,3.5,6.1,66.5,78.6,70.5,Medium
+ST0534,28,Female,Economics,44.8,1.06,1.8,40.4,39.9,54.3,Low
+ST0535,21,Female,Business Admin,79.2,3.85,9.4,78.6,64.8,89.6,High
+ST0536,21,Female,Business Admin,56.3,1.3,0.0,14.5,46.7,31.5,Low
+ST0537,26,Female,Medicine,62.8,2.57,5.5,57.3,66.1,48.2,Medium
+ST0538,18,Male,Economics,25.3,1.64,1.5,32.4,52.9,52.7,Low
+ST0539,26,Female,Computer Science,66.3,2.56,3.7,55.0,53.5,54.1,Medium
+ST0540,21,Female,Accounting,75.6,2.44,7.5,52.2,43.8,61.8,Medium
+ST0541,29,Male,Education,48.0,3.36,6.3,47.0,45.2,74.7,Medium
+ST0542,17,Female,Business Admin,49.3,2.66,4.5,69.2,46.0,42.8,Medium
+ST0543,26,Male,Computer Science,75.4,3.92,9.1,90.7,79.4,57.8,High
+ST0544,29,Female,Computer Science,50.2,2.43,0.7,35.3,35.9,3.2,Low
+ST0545,17,Female,Medicine,91.4,3.84,7.9,75.8,83.8,67.4,High
+ST0546,26,Female,Medicine,70.9,3.02,6.0,62.1,68.8,51.3,Medium
+ST0547,24,Male,Accounting,92.1,3.5,6.4,84.1,79.7,65.7,High
+ST0548,26,Male,Business Admin,26.6,1.82,4.4,43.9,30.0,51.0,Low
+ST0549,21,Male,Accounting,60.2,2.34,3.1,34.3,18.4,31.7,Low
+ST0550,21,Male,Computer Science,70.5,2.33,3.9,61.9,64.9,53.4,Medium
+ST0551,25,Male,Education,75.3,2.98,8.1,56.9,59.5,63.5,Medium
+ST0552,21,Male,Computer Science,41.5,2.01,2.0,65.0,39.2,51.9,Low
+ST0553,23,Female,Accounting,75.6,3.67,11.5,84.3,80.6,75.7,High
+ST0554,20,Female,Education,55.8,2.36,3.9,69.8,55.5,60.6,Medium
+ST0555,27,Female,Economics,79.7,3.92,6.2,78.4,79.8,84.1,High
+ST0556,18,Female,Computer Science,69.0,1.49,3.8,52.2,9.2,35.4,Low
+ST0557,17,Female,Law,92.0,3.83,10.9,72.2,82.5,68.1,High
+ST0558,25,Female,Education,79.8,3.77,6.0,91.1,74.7,69.8,High
+ST0559,24,Female,Medicine,85.4,3.12,11.3,75.3,79.5,81.6,High
+ST0560,18,Male,Business Admin,91.8,3.34,13.4,83.6,78.8,85.7,High
+ST0561,23,Female,Engineering,75.0,1.76,1.5,41.4,50.9,19.9,Low
+ST0562,23,Male,Computer Science,52.3,2.57,1.7,57.8,65.0,49.1,Medium
+ST0563,29,Male,Education,80.6,2.12,6.6,70.2,69.5,70.2,Medium
+ST0564,21,Female,Economics,88.9,3.48,9.0,94.3,69.2,71.1,High
+ST0565,17,Female,Law,99.7,3.46,8.0,74.3,86.0,78.2,High
+ST0566,23,Male,Business Admin,74.7,2.74,5.6,49.8,76.4,61.8,Medium
+ST0567,25,Male,Law,60.7,2.36,4.3,67.3,66.6,59.4,Medium
+ST0568,20,Male,Education,79.4,3.99,10.5,92.2,76.4,76.9,High
+ST0569,21,Male,Education,74.3,3.43,2.4,55.4,52.3,57.1,Medium
+ST0570,24,Male,Accounting,50.4,2.29,2.1,43.6,42.8,40.9,Low
+ST0571,27,Female,Economics,93.6,3.56,12.3,100.0,85.6,79.8,High
+ST0572,25,Male,Medicine,89.4,3.38,10.0,76.2,77.2,63.0,High
+ST0573,28,Male,Engineering,41.6,2.43,0.6,45.4,28.9,42.6,Low
+ST0574,28,Female,Accounting,63.5,3.15,5.9,49.7,58.0,50.3,Medium
+ST0575,29,Female,Law,57.6,3.13,3.4,59.5,60.3,76.2,Medium
+ST0576,24,Male,Medicine,78.6,3.23,9.1,82.2,57.3,87.3,High
+ST0577,19,Female,Computer Science,70.9,3.56,11.7,99.7,77.1,66.5,High
+ST0578,18,Male,Business Admin,84.1,3.42,7.6,79.2,82.5,73.5,High
+ST0579,27,Male,Computer Science,67.2,2.21,4.2,85.0,38.6,51.7,Medium
+ST0580,22,Male,Education,83.4,3.66,9.9,83.1,94.3,80.7,High
+ST0581,19,Female,Education,71.7,3.24,7.0,80.0,96.6,80.9,High
+ST0582,24,Female,Economics,87.2,3.97,6.1,78.1,74.9,81.2,High
+ST0583,19,Male,Engineering,57.8,1.72,2.5,29.9,46.1,32.0,Low
+ST0584,26,Male,Medicine,29.0,2.5,3.2,44.0,18.5,29.6,Low
+ST0585,23,Female,Business Admin,74.5,3.21,8.4,71.7,91.0,82.0,High
+ST0586,22,Male,Business Admin,81.7,2.92,4.9,59.0,54.6,44.6,Medium
+ST0587,18,Male,Economics,52.3,1.44,1.6,65.0,29.3,55.4,Low
+ST0588,23,Female,Computer Science,84.4,2.91,4.3,60.1,58.5,76.6,Medium
+ST0589,28,Male,Law,76.1,3.07,5.6,74.8,85.6,84.1,High
+ST0590,19,Male,Accounting,74.9,2.65,4.6,37.1,57.8,67.7,Medium
+ST0591,22,Male,Business Admin,42.9,2.08,1.7,28.7,54.0,49.1,Low
+ST0592,28,Male,Education,64.4,1.18,2.4,30.1,27.1,52.1,Low
+ST0593,24,Male,Education,40.2,1.83,4.9,50.1,32.5,33.5,Low
+ST0594,20,Male,Medicine,59.7,3.32,7.0,68.9,68.0,50.3,Medium
+ST0595,25,Female,Engineering,80.9,3.44,4.6,58.5,57.6,64.7,Medium
+ST0596,26,Male,Law,94.6,3.41,11.8,87.1,65.1,73.9,High
+ST0597,18,Female,Engineering,86.3,2.71,5.9,71.9,52.5,48.9,Medium
+ST0598,26,Male,Computer Science,81.0,3.4,10.8,81.2,82.5,73.6,High
+ST0599,27,Male,Education,73.3,3.11,7.6,55.1,68.6,47.2,Medium
+ST0600,22,Male,Law,92.7,2.49,6.4,51.1,58.5,73.5,Medium
+ST0601,18,Female,Law,82.7,3.37,10.9,68.0,93.1,75.6,High
+ST0602,25,Female,Education,92.9,3.76,9.3,77.2,89.9,73.9,High
+ST0603,26,Male,Accounting,82.2,3.86,9.3,92.9,79.5,72.8,High
+ST0604,22,Male,Computer Science,74.7,2.62,3.8,70.3,78.3,55.5,Medium
+ST0605,21,Male,Medicine,77.1,2.9,7.4,68.7,49.0,53.1,Medium
+ST0606,17,Female,Law,52.1,2.29,4.0,67.6,54.8,54.3,Medium
+ST0607,25,Male,Computer Science,78.2,3.32,12.4,85.2,86.1,78.5,High
+ST0608,22,Male,Medicine,79.3,3.14,4.7,71.6,35.3,66.9,Medium
+ST0609,19,Male,Law,44.2,1.24,2.5,22.0,33.2,28.3,Low
+ST0610,27,Female,Accounting,67.1,2.93,6.5,55.9,54.1,71.7,Medium
+ST0611,22,Female,Computer Science,51.0,2.15,2.8,25.6,28.9,42.5,Low
+ST0612,18,Female,Law,71.5,3.54,7.3,90.9,82.8,87.5,High
+ST0613,21,Male,Medicine,56.0,1.49,1.5,46.1,44.3,54.0,Low
+ST0614,26,Male,Law,67.6,2.87,5.9,61.0,42.0,61.3,Medium
+ST0615,19,Female,Medicine,59.2,3.39,6.0,59.7,48.6,49.8,Medium
+ST0616,21,Male,Computer Science,45.4,2.15,0.8,58.0,54.2,32.4,Low
+ST0617,19,Female,Computer Science,65.7,1.75,2.0,48.6,61.4,54.7,Medium
+ST0618,24,Male,Business Admin,77.1,3.01,1.2,60.7,46.2,67.0,Medium
+ST0619,21,Male,Engineering,81.9,3.46,4.5,84.7,77.8,85.8,High
+ST0620,22,Male,Computer Science,75.9,3.3,6.6,90.0,74.4,79.0,High
+ST0621,20,Female,Economics,50.0,2.2,0.2,49.7,27.8,32.2,Low
+ST0622,28,Female,Law,88.3,3.51,9.3,63.0,65.4,82.9,High
+ST0623,22,Male,Medicine,69.6,2.92,6.4,41.7,51.1,54.7,Medium
+ST0624,27,Female,Education,69.7,2.24,5.8,75.2,61.1,48.9,Medium
+ST0625,22,Female,Business Admin,39.7,2.09,3.5,54.2,37.2,33.7,Low
+ST0626,24,Male,Business Admin,57.3,1.21,3.6,36.9,53.2,43.9,Low
+ST0627,23,Male,Law,78.2,4.0,12.1,89.1,73.9,75.6,High
+ST0628,29,Male,Accounting,88.9,2.86,1.0,65.4,56.5,57.3,Medium
+ST0629,29,Female,Law,68.3,3.12,7.2,64.8,56.6,57.6,Medium
+ST0630,22,Male,Medicine,92.6,3.74,12.1,92.0,74.5,84.6,High
+ST0631,25,Female,Medicine,99.7,3.74,10.0,92.1,78.6,83.2,High
+ST0632,24,Female,Medicine,45.6,1.37,4.7,44.4,45.7,25.0,Low
+ST0633,24,Male,Engineering,48.7,1.27,2.3,27.6,19.3,29.2,Low
+ST0634,27,Female,Engineering,67.9,2.5,2.9,44.6,36.3,27.2,Low
+ST0635,25,Female,Economics,35.4,2.01,0.3,28.4,30.2,38.5,Low
+ST0636,28,Female,Accounting,85.1,3.45,11.1,59.2,77.5,90.4,High
+ST0637,27,Male,Accounting,27.6,1.28,2.8,58.6,24.3,33.3,Low
+ST0638,28,Female,Medicine,92.2,2.8,10.0,74.0,76.4,83.2,High
+ST0639,27,Female,Economics,63.6,1.05,2.3,30.5,49.0,46.2,Low
+ST0640,26,Male,Law,83.3,2.74,5.0,68.0,61.4,65.1,Medium
+ST0641,20,Female,Economics,72.6,2.15,3.2,40.7,49.1,56.6,Medium
+ST0642,22,Male,Medicine,87.1,2.96,5.5,50.6,51.8,50.5,Medium
+ST0643,27,Female,Accounting,81.1,2.37,1.0,61.1,54.3,47.5,Medium
+ST0644,24,Male,Computer Science,41.8,1.57,0.5,61.6,44.6,26.8,Low
+ST0645,24,Female,Engineering,78.6,3.23,5.7,55.1,66.5,57.1,Medium
+ST0646,23,Female,Law,76.7,2.75,5.5,61.1,57.2,62.8,Medium
+ST0647,29,Female,Business Admin,47.1,1.11,0.0,42.2,32.6,17.3,Low
+ST0648,20,Female,Medicine,84.0,3.67,11.6,92.3,81.2,77.3,High
+ST0649,17,Male,Computer Science,91.1,3.44,8.2,87.6,73.5,63.3,High
+ST0650,22,Male,Law,73.6,3.23,6.4,63.8,72.5,68.8,Medium
+ST0651,19,Male,Law,74.9,2.77,7.3,60.5,55.0,35.0,Medium
+ST0652,24,Male,Medicine,87.7,3.22,10.2,90.9,79.8,70.1,High
+ST0653,28,Male,Medicine,71.0,1.2,0.0,19.6,24.4,41.0,Low
+ST0654,23,Male,Medicine,64.5,2.17,0.0,51.8,44.1,44.3,Low
+ST0655,25,Male,Accounting,45.2,1.81,0.0,50.4,26.0,27.6,Low
+ST0656,28,Male,Education,44.0,2.37,2.0,30.1,25.9,30.5,Low
+ST0657,28,Male,Business Admin,67.3,2.6,3.2,50.1,47.2,67.9,Medium
+ST0658,19,Female,Business Admin,44.0,1.74,2.6,34.2,40.2,55.0,Low
+ST0659,26,Female,Engineering,78.4,3.4,2.5,45.0,60.0,57.0,Medium
+ST0660,25,Male,Law,51.6,2.42,1.0,42.5,23.4,37.5,Low
+ST0661,29,Female,Business Admin,100.0,3.05,8.6,88.6,97.8,79.4,High
+ST0662,26,Male,Business Admin,54.8,1.92,3.6,45.2,31.1,51.4,Low
+ST0663,27,Female,Accounting,32.9,1.8,2.2,51.5,45.7,39.0,Low
+ST0664,24,Male,Accounting,77.7,3.15,11.6,64.0,78.4,100.0,High
+ST0665,18,Male,Law,74.5,4.0,11.4,87.5,80.0,82.6,High
+ST0666,19,Male,Medicine,63.5,1.87,2.8,38.5,43.5,37.8,Low
+ST0667,17,Female,Law,50.9,1.91,6.0,49.6,65.0,37.9,Low
+ST0668,17,Male,Economics,100.0,3.33,12.6,73.9,87.1,65.3,High
+ST0669,22,Male,Computer Science,66.0,2.73,4.7,70.1,39.1,52.4,Medium
+ST0670,18,Female,Law,84.7,3.1,2.8,68.6,61.0,80.7,Medium
+ST0671,18,Male,Computer Science,60.0,2.13,2.7,36.8,44.4,49.4,Low
+ST0672,26,Male,Economics,87.1,3.25,6.3,50.6,48.6,55.5,Medium
+ST0673,18,Female,Medicine,65.8,3.29,8.6,74.0,73.6,74.0,High
+ST0674,28,Female,Engineering,37.7,1.91,2.3,29.9,30.5,28.9,Low
+ST0675,28,Male,Medicine,83.9,3.21,7.9,94.5,75.7,80.6,High
+ST0676,21,Female,Business Admin,57.1,1.67,1.4,43.5,24.0,33.7,Low
+ST0677,19,Male,Accounting,50.9,3.34,3.6,73.6,70.7,45.1,Medium
+ST0678,20,Male,Economics,100.0,3.59,9.5,77.0,83.5,72.3,High
+ST0679,28,Male,Education,72.2,2.35,4.9,51.3,52.2,66.5,Medium
+ST0680,27,Male,Medicine,80.8,2.99,7.9,57.4,55.7,45.0,Medium
+ST0681,29,Female,Education,67.6,2.38,0.0,53.0,15.9,48.8,Low
+ST0682,19,Male,Business Admin,47.6,2.25,0.0,54.1,20.4,30.0,Low
+ST0683,29,Female,Education,37.1,2.44,3.4,32.3,30.6,52.2,Low
+ST0684,17,Male,Accounting,70.0,2.71,5.5,62.1,54.9,59.8,Medium
+ST0685,27,Female,Economics,89.0,3.6,12.7,71.1,79.1,70.4,High
+ST0686,29,Male,Business Admin,77.8,3.0,6.6,67.2,57.8,44.0,Medium
+ST0687,29,Male,Computer Science,62.6,3.09,2.7,64.0,64.1,53.7,Medium
+ST0688,18,Male,Economics,73.0,3.14,4.8,55.2,47.8,54.1,Medium
+ST0689,23,Male,Engineering,69.2,2.8,4.2,53.6,52.5,59.4,Medium
+ST0690,24,Male,Education,72.5,2.83,6.2,76.2,74.6,71.4,Medium
+ST0691,19,Male,Computer Science,57.3,2.06,5.4,7.3,35.4,53.0,Low
+ST0692,22,Female,Education,53.3,1.68,1.5,43.8,57.5,57.6,Low
+ST0693,20,Male,Law,71.4,2.9,3.8,56.9,70.5,74.0,Medium
+ST0694,19,Female,Accounting,61.7,3.37,4.3,54.9,53.9,66.0,Medium
+ST0695,22,Male,Medicine,52.4,2.04,0.9,21.5,44.2,30.2,Low
+ST0696,27,Male,Engineering,52.7,1.69,1.0,26.3,30.6,44.8,Low
+ST0697,17,Male,Law,73.5,3.36,4.4,49.1,79.2,63.3,Medium
+ST0698,27,Female,Economics,71.3,0.86,3.8,28.8,21.5,52.2,Low
+ST0699,17,Female,Economics,80.0,3.5,6.1,60.4,63.4,70.4,Medium
+ST0700,29,Female,Accounting,68.9,1.96,5.3,43.1,60.5,66.7,Medium
+ST0701,22,Female,Computer Science,76.3,3.96,10.4,68.3,100.0,77.5,High
+ST0702,23,Female,Business Admin,69.8,2.75,5.2,59.0,66.3,54.1,Medium
+ST0703,22,Female,Law,69.1,3.71,7.0,83.3,90.5,70.4,High
+ST0704,22,Male,Economics,73.0,1.72,0.7,48.2,32.8,27.9,Low
+ST0705,26,Male,Business Admin,84.2,3.59,11.7,66.5,80.2,83.0,High
+ST0706,23,Female,Accounting,51.1,1.81,2.9,41.2,33.3,44.2,Low
+ST0707,29,Female,Business Admin,91.3,3.76,9.2,62.2,66.8,76.1,High
+ST0708,23,Male,Computer Science,84.2,4.0,4.4,84.4,86.6,83.6,High
+ST0709,21,Female,Education,83.2,3.27,4.9,79.1,73.8,87.3,High
+ST0710,25,Male,Computer Science,37.7,2.5,2.0,30.6,39.5,60.8,Low
+ST0711,18,Female,Law,83.9,2.04,3.7,72.6,53.0,62.1,Medium
+ST0712,19,Male,Business Admin,66.3,3.05,5.4,63.0,85.0,75.4,Medium
+ST0713,29,Female,Economics,100.0,3.43,13.2,78.6,78.1,84.9,High
+ST0714,17,Female,Accounting,87.7,3.1,5.3,78.7,68.8,50.7,Medium
+ST0715,19,Male,Education,49.4,0.89,0.0,60.4,58.9,39.0,Low
+ST0716,17,Female,Medicine,55.8,2.14,9.1,82.6,48.8,57.9,Medium
+ST0717,24,Male,Business Admin,71.7,2.44,3.2,37.7,53.1,45.8,Low
+ST0718,21,Male,Education,75.2,2.92,3.9,54.3,50.0,48.7,Medium
+ST0719,19,Male,Accounting,86.5,3.49,7.8,76.4,82.3,89.0,High
+ST0720,20,Female,Computer Science,68.0,2.63,4.1,81.9,58.8,70.7,Medium
+ST0721,19,Male,Education,79.2,3.5,4.8,68.5,54.2,82.5,Medium
+ST0722,27,Male,Economics,91.8,2.8,5.8,75.6,58.5,51.4,Medium
+ST0723,29,Male,Education,32.8,1.75,2.8,54.6,9.9,46.5,Low
+ST0724,19,Male,Medicine,88.7,2.68,4.0,90.9,75.7,75.2,High
+ST0725,18,Female,Business Admin,67.4,2.96,2.0,73.6,57.7,47.9,Medium
+ST0726,25,Female,Medicine,60.6,2.82,4.4,46.5,54.0,49.9,Medium
+ST0727,19,Female,Economics,77.4,3.81,11.1,76.0,70.8,71.8,High
+ST0728,19,Male,Law,70.7,2.37,9.0,62.7,71.5,62.9,Medium
+ST0729,21,Female,Medicine,50.9,2.02,3.0,27.0,28.7,46.7,Low
+ST0730,26,Female,Law,90.8,3.06,10.3,81.1,76.4,80.0,High
+ST0731,18,Female,Economics,66.1,2.1,0.0,34.3,65.0,46.7,Low
+ST0732,21,Male,Economics,74.4,2.92,4.9,44.6,60.2,70.1,Medium
+ST0733,27,Female,Engineering,94.8,3.33,8.1,73.9,73.4,67.7,High
+ST0734,18,Female,Economics,41.0,1.96,1.2,54.1,53.7,48.4,Low
+ST0735,17,Male,Law,60.1,3.5,3.5,68.6,70.6,52.4,Medium
+ST0736,27,Female,Law,47.8,1.42,0.8,46.6,58.0,47.2,Low
+ST0737,25,Female,Economics,87.4,3.91,6.2,76.7,87.5,80.1,High
+ST0738,25,Female,Medicine,98.7,2.98,10.3,77.7,88.4,69.7,High
+ST0739,24,Male,Business Admin,77.7,2.49,4.7,60.9,78.0,62.0,Medium
+ST0740,26,Male,Law,58.5,2.17,2.9,23.3,62.6,27.5,Low
+ST0741,23,Female,Business Admin,87.7,4.0,12.9,88.4,76.0,79.0,High
+ST0742,24,Male,Computer Science,59.7,3.3,5.3,54.8,55.0,60.7,Medium
+ST0743,19,Female,Computer Science,89.9,4.0,9.2,73.3,70.4,74.9,High
+ST0744,20,Female,Engineering,69.2,2.57,5.3,56.1,62.5,52.8,Medium
+ST0745,23,Female,Accounting,59.6,1.74,3.9,47.8,40.3,35.5,Low
+ST0746,27,Female,Business Admin,75.8,4.0,7.6,82.7,82.8,76.5,High
+ST0747,23,Female,Law,89.3,3.07,4.5,59.6,37.8,49.5,Medium
+ST0748,27,Male,Law,40.4,2.49,1.2,17.2,25.9,42.3,Low
+ST0749,21,Male,Medicine,65.1,2.24,5.7,70.4,72.9,46.9,Medium
+ST0750,24,Male,Computer Science,98.9,3.58,9.1,89.1,75.7,60.7,High
+ST0751,24,Female,Law,47.7,2.21,3.2,21.9,38.3,10.7,Low
+ST0752,21,Female,Business Admin,91.9,3.28,8.2,56.3,84.5,77.3,High
+ST0753,18,Male,Business Admin,76.0,3.46,4.6,68.5,51.3,57.2,Medium
+ST0754,27,Male,Law,73.6,2.31,3.4,62.6,69.2,72.8,Medium
+ST0755,27,Male,Engineering,89.9,4.0,5.8,74.4,84.9,79.2,High
+ST0756,19,Female,Education,63.7,1.85,1.7,47.1,34.8,51.7,Low
+ST0757,21,Male,Education,78.0,3.71,6.4,71.6,63.6,74.9,High
+ST0758,18,Male,Computer Science,98.2,3.54,9.6,77.4,69.9,69.3,High
+ST0759,27,Male,Computer Science,72.1,2.41,6.5,78.8,63.4,77.2,Medium
+ST0760,22,Male,Engineering,97.5,3.54,5.1,81.1,85.2,69.9,High
+ST0761,27,Male,Education,67.2,2.53,1.6,52.1,52.9,56.7,Medium
+ST0762,23,Male,Engineering,60.5,2.49,0.0,36.5,49.3,50.3,Low
+ST0763,20,Male,Engineering,99.8,3.63,8.9,69.5,88.5,74.3,High
+ST0764,18,Female,Education,72.3,2.79,1.0,53.9,64.5,57.5,Medium
+ST0765,25,Female,Business Admin,42.1,1.64,1.8,49.3,35.2,16.6,Low
+ST0766,18,Female,Accounting,98.9,3.68,6.0,78.7,83.8,84.9,High
+ST0767,24,Male,Engineering,62.3,1.58,2.3,49.0,44.9,45.2,Low
+ST0768,17,Male,Education,52.2,1.45,1.6,26.0,42.1,14.4,Low
+ST0769,25,Male,Business Admin,74.8,1.8,1.7,48.2,36.2,41.3,Low
+ST0770,22,Female,Law,66.3,1.06,4.4,18.5,54.2,15.6,Low
+ST0771,20,Male,Accounting,62.6,3.5,2.8,59.7,85.0,62.0,Medium
+ST0772,17,Female,Computer Science,85.1,3.66,8.9,86.4,67.8,73.6,High
+ST0773,20,Female,Business Admin,75.1,2.5,7.2,54.6,61.4,57.0,Medium
+ST0774,22,Female,Medicine,58.9,2.62,5.1,47.7,66.2,60.6,Medium
+ST0775,24,Male,Engineering,71.6,3.4,6.3,83.9,76.6,83.0,High
+ST0776,29,Male,Economics,76.0,3.6,7.5,77.7,87.5,84.1,High
+ST0777,21,Female,Engineering,65.6,2.97,3.9,56.7,58.0,74.5,Medium
+ST0778,28,Female,Computer Science,52.9,2.5,0.0,59.4,33.1,55.7,Low
+ST0779,28,Male,Medicine,91.8,3.9,11.7,72.6,84.7,79.6,High
+ST0780,17,Male,Computer Science,97.3,3.4,9.5,82.3,78.1,76.8,High
+ST0781,24,Female,Business Admin,95.1,3.98,7.4,92.5,73.5,85.2,High
+ST0782,28,Male,Business Admin,63.9,2.56,5.7,81.6,43.1,59.0,Medium
+ST0783,18,Male,Computer Science,51.0,1.63,3.9,56.1,39.1,36.3,Low
+ST0784,25,Male,Medicine,100.0,3.76,9.4,86.9,85.7,76.9,High
+ST0785,18,Female,Medicine,53.0,2.67,1.5,55.6,65.8,42.9,Medium
+ST0786,25,Male,Medicine,86.5,3.62,8.5,78.1,82.6,81.7,High
+ST0787,29,Female,Engineering,62.4,1.24,3.0,45.0,40.4,37.9,Low
+ST0788,20,Male,Computer Science,29.3,2.5,3.3,28.5,47.1,40.3,Low
+ST0789,28,Male,Computer Science,45.0,2.5,1.4,56.3,44.4,49.5,Low
+ST0790,22,Female,Engineering,74.2,2.51,5.1,71.2,67.2,63.0,Medium
+ST0791,20,Female,Accounting,52.9,3.08,5.4,60.1,67.5,58.4,Medium
+ST0792,29,Male,Medicine,66.5,2.47,1.6,63.2,64.5,44.8,Medium
+ST0793,21,Male,Business Admin,99.4,3.35,4.8,94.0,64.2,85.7,High
+ST0794,24,Female,Medicine,93.8,3.7,8.0,86.0,88.4,70.1,High
+ST0795,29,Male,Accounting,79.8,3.06,5.1,66.5,64.7,54.4,Medium
+ST0796,24,Male,Economics,47.1,2.5,4.6,67.6,71.4,76.6,Medium
+ST0797,27,Female,Economics,54.6,1.49,3.1,39.1,34.7,33.7,Low
+ST0798,28,Female,Computer Science,78.6,2.64,8.2,76.7,51.1,58.7,Medium
+ST0799,17,Male,Economics,44.2,1.74,5.0,36.3,42.3,44.5,Low
+ST0800,26,Female,Engineering,40.0,1.47,0.2,29.4,3.8,44.5,Low
+ST0801,20,Female,Engineering,82.5,3.45,11.5,75.7,86.1,87.4,High
+ST0802,23,Male,Education,66.0,3.5,4.0,85.0,77.1,63.2,Medium
+ST0803,20,Female,Education,71.1,2.52,4.9,48.4,45.8,71.0,Medium
+ST0804,29,Female,Computer Science,72.8,3.79,8.6,92.6,77.3,61.9,High
+ST0805,27,Male,Accounting,70.7,3.03,3.9,49.4,50.0,52.8,Medium
+ST0806,17,Female,Business Admin,56.9,1.81,1.2,38.2,47.4,50.1,Low
+ST0807,26,Male,Economics,72.9,2.66,8.0,41.6,64.8,57.3,Medium
+ST0808,25,Male,Business Admin,89.1,3.8,6.9,89.7,69.2,80.9,High
+ST0809,29,Female,Computer Science,59.4,3.32,4.4,68.0,50.9,59.4,Medium
+ST0810,21,Male,Medicine,90.5,3.15,10.2,92.8,78.6,88.9,High
+ST0811,25,Female,Accounting,70.3,4.0,12.0,79.7,64.2,80.3,High
+ST0812,18,Female,Accounting,57.6,2.98,5.8,52.6,71.2,66.1,Medium
+ST0813,24,Male,Education,57.8,3.19,4.5,48.1,73.5,79.0,Medium
+ST0814,23,Male,Medicine,69.2,2.78,3.8,63.6,63.0,50.2,Medium
+ST0815,20,Male,Medicine,76.2,2.8,4.8,66.6,51.0,47.3,Medium
+ST0816,23,Male,Business Admin,48.9,2.5,0.0,34.8,12.5,35.2,Low
+ST0817,18,Male,Engineering,65.9,3.5,1.5,66.5,60.6,55.5,Medium
+ST0818,23,Male,Medicine,90.5,3.66,7.3,97.6,78.5,76.9,High
+ST0819,29,Male,Accounting,75.0,1.77,2.8,51.4,35.8,33.1,Low
+ST0820,20,Male,Medicine,85.3,3.88,8.9,91.7,79.3,67.5,High
+ST0821,23,Female,Business Admin,57.6,2.62,5.6,59.9,62.0,70.3,Medium
+ST0822,22,Male,Economics,94.0,3.54,8.6,73.9,79.8,60.7,High
+ST0823,24,Male,Economics,52.5,1.33,0.9,33.1,61.1,24.8,Low
+ST0824,20,Male,Computer Science,69.3,3.42,12.0,71.5,89.6,77.9,High
+ST0825,21,Female,Accounting,56.1,1.42,1.6,44.4,40.1,42.2,Low
+ST0826,25,Female,Economics,73.3,2.17,3.9,53.0,50.9,53.2,Medium
+ST0827,23,Female,Law,74.3,2.82,3.4,58.6,68.6,59.5,Medium
+ST0828,27,Female,Computer Science,76.3,2.03,5.5,55.8,78.1,62.0,Medium
+ST0829,29,Male,Law,72.9,2.11,6.7,57.9,74.2,56.8,Medium
+ST0830,20,Female,Computer Science,81.7,2.6,5.7,44.7,58.7,43.2,Medium
+ST0831,27,Male,Law,59.9,1.83,2.0,37.9,51.0,38.0,Low
+ST0832,28,Female,Business Admin,83.5,3.29,4.9,56.2,43.8,49.3,Medium
+ST0833,26,Female,Accounting,87.7,3.85,11.2,85.3,72.3,62.5,High
+ST0834,29,Female,Education,63.1,2.74,3.0,65.4,57.7,58.1,Medium
+ST0835,18,Male,Accounting,91.3,3.6,8.3,89.1,87.0,70.4,High
+ST0836,17,Male,Education,85.8,3.78,9.6,96.7,67.8,77.0,High
+ST0837,20,Female,Education,82.9,3.83,11.8,79.0,75.3,85.4,High
+ST0838,26,Female,Education,56.2,3.29,4.5,61.1,52.8,42.2,Medium
+ST0839,24,Male,Computer Science,67.2,1.81,6.0,30.3,30.2,27.2,Low
+ST0840,20,Female,Medicine,42.3,1.78,3.3,43.7,51.9,32.8,Low
+ST0841,20,Female,Medicine,36.3,2.01,2.4,27.8,31.9,39.8,Low
+ST0842,23,Female,Computer Science,42.5,2.5,1.6,43.0,45.8,16.6,Low
+ST0843,24,Male,Medicine,50.4,2.5,0.5,20.0,60.7,24.2,Low
+ST0844,27,Female,Accounting,57.0,3.45,2.6,78.4,62.7,70.8,Medium
+ST0845,23,Male,Business Admin,73.9,3.23,3.2,55.9,38.8,67.7,Medium
+ST0846,29,Male,Business Admin,74.0,3.68,12.4,80.9,74.7,70.5,High
+ST0847,26,Male,Accounting,47.5,2.42,3.0,36.0,29.6,55.6,Low
+ST0848,25,Male,Education,56.9,3.28,4.1,55.0,66.6,43.7,Medium
+ST0849,29,Male,Law,70.3,3.34,3.6,48.5,60.2,54.0,Medium
+ST0850,18,Female,Education,67.9,2.38,1.2,51.7,61.1,72.3,Medium
+ST0851,27,Female,Computer Science,68.8,2.91,4.0,79.2,58.1,57.1,Medium
+ST0852,26,Male,Computer Science,80.4,2.37,3.5,69.9,45.2,68.6,Medium
+ST0853,24,Female,Education,66.7,2.64,2.8,65.8,84.6,65.8,Medium
+ST0854,24,Male,Computer Science,63.4,3.25,4.4,75.7,68.1,35.0,Medium
+ST0855,28,Female,Law,52.9,3.05,9.0,54.2,83.8,56.8,Medium
+ST0856,18,Female,Education,90.4,4.0,10.6,85.0,64.5,65.9,High
+ST0857,21,Female,Medicine,73.3,2.56,1.3,54.2,61.3,49.4,Medium
+ST0858,23,Male,Business Admin,86.5,3.07,5.6,63.9,65.5,56.9,Medium
+ST0859,28,Male,Education,49.3,1.31,4.2,17.6,56.2,44.1,Low
+ST0860,18,Male,Business Admin,46.9,2.3,3.2,45.5,47.0,36.6,Low
+ST0861,25,Male,Medicine,40.4,1.22,2.2,37.9,39.0,37.8,Low
+ST0862,19,Female,Computer Science,72.1,3.7,8.2,84.5,84.7,88.3,High
+ST0863,29,Male,Computer Science,91.4,3.83,13.4,89.6,79.5,70.9,High
+ST0864,23,Female,Accounting,78.6,2.9,2.4,57.6,68.8,61.5,Medium
+ST0865,20,Male,Computer Science,89.4,3.57,11.6,85.2,69.4,74.2,High
+ST0866,17,Female,Education,49.3,1.9,2.3,28.7,37.2,34.2,Low
+ST0867,18,Male,Medicine,87.9,3.39,12.7,92.1,66.9,71.6,High
+ST0868,17,Male,Economics,76.3,2.88,6.9,69.8,57.1,46.0,Medium
+ST0869,27,Female,Business Admin,29.9,2.03,1.5,63.3,42.1,37.6,Low
+ST0870,24,Male,Engineering,60.2,1.74,5.8,39.0,40.0,22.2,Low
+ST0871,23,Male,Economics,92.2,3.84,9.2,96.1,75.1,91.4,High
+ST0872,23,Male,Accounting,86.9,3.39,5.7,79.9,77.4,79.4,High
+ST0873,29,Male,Education,100.0,3.44,10.2,82.7,78.4,78.3,High
+ST0874,23,Female,Economics,35.9,1.63,1.3,50.1,34.0,32.6,Low
+ST0875,17,Male,Education,87.8,3.75,7.4,93.2,78.1,67.5,High
+ST0876,23,Male,Education,89.5,3.34,10.3,99.7,73.7,80.7,High
+ST0877,26,Male,Law,64.8,2.3,5.2,67.9,64.8,56.6,Medium
+ST0878,21,Female,Accounting,69.6,2.9,5.4,79.4,60.4,61.6,Medium
+ST0879,21,Male,Business Admin,56.1,3.32,6.3,55.2,44.6,57.2,Medium
+ST0880,23,Male,Law,82.4,3.82,4.0,93.4,88.0,79.7,High
+ST0881,26,Male,Education,51.5,1.76,3.7,65.0,26.3,43.1,Low
+ST0882,22,Male,Business Admin,65.9,2.8,3.3,53.2,51.6,61.2,Medium
+ST0883,20,Female,Engineering,72.0,2.82,4.4,67.5,70.5,63.8,Medium
+ST0884,26,Male,Medicine,52.2,2.77,1.0,60.0,74.0,46.5,Medium
+ST0885,26,Male,Accounting,65.6,3.71,11.9,75.0,71.6,82.7,High
+ST0886,28,Male,Economics,38.9,2.5,3.0,40.5,58.5,50.4,Low
+ST0887,19,Male,Law,76.8,3.35,7.5,69.1,66.4,75.0,Medium
+ST0888,20,Male,Law,48.2,1.22,1.0,39.9,38.7,61.1,Low
+ST0889,25,Female,Education,88.7,3.95,8.1,79.5,69.4,72.1,High
+ST0890,21,Male,Medicine,85.8,2.59,4.8,57.3,61.1,72.3,Medium
+ST0891,21,Female,Economics,75.9,2.48,4.9,80.5,42.3,53.8,Medium
+ST0892,26,Male,Computer Science,75.0,2.17,0.4,12.0,42.1,28.9,Low
+ST0893,17,Female,Engineering,66.3,2.57,7.0,66.2,77.6,55.8,Medium
+ST0894,20,Male,Medicine,85.9,3.77,12.7,64.9,74.4,76.3,High
+ST0895,28,Male,Computer Science,91.4,2.85,4.8,60.0,55.6,68.5,Medium
+ST0896,20,Male,Medicine,38.7,1.89,2.7,64.2,37.7,55.6,Low
+ST0897,25,Female,Engineering,92.7,3.66,8.3,79.2,90.7,75.7,High
+ST0898,20,Male,Business Admin,78.7,3.5,4.0,83.5,59.9,55.2,Medium
+ST0899,20,Male,Engineering,82.0,3.35,5.7,96.1,88.5,80.2,High
+ST0900,20,Male,Business Admin,81.8,3.26,10.4,79.9,82.6,64.7,High
+ST0901,18,Male,Education,85.5,3.25,10.0,90.0,91.7,73.0,High
+ST0902,17,Female,Economics,79.0,3.47,7.6,85.4,68.8,64.0,High
+ST0903,28,Male,Education,47.8,2.26,0.5,50.2,42.4,56.6,Low
+ST0904,19,Female,Computer Science,92.8,3.68,9.4,73.6,86.2,72.9,High
+ST0905,23,Female,Business Admin,75.5,2.32,6.0,68.6,61.2,74.4,Medium
+ST0906,23,Female,Business Admin,72.9,3.13,1.9,62.3,48.7,59.4,Medium
+ST0907,29,Female,Engineering,91.9,3.5,7.5,63.3,80.6,87.1,High
+ST0908,23,Male,Accounting,73.4,2.64,5.4,58.0,51.0,57.2,Medium
+ST0909,28,Female,Business Admin,81.6,3.55,8.5,78.4,84.1,95.9,High
+ST0910,24,Female,Law,85.4,3.75,5.2,78.9,92.4,77.6,High
+ST0911,17,Male,Law,56.5,1.46,3.6,19.8,49.5,47.9,Low
+ST0912,26,Male,Accounting,53.4,0.85,0.0,42.9,35.2,46.7,Low
+ST0913,25,Male,Education,47.7,3.13,3.7,58.0,49.3,42.6,Medium
+ST0914,25,Female,Education,80.1,2.71,1.5,83.0,64.2,59.4,Medium
+ST0915,20,Male,Medicine,85.1,2.99,11.3,73.5,84.4,84.2,High
+ST0916,17,Male,Law,70.7,2.64,8.5,50.1,35.0,74.2,Medium
+ST0917,19,Male,Education,59.7,2.69,4.2,74.3,74.3,45.1,Medium
+ST0918,27,Male,Education,68.3,2.5,2.0,51.2,50.4,35.0,Low
+ST0919,23,Female,Accounting,70.4,3.04,1.7,58.5,48.0,72.2,Medium
+ST0920,19,Female,Accounting,86.3,3.51,9.4,76.2,78.4,76.4,High
+ST0921,21,Female,Law,46.9,2.1,1.3,59.3,45.5,21.8,Low
+ST0922,19,Male,Economics,89.1,3.38,4.6,81.8,68.5,81.4,High
+ST0923,29,Female,Education,73.9,1.28,1.1,26.6,62.5,54.2,Low
+ST0924,26,Female,Economics,81.7,3.43,6.9,77.2,88.0,93.6,High
+ST0925,20,Female,Computer Science,74.1,2.17,5.5,67.4,67.0,63.1,Medium
+ST0926,28,Male,Education,74.9,2.28,6.7,69.0,61.2,38.8,Medium
+ST0927,29,Male,Computer Science,71.8,2.73,3.9,58.6,67.7,52.8,Medium
+ST0928,23,Female,Economics,71.0,2.55,4.7,65.4,51.0,56.3,Medium
+ST0929,29,Female,Business Admin,62.7,2.38,2.5,78.3,70.1,45.1,Medium
+ST0930,19,Female,Law,71.6,2.6,9.5,42.9,85.0,58.6,Medium
+ST0931,25,Female,Economics,86.8,4.0,6.4,70.9,81.4,87.2,High
+ST0932,20,Female,Business Admin,52.6,3.21,4.3,73.7,39.9,63.7,Medium
+ST0933,23,Male,Accounting,83.0,2.23,5.2,72.3,67.8,65.7,Medium
+ST0934,26,Male,Medicine,70.1,3.23,5.9,53.8,62.8,66.2,Medium
+ST0935,27,Female,Law,43.1,0.92,3.0,59.8,44.7,15.4,Low
+ST0936,20,Female,Engineering,71.8,2.69,5.8,53.5,56.7,43.8,Medium
+ST0937,23,Male,Accounting,58.6,3.16,5.5,60.8,59.8,61.1,Medium
+ST0938,21,Female,Economics,68.9,2.74,5.3,60.2,68.7,70.3,Medium
+ST0939,22,Female,Education,86.2,3.5,4.7,65.5,50.1,56.5,Medium
+ST0940,18,Female,Business Admin,77.0,2.89,5.1,40.7,47.9,56.7,Medium
+ST0941,25,Male,Education,73.8,1.94,2.0,57.1,36.1,26.2,Low
+ST0942,23,Female,Education,81.4,3.78,8.8,85.6,82.5,74.7,High
+ST0943,24,Female,Education,70.9,2.66,5.2,53.5,53.9,53.9,Medium
+ST0944,28,Male,Medicine,70.9,2.52,4.2,55.4,61.9,56.4,Medium
+ST0945,29,Male,Medicine,75.7,3.31,8.7,81.7,73.0,88.4,High
+ST0946,23,Female,Business Admin,75.5,2.78,7.5,46.3,80.6,49.6,Medium
+ST0947,25,Male,Medicine,85.0,3.09,11.4,79.8,78.4,96.5,High
+ST0948,19,Female,Law,63.5,1.57,1.1,43.1,47.2,59.0,Low
+ST0949,24,Male,Medicine,80.9,2.48,4.3,45.7,55.0,60.3,Medium
+ST0950,17,Female,Education,61.7,3.38,1.1,56.2,57.0,60.5,Medium
+ST0951,19,Female,Computer Science,70.2,3.18,6.4,59.1,68.4,78.7,Medium
+ST0952,20,Female,Medicine,66.2,3.36,3.9,69.7,61.8,40.1,Medium
+ST0953,25,Male,Medicine,77.8,3.41,14.1,72.0,81.4,69.0,High
+ST0954,26,Female,Medicine,50.8,1.92,2.6,30.5,43.5,33.6,Low
+ST0955,20,Male,Education,63.0,3.03,8.0,69.2,69.2,52.8,Medium
+ST0956,20,Male,Law,88.6,3.37,9.7,87.8,83.6,65.6,High
+ST0957,22,Female,Computer Science,68.2,2.93,5.6,61.1,50.0,57.7,Medium
+ST0958,27,Male,Business Admin,64.6,1.92,0.8,36.4,37.8,45.9,Low
+ST0959,21,Female,Medicine,78.2,3.1,8.2,73.0,84.5,82.5,High
+ST0960,27,Female,Accounting,52.8,2.5,2.9,50.7,20.6,23.9,Low
+ST0961,24,Female,Engineering,65.8,3.27,3.7,49.9,66.7,78.7,Medium
+ST0962,21,Female,Education,62.7,2.76,4.9,54.2,68.8,42.6,Medium
+ST0963,25,Female,Engineering,89.6,3.92,10.6,85.9,92.7,76.2,High
+ST0964,22,Male,Business Admin,50.5,0.84,0.3,25.0,28.2,33.8,Low
+ST0965,23,Male,Education,40.7,1.89,0.8,51.2,27.9,36.6,Low
+ST0966,26,Female,Accounting,76.1,2.41,5.5,67.7,59.6,58.3,Medium
+ST0967,24,Male,Law,52.9,2.5,0.9,25.8,38.9,51.5,Low
+ST0968,22,Female,Economics,86.2,3.0,10.2,87.6,74.5,74.3,High
+ST0969,19,Male,Business Admin,68.1,2.49,5.2,59.3,62.8,66.2,Medium
+ST0970,23,Female,Accounting,74.3,2.9,3.9,73.7,51.5,41.9,Medium
+ST0971,18,Male,Economics,68.4,2.5,0.0,36.1,9.8,17.7,Low
+ST0972,29,Female,Computer Science,78.2,2.94,3.0,46.7,75.4,72.1,Medium
+ST0973,28,Male,Computer Science,100.0,3.46,8.0,79.7,71.0,64.4,High
+ST0974,28,Female,Medicine,82.5,2.06,5.5,70.9,45.5,48.8,Medium
+ST0975,19,Male,Education,66.6,2.17,1.1,54.4,52.5,41.2,Low
+ST0976,18,Male,Law,41.2,1.69,2.4,37.7,49.3,19.6,Low
+ST0977,26,Female,Computer Science,67.1,2.55,1.5,62.2,59.5,64.5,Medium
+ST0978,19,Female,Business Admin,66.1,1.24,2.8,19.9,27.9,23.4,Low
+ST0979,18,Male,Medicine,72.5,2.99,5.7,61.8,79.5,64.9,Medium
+ST0980,17,Female,Engineering,96.5,3.69,9.7,76.3,69.4,74.7,High
+ST0981,26,Male,Law,79.5,3.85,7.5,79.1,79.8,87.0,High
+ST0982,20,Male,Law,36.6,1.71,1.2,44.4,41.7,31.0,Low
+ST0983,27,Female,Computer Science,45.5,2.28,6.7,76.6,73.5,67.1,Medium
+ST0984,20,Female,Computer Science,84.6,3.72,8.1,79.5,89.1,78.9,High
+ST0985,29,Male,Business Admin,74.0,1.79,5.9,65.9,60.2,66.9,Medium
+ST0986,24,Female,Education,33.2,2.1,4.9,28.1,28.9,29.5,Low
+ST0987,20,Female,Medicine,73.3,2.37,5.8,70.5,65.3,40.3,Medium
+ST0988,29,Female,Medicine,94.6,3.71,9.4,90.3,95.4,70.4,High
+ST0989,17,Male,Economics,96.6,3.57,8.7,69.7,77.7,70.0,High
+ST0990,20,Female,Law,67.5,2.64,5.2,45.9,45.5,61.6,Medium
+ST0991,26,Male,Education,54.7,2.2,4.1,36.3,31.1,48.5,Low
+ST0992,23,Female,Education,99.1,3.54,9.1,82.2,72.5,78.6,High
+ST0993,29,Female,Accounting,72.3,2.74,5.7,69.5,66.1,54.7,Medium
+ST0994,17,Male,Education,46.9,2.5,4.1,43.7,47.4,21.0,Low
+ST0995,21,Female,Medicine,95.0,2.55,5.0,62.8,67.0,66.8,Medium
+ST0996,17,Male,Computer Science,76.2,2.82,8.0,81.7,75.1,74.3,High
+ST0997,24,Male,Economics,79.7,3.58,8.9,86.4,89.3,91.5,High
+ST0998,27,Female,Law,69.6,2.16,10.5,53.3,65.6,67.3,Medium
+ST0999,29,Female,Medicine,70.0,2.47,3.2,69.5,58.1,49.1,Medium
+ST1000,22,Male,Computer Science,74.7,3.16,5.2,56.1,68.1,49.1,Medium
+ST1001,25,Female,Economics,47.8,2.5,3.3,34.9,43.8,65.0,Low
+ST1002,26,Male,Education,83.2,4.0,11.6,77.3,95.0,79.3,High
+ST1003,27,Male,Medicine,63.6,2.56,6.8,53.7,49.0,53.6,Medium
+ST1004,21,Female,Accounting,84.4,3.88,9.5,77.9,76.6,76.9,High
+ST1005,21,Female,Computer Science,95.0,3.66,9.5,93.4,95.0,68.2,High
+ST1006,25,Female,Law,61.4,2.09,3.6,35.3,14.5,21.6,Low
+ST1007,19,Male,Accounting,58.8,2.43,0.0,56.9,43.6,37.2,Low
+ST1008,22,Male,Education,95.2,3.75,7.5,94.9,80.2,80.4,High
+ST1009,19,Male,Computer Science,55.8,2.25,1.3,42.8,38.7,49.0,Low
+ST1010,27,Female,Engineering,94.0,3.5,8.2,85.9,74.8,79.5,High
+ST1011,19,Female,Engineering,70.4,2.52,7.2,64.4,59.5,62.2,Medium
+ST1012,21,Female,Economics,31.9,2.5,2.0,16.4,52.4,29.0,Low
+ST1013,23,Female,Business Admin,95.6,3.39,7.5,87.3,84.3,68.8,High
+ST1014,19,Female,Engineering,72.7,2.68,2.8,69.4,62.9,49.9,Medium
+ST1015,19,Female,Computer Science,52.9,2.5,0.0,20.5,21.2,42.4,Low
+ST1016,25,Male,Medicine,62.6,3.47,9.0,71.0,44.9,53.1,Medium
+ST1017,17,Male,Engineering,95.2,3.97,12.8,76.8,80.7,74.5,High
+ST1018,19,Male,Accounting,77.6,2.58,1.8,58.2,67.3,71.4,Medium
+ST1019,18,Female,Economics,93.0,3.72,6.4,72.0,73.4,75.4,High
+ST1020,20,Female,Medicine,90.0,2.54,6.5,57.4,64.7,57.4,Medium
+ST1021,22,Male,Law,79.8,2.57,7.8,60.7,66.7,65.5,Medium
+ST1022,18,Female,Computer Science,75.6,2.83,6.1,59.7,55.7,78.1,Medium
+ST1023,17,Female,Computer Science,83.4,3.5,8.4,75.6,84.6,89.1,High
+ST1024,26,Female,Economics,76.7,2.84,3.0,67.2,81.6,54.2,Medium
+ST1025,27,Male,Medicine,47.5,1.62,1.3,7.1,42.9,27.9,Low
+ST1026,29,Female,Economics,79.3,3.5,11.9,70.7,67.7,80.2,High
+ST1027,24,Female,Engineering,76.1,3.03,1.0,70.0,68.8,54.9,Medium
+ST1028,21,Female,Business Admin,69.0,2.29,5.6,37.5,62.3,71.4,Medium
+ST1029,22,Female,Medicine,78.2,4.0,11.2,85.8,75.2,71.9,High
+ST1030,23,Male,Business Admin,71.3,3.28,2.4,62.1,67.3,67.3,Medium
+ST1031,25,Male,Computer Science,65.6,1.93,0.4,39.7,14.5,44.9,Low
+ST1032,25,Female,Computer Science,70.0,1.86,0.0,37.8,39.2,28.1,Low
+ST1033,20,Male,Medicine,66.7,2.41,8.2,76.2,75.9,59.8,Medium
+ST1034,17,Female,Law,90.2,3.4,7.3,82.2,85.2,87.6,High
+ST1035,20,Female,Medicine,79.3,2.07,4.9,62.9,56.2,42.5,Medium
+ST1036,25,Female,Accounting,77.9,3.26,2.6,64.6,60.9,59.1,Medium
+ST1037,22,Male,Computer Science,78.5,3.78,10.7,92.6,90.9,81.8,High
+ST1038,17,Male,Business Admin,53.2,2.19,5.0,64.9,64.8,55.0,Medium
+ST1039,28,Male,Medicine,69.7,2.48,5.2,68.1,72.0,43.1,Medium
+ST1040,21,Male,Law,42.3,1.0,2.2,41.3,33.8,50.0,Low
+ST1041,23,Female,Law,62.7,1.86,1.1,42.3,44.7,18.6,Low
+ST1042,29,Female,Law,77.5,2.43,4.3,73.8,50.2,64.3,Medium
+ST1043,18,Female,Economics,42.0,2.07,2.4,21.9,37.9,45.4,Low
+ST1044,25,Female,Accounting,87.1,4.0,8.3,93.4,73.5,68.7,High
+ST1045,25,Female,Education,56.0,1.71,4.2,34.7,39.1,45.2,Low
+ST1046,24,Male,Computer Science,76.1,3.11,4.3,64.2,63.5,41.5,Medium
+ST1047,29,Female,Economics,72.8,2.83,5.9,81.4,54.0,61.8,Medium
+ST1048,18,Female,Accounting,89.0,3.24,10.5,75.3,60.2,84.3,High
+ST1049,29,Female,Economics,69.3,2.94,7.9,65.7,61.7,57.5,Medium
+ST1050,27,Female,Accounting,91.7,2.65,4.7,74.6,44.6,64.2,Medium
+ST1051,22,Male,Medicine,32.9,2.1,2.0,47.3,25.9,31.6,Low
+ST1052,28,Male,Economics,79.6,2.88,4.1,58.8,60.0,55.8,Medium
+ST1053,18,Female,Law,79.3,2.65,3.9,71.1,55.8,52.6,Medium
+ST1054,20,Female,Accounting,77.2,2.54,3.0,53.9,55.4,54.5,Medium
+ST1055,25,Male,Education,82.2,3.27,3.0,49.8,48.9,71.3,Medium
+ST1056,23,Male,Engineering,46.8,1.78,2.4,43.0,28.1,46.2,Low
+ST1057,23,Female,Computer Science,78.9,2.54,3.9,67.9,51.4,54.2,Medium
+ST1058,22,Female,Education,77.6,3.5,6.2,66.7,65.3,47.3,Medium
+ST1059,23,Female,Accounting,90.6,3.63,9.8,79.5,80.5,68.2,High
+ST1060,29,Female,Accounting,55.8,1.89,4.8,23.7,24.7,58.6,Low
+ST1061,20,Female,Law,64.6,2.34,4.8,65.4,40.0,71.5,Medium
+ST1062,26,Male,Law,83.8,2.85,7.2,77.5,45.4,67.0,Medium
+ST1063,21,Female,Business Admin,85.6,3.03,10.6,61.7,87.8,66.7,High
+ST1064,20,Female,Education,82.1,2.47,2.3,44.4,70.9,64.6,Medium
+ST1065,25,Male,Law,73.2,2.54,4.9,62.5,62.4,48.3,Medium
+ST1066,21,Male,Economics,49.6,3.13,5.3,64.7,54.8,63.9,Medium
+ST1067,18,Male,Computer Science,92.3,2.96,4.9,46.1,52.2,55.9,Medium
+ST1068,19,Male,Medicine,49.5,1.02,3.0,47.3,32.5,63.5,Low
+ST1069,24,Female,Medicine,48.5,1.42,5.6,48.8,34.4,34.2,Low
+ST1070,20,Female,Medicine,74.5,3.08,5.8,51.7,66.5,62.3,Medium
+ST1071,24,Male,Economics,79.4,3.36,10.4,80.1,92.7,82.0,High
+ST1072,23,Female,Computer Science,72.6,2.51,3.2,69.0,68.5,64.0,Medium
+ST1073,24,Female,Medicine,100.0,3.33,7.0,67.9,76.4,74.0,High
+ST1074,29,Male,Accounting,66.3,2.46,1.4,58.1,67.7,49.3,Medium
+ST1075,20,Male,Business Admin,82.7,3.85,12.3,90.0,74.4,93.9,High
+ST1076,28,Female,Economics,64.2,3.25,5.3,53.5,58.5,53.9,Medium
+ST1077,29,Male,Computer Science,79.8,3.14,6.6,52.8,54.0,72.6,Medium
+ST1078,28,Female,Medicine,89.7,3.8,10.0,74.5,95.1,66.0,High
+ST1079,27,Female,Computer Science,59.1,2.32,0.4,44.2,37.6,24.4,Low
+ST1080,22,Male,Accounting,82.4,3.73,8.7,83.4,78.4,89.3,High
+ST1081,25,Female,Law,92.9,4.0,9.2,80.3,77.9,79.0,High
+ST1082,27,Male,Accounting,76.5,2.88,5.9,66.3,42.3,64.4,Medium
+ST1083,19,Male,Business Admin,61.0,2.97,4.6,45.2,64.8,43.6,Medium
+ST1084,24,Male,Accounting,95.1,4.0,6.3,81.6,77.8,81.5,High
+ST1085,24,Male,Computer Science,84.5,3.27,11.0,85.7,87.3,75.5,High
+ST1086,28,Male,Accounting,75.6,2.38,8.7,48.9,62.7,73.7,Medium
+ST1087,27,Male,Engineering,40.4,1.21,3.2,58.1,32.7,24.3,Low
+ST1088,21,Male,Computer Science,50.6,2.5,3.0,43.7,33.2,31.0,Low
+ST1089,17,Male,Business Admin,51.0,2.53,3.3,56.5,65.6,56.9,Medium
+ST1090,24,Male,Business Admin,65.0,3.5,3.7,62.9,57.2,59.2,Medium
+ST1091,20,Male,Law,82.0,3.26,14.0,78.1,85.6,65.1,High
+ST1092,20,Female,Accounting,87.8,3.64,8.2,71.4,69.7,82.1,High
+ST1093,29,Male,Law,78.1,2.52,4.9,59.6,57.0,50.0,Medium
+ST1094,28,Female,Computer Science,74.4,3.39,10.3,83.9,69.9,74.8,High
+ST1095,21,Male,Medicine,57.8,3.5,4.7,50.4,61.7,57.1,Medium
+ST1096,22,Female,Business Admin,56.6,2.84,7.0,59.7,39.4,61.4,Medium
+ST1097,27,Female,Computer Science,75.3,2.47,8.0,55.4,72.8,59.2,Medium
+ST1098,17,Female,Engineering,37.0,2.01,2.0,46.3,48.5,39.4,Low
+ST1099,18,Female,Business Admin,72.1,2.04,5.6,65.9,56.4,56.0,Medium
+ST1100,20,Male,Medicine,73.4,2.44,8.2,55.3,35.0,53.3,Medium
+ST1101,25,Female,Computer Science,74.9,3.29,6.8,77.4,77.9,82.0,High
+ST1102,25,Female,Business Admin,89.8,3.14,6.5,43.9,52.5,42.0,Medium
+ST1103,21,Male,Engineering,47.3,2.44,3.0,40.6,51.2,54.4,Low
+ST1104,17,Male,Economics,93.1,3.18,8.8,81.8,77.1,71.7,High
+ST1105,28,Male,Law,55.1,2.5,1.7,35.3,54.3,20.1,Low
+ST1106,19,Female,Medicine,55.5,2.19,2.9,52.3,35.0,35.7,Low
+ST1107,17,Male,Engineering,36.4,2.06,1.4,41.0,33.7,29.3,Low
+ST1108,21,Male,Education,56.3,1.6,3.8,65.0,43.0,37.5,Low
+ST1109,22,Male,Law,74.6,2.38,5.9,62.6,63.3,48.8,Medium
+ST1110,22,Male,Engineering,63.9,3.03,3.2,62.3,57.7,64.2,Medium
+ST1111,18,Male,Engineering,71.9,2.72,3.4,62.3,57.4,49.3,Medium
+ST1112,29,Male,Computer Science,85.3,3.88,9.5,71.7,90.7,84.1,High
+ST1113,26,Female,Accounting,82.0,2.96,1.0,72.9,60.6,61.5,Medium
+ST1114,17,Male,Accounting,77.4,3.5,3.9,56.8,51.5,47.3,Medium
+ST1115,20,Female,Education,57.1,2.5,5.1,29.8,34.7,52.8,Low
+ST1116,21,Female,Accounting,85.9,3.95,6.9,85.8,82.8,78.3,High
+ST1117,27,Female,Computer Science,53.2,3.09,4.3,52.2,51.5,73.2,Medium
+ST1118,28,Male,Law,37.8,1.75,2.7,30.5,35.9,39.4,Low
+ST1119,18,Male,Business Admin,64.4,1.76,2.3,24.2,39.7,44.0,Low
+ST1120,22,Female,Accounting,64.3,2.59,8.8,60.5,62.0,57.3,Medium
+ST1121,22,Female,Computer Science,66.7,2.35,4.1,42.0,53.5,48.3,Medium
+ST1122,19,Male,Computer Science,95.1,4.0,10.6,80.3,81.1,65.8,High
+ST1123,18,Female,Accounting,60.3,2.5,2.7,16.1,33.7,39.5,Low
+ST1124,18,Male,Accounting,90.0,3.23,7.1,87.2,71.9,82.3,High
+ST1125,29,Male,Accounting,96.0,3.95,11.2,77.8,78.2,65.5,High
+ST1126,17,Female,Business Admin,72.8,2.87,6.6,85.0,56.0,47.4,Medium
+ST1127,26,Female,Economics,78.1,3.38,9.2,72.9,88.5,96.2,High
+ST1128,27,Female,Law,70.7,2.58,5.5,48.8,63.2,77.1,Medium
+ST1129,28,Male,Education,84.4,3.76,10.8,88.5,66.5,72.6,High
+ST1130,28,Female,Computer Science,72.2,2.25,4.1,67.8,53.7,56.0,Medium
+ST1131,23,Female,Education,50.4,2.85,10.8,66.8,60.2,71.1,Medium
+ST1132,28,Male,Engineering,86.3,3.66,9.9,88.9,76.5,74.3,High
+ST1133,24,Male,Engineering,28.9,1.71,3.4,45.6,26.0,15.2,Low
+ST1134,23,Female,Law,86.9,3.88,8.0,70.4,75.3,80.6,High
+ST1135,17,Male,Accounting,84.4,2.7,7.1,71.4,48.2,70.5,Medium
+ST1136,28,Male,Engineering,67.7,3.47,2.5,52.1,53.1,49.5,Medium
+ST1137,19,Male,Engineering,63.8,3.26,7.4,71.5,65.2,58.9,Medium
+ST1138,26,Female,Medicine,84.0,3.31,9.7,72.6,72.0,87.2,High
+ST1139,29,Male,Business Admin,96.9,3.53,6.3,86.9,84.6,78.6,High
+ST1140,23,Female,Economics,47.7,2.5,1.2,42.1,46.1,41.0,Low
+ST1141,22,Female,Medicine,78.7,2.08,7.7,73.2,57.0,62.4,Medium
+ST1142,26,Male,Engineering,70.6,2.28,7.3,70.2,57.2,54.0,Medium
+ST1143,26,Male,Medicine,49.9,1.38,3.3,53.6,49.3,23.7,Low
+ST1144,29,Male,Economics,79.7,2.06,6.5,49.6,58.5,70.6,Medium
+ST1145,18,Male,Economics,79.5,3.35,7.9,80.8,81.7,88.2,High
+ST1146,21,Female,Economics,86.2,2.34,6.5,61.1,63.9,49.9,Medium
+ST1147,22,Male,Economics,76.6,3.74,4.0,77.5,82.3,84.1,High
+ST1148,18,Female,Business Admin,83.7,2.77,3.4,84.1,69.1,59.5,Medium
+ST1149,27,Female,Medicine,70.0,2.85,6.0,54.7,43.7,37.2,Medium
+ST1150,18,Male,Computer Science,76.7,2.34,2.7,54.8,61.9,45.1,Medium
+ST1151,23,Female,Business Admin,59.9,3.37,1.6,59.8,72.7,44.8,Medium
+ST1152,21,Female,Medicine,63.9,2.77,6.1,57.3,67.6,61.9,Medium
+ST1153,21,Male,Education,82.1,3.86,7.6,79.5,78.7,80.7,High
+ST1154,26,Male,Computer Science,87.2,3.69,10.0,85.2,63.9,69.5,High
+ST1155,21,Female,Accounting,64.1,3.1,4.5,70.9,72.1,60.8,Medium
+ST1156,21,Female,Computer Science,95.1,3.67,8.4,72.2,76.1,69.1,High
+ST1157,28,Male,Engineering,69.4,2.23,4.8,59.5,35.5,77.3,Medium
+ST1158,24,Male,Business Admin,67.4,2.79,5.5,56.0,70.7,55.9,Medium
+ST1159,23,Male,Engineering,81.7,3.67,12.9,84.7,77.1,65.8,High
+ST1160,18,Male,Computer Science,84.9,3.1,7.3,93.6,91.5,70.9,High
+ST1161,29,Male,Accounting,99.2,3.67,10.9,68.3,85.4,77.9,High
+ST1162,19,Female,Economics,72.7,2.56,6.6,61.4,51.3,48.8,Medium
+ST1163,28,Female,Computer Science,73.8,3.25,5.4,64.1,63.8,40.5,Medium
+ST1164,21,Female,Engineering,55.4,2.2,4.3,43.3,53.1,44.3,Medium
+ST1165,28,Female,Accounting,79.8,2.93,3.6,66.0,52.1,54.9,Medium
+ST1166,22,Male,Medicine,55.5,1.37,1.4,41.2,55.5,16.6,Low
+ST1167,23,Female,Medicine,34.8,0.94,1.6,21.8,38.6,47.0,Low
+ST1168,18,Male,Medicine,49.7,0.91,2.0,40.9,45.7,29.5,Low
+ST1169,27,Male,Law,67.6,2.21,1.0,50.9,44.3,61.4,Medium
+ST1170,18,Male,Business Admin,83.9,3.44,7.0,56.1,92.1,70.0,High
+ST1171,20,Female,Law,63.7,1.97,0.8,35.3,58.1,37.1,Low
+ST1172,26,Female,Economics,72.8,3.55,9.7,90.8,62.0,69.0,High
+ST1173,26,Male,Law,70.5,2.75,5.8,53.0,69.3,62.3,Medium
+ST1174,28,Male,Medicine,53.6,2.5,5.3,35.6,62.1,47.6,Low
+ST1175,20,Female,Medicine,90.4,4.0,7.9,97.2,96.5,88.9,High
+ST1176,27,Female,Engineering,59.3,2.62,6.2,47.7,57.0,77.4,Medium
+ST1177,29,Male,Business Admin,77.7,2.68,4.7,63.7,39.5,67.5,Medium
+ST1178,23,Male,Economics,56.7,1.82,2.3,42.4,55.7,38.8,Low
+ST1179,20,Male,Medicine,87.6,4.0,9.9,73.4,72.2,72.1,High
+ST1180,25,Male,Education,51.9,2.5,0.5,39.2,19.1,42.5,Low
+ST1181,24,Male,Medicine,79.1,3.52,8.3,84.2,75.6,73.2,High
+ST1182,20,Male,Economics,83.5,3.52,12.3,80.1,74.5,72.5,High
+ST1183,20,Male,Accounting,66.5,2.56,2.4,50.8,51.7,63.9,Medium
+ST1184,20,Male,Law,47.4,1.8,3.9,55.5,34.6,30.4,Low
+ST1185,18,Male,Engineering,41.6,2.25,1.7,35.4,28.2,28.8,Low
+ST1186,25,Male,Computer Science,96.0,3.44,8.7,71.3,79.9,75.4,High
+ST1187,29,Female,Engineering,51.4,2.5,2.3,30.5,29.5,45.1,Low
+ST1188,19,Male,Economics,93.5,3.78,11.8,66.4,85.3,85.9,High
+ST1189,17,Female,Computer Science,58.6,2.45,3.3,54.7,55.2,60.4,Medium
+ST1190,18,Female,Business Admin,41.9,1.48,4.0,47.8,39.0,43.7,Low
+ST1191,22,Male,Economics,73.0,2.62,6.8,59.5,53.9,40.3,Medium
+ST1192,20,Male,Law,87.4,3.87,11.3,80.0,87.6,73.5,High
+ST1193,28,Male,Education,100.0,3.22,9.1,76.4,77.6,75.3,High
+ST1194,27,Female,Business Admin,72.7,3.34,8.8,68.6,50.2,56.3,Medium
+ST1195,25,Male,Business Admin,69.2,2.77,6.5,67.3,53.9,63.9,Medium
+ST1196,21,Male,Economics,84.5,3.45,9.2,67.4,90.9,78.4,High
+ST1197,24,Male,Computer Science,83.9,3.81,9.0,65.3,79.1,75.8,High
+ST1198,24,Female,Medicine,91.0,4.0,7.6,77.0,78.0,81.4,High
+ST1199,17,Male,Engineering,88.2,3.26,11.2,87.2,73.9,81.6,High
+ST1200,17,Male,Business Admin,51.5,1.73,3.2,26.6,44.4,41.7,Low
+ST1201,24,Female,Computer Science,85.2,3.44,9.9,91.5,80.5,88.0,High
+ST1202,21,Female,Computer Science,58.8,1.68,2.4,27.1,37.2,50.0,Low
+ST1203,21,Male,Law,74.9,2.86,2.5,59.9,61.8,46.8,Medium
+ST1204,24,Female,Computer Science,72.3,2.77,6.3,52.1,67.5,54.2,Medium
+ST1205,21,Female,Law,76.5,2.71,3.6,69.7,58.5,62.7,Medium
+ST1206,21,Male,Economics,50.4,1.51,3.4,40.9,35.9,29.0,Low
+ST1207,28,Female,Education,77.5,2.15,6.5,71.2,61.2,74.0,Medium
+ST1208,27,Female,Accounting,56.4,2.02,1.1,46.9,18.0,49.9,Low
+ST1209,19,Male,Law,63.2,2.41,4.8,66.3,61.6,50.6,Medium
+ST1210,22,Male,Business Admin,86.2,3.92,9.0,88.9,91.6,73.3,High
+ST1211,21,Female,Engineering,86.5,4.0,11.9,68.6,83.1,78.0,High
+ST1212,29,Female,Education,94.6,3.38,7.3,76.6,75.4,84.5,High
+ST1213,17,Female,Medicine,30.5,2.4,3.9,36.1,34.4,43.4,Low
+ST1214,22,Male,Education,87.3,3.63,8.9,79.5,92.9,61.1,High
+ST1215,17,Female,Accounting,55.4,1.48,3.8,53.9,27.6,23.6,Low
+ST1216,26,Female,Law,88.4,3.49,13.2,78.3,81.5,76.4,High
+ST1217,17,Male,Economics,75.0,0.91,1.5,47.4,35.3,22.3,Low
+ST1218,18,Female,Economics,60.0,1.69,1.1,52.6,26.0,19.5,Low
+ST1219,17,Male,Economics,40.0,2.08,3.3,28.7,26.7,40.2,Low
+ST1220,18,Male,Economics,58.4,2.06,6.0,79.0,63.1,64.2,Medium
+ST1221,21,Male,Education,84.7,2.45,2.8,67.0,58.6,38.8,Medium
+ST1222,20,Female,Economics,70.5,2.84,2.4,60.7,69.5,35.0,Medium
+ST1223,17,Male,Engineering,85.7,3.1,8.9,70.0,81.1,91.0,High
+ST1224,21,Male,Business Admin,69.0,2.45,4.1,55.3,64.4,74.6,Medium
+ST1225,26,Female,Business Admin,95.0,3.03,6.6,61.4,62.3,54.6,Medium
+ST1226,19,Male,Computer Science,76.9,3.19,7.5,72.3,49.8,73.7,Medium
+ST1227,23,Male,Medicine,57.1,1.82,1.3,35.6,53.5,39.0,Low
+ST1228,24,Female,Law,90.3,3.62,7.7,64.8,86.1,83.3,High
+ST1229,20,Female,Education,87.9,3.27,12.6,79.3,82.0,72.4,High
+ST1230,27,Female,Law,57.0,2.89,5.5,50.8,47.0,50.3,Medium
+ST1231,29,Female,Computer Science,38.5,1.94,5.0,52.1,39.9,51.5,Low
+ST1232,21,Female,Business Admin,90.1,3.89,11.2,91.0,71.8,87.4,High
+ST1233,22,Male,Accounting,61.1,2.27,5.9,76.7,62.3,55.7,Medium
+ST1234,26,Female,Engineering,85.4,3.74,8.7,74.9,72.3,82.2,High
+ST1235,22,Female,Engineering,86.6,3.88,10.2,82.4,71.5,69.9,High
+ST1236,17,Male,Computer Science,89.7,2.93,3.8,57.1,55.6,68.4,Medium
+ST1237,27,Female,Computer Science,98.8,3.43,10.1,89.2,80.5,93.6,High
+ST1238,17,Female,Business Admin,88.1,2.99,1.0,67.6,53.7,44.8,Medium
+ST1239,25,Male,Economics,89.5,3.14,11.0,87.8,79.3,73.6,High
+ST1240,28,Female,Computer Science,87.4,2.75,9.2,82.9,86.8,80.4,High
+ST1241,19,Female,Computer Science,42.6,2.5,3.1,51.1,52.1,60.0,Low
+ST1242,19,Female,Accounting,30.7,1.29,0.8,34.4,34.4,32.6,Low
+ST1243,20,Male,Medicine,66.6,2.78,6.9,61.8,66.1,67.0,Medium
+ST1244,27,Male,Economics,45.0,2.5,2.7,50.0,46.4,45.8,Low
+ST1245,20,Female,Accounting,55.6,1.88,3.2,35.7,45.4,51.5,Low
+ST1246,23,Female,Engineering,74.7,2.79,5.8,65.1,70.0,65.9,Medium
+ST1247,26,Female,Computer Science,90.7,3.7,6.6,90.6,66.6,83.7,High
+ST1248,20,Male,Business Admin,82.0,2.44,6.3,67.8,57.9,58.3,Medium
+ST1249,28,Female,Law,74.5,2.43,2.3,72.1,62.0,66.7,Medium
+ST1250,25,Female,Accounting,39.9,1.81,2.3,33.5,56.8,30.3,Low
+ST1251,23,Female,Education,43.9,1.86,0.8,41.1,43.3,51.1,Low
+ST1252,24,Female,Education,51.3,0.98,0.3,45.7,21.8,37.1,Low
+ST1253,27,Female,Computer Science,51.5,2.56,4.1,63.2,57.5,45.6,Medium
+ST1254,19,Female,Economics,54.5,1.98,3.0,34.0,17.2,34.2,Low
+ST1255,20,Male,Computer Science,88.1,3.25,6.9,85.6,80.8,87.1,High
+ST1256,24,Male,Education,67.8,2.85,5.7,72.2,67.3,69.4,Medium
+ST1257,18,Male,Accounting,91.5,2.86,4.5,51.3,61.6,68.0,Medium
+ST1258,24,Male,Business Admin,86.7,3.39,7.7,73.4,83.0,82.6,High
+ST1259,23,Male,Law,64.3,3.41,4.4,77.3,53.6,37.7,Medium
+ST1260,19,Female,Accounting,88.3,3.41,8.9,77.9,77.6,84.7,High
+ST1261,21,Female,Law,69.7,2.66,2.7,58.3,35.0,52.1,Medium
+ST1262,22,Female,Law,69.3,2.94,1.0,61.4,43.2,45.9,Medium
+ST1263,18,Male,Economics,56.5,1.91,2.0,31.4,31.5,43.1,Low
+ST1264,22,Male,Business Admin,84.9,3.85,10.9,68.6,75.3,71.2,High
+ST1265,29,Female,Medicine,95.0,3.04,8.8,70.3,52.6,54.2,Medium
+ST1266,21,Female,Accounting,66.2,2.2,11.6,60.6,56.7,59.1,Medium
+ST1267,28,Female,Law,98.3,3.56,6.7,80.7,76.3,89.4,High
+ST1268,27,Female,Law,47.0,2.36,0.3,40.8,36.8,19.8,Low
+ST1269,19,Female,Medicine,44.5,2.5,0.8,42.2,40.7,53.6,Low
+ST1270,23,Female,Accounting,46.3,1.57,1.6,34.8,44.6,43.0,Low
+ST1271,20,Female,Business Admin,60.7,2.5,2.0,36.8,32.5,44.7,Low
+ST1272,18,Male,Education,48.4,2.22,4.6,50.1,35.9,24.6,Low
+ST1273,28,Male,Accounting,77.5,3.93,10.1,73.6,65.8,83.7,High
+ST1274,22,Male,Law,84.7,3.84,10.6,75.4,87.1,75.7,High
+ST1275,29,Female,Economics,94.5,2.75,1.7,54.9,67.4,55.2,Medium
+ST1276,26,Female,Business Admin,72.1,2.63,1.0,54.2,59.2,40.3,Medium
+ST1277,18,Male,Engineering,85.3,3.72,8.4,84.9,74.4,79.7,High
+ST1278,27,Male,Education,99.8,3.69,8.5,74.5,80.7,76.3,High
+ST1279,28,Female,Accounting,70.1,2.97,5.3,58.7,56.5,47.0,Medium
+ST1280,25,Female,Law,57.9,3.11,3.7,58.2,78.5,74.0,Medium
+ST1281,24,Male,Engineering,79.6,4.0,7.8,70.2,89.9,82.8,High
+ST1282,24,Female,Education,71.7,2.9,4.1,75.1,73.6,42.2,Medium
+ST1283,23,Male,Education,95.0,3.41,2.7,64.4,69.9,51.8,Medium
+ST1284,24,Female,Education,61.7,1.75,3.9,44.7,26.4,35.8,Low
+ST1285,22,Male,Law,40.6,1.96,2.2,23.1,9.5,55.6,Low
+ST1286,23,Male,Education,70.0,2.27,2.1,35.2,46.6,36.1,Low
+ST1287,17,Male,Medicine,71.2,3.24,7.5,62.5,51.1,67.0,Medium
+ST1288,25,Male,Law,58.0,3.41,4.4,52.2,85.0,74.8,Medium
+ST1289,25,Male,Business Admin,82.3,4.0,9.4,71.2,86.3,76.3,High
+ST1290,19,Male,Medicine,88.8,3.37,10.7,77.7,79.2,64.5,High
+ST1291,28,Female,Medicine,36.1,2.5,0.0,30.4,38.2,33.6,Low
+ST1292,24,Male,Computer Science,79.2,3.31,7.0,79.7,95.6,78.6,High
+ST1293,27,Female,Business Admin,83.1,1.68,4.4,75.1,54.3,75.6,Medium
+ST1294,18,Female,Law,84.0,3.3,7.7,72.1,83.4,66.4,High
+ST1295,22,Male,Law,74.7,4.0,10.0,88.0,73.9,83.0,High
+ST1296,21,Female,Engineering,92.0,2.82,7.3,64.9,65.9,41.3,Medium
+ST1297,20,Female,Education,41.7,2.46,0.0,42.1,44.2,32.2,Low
+ST1298,23,Male,Business Admin,59.6,2.5,0.1,29.0,27.6,37.8,Low
+ST1299,28,Female,Engineering,82.7,3.33,7.5,82.9,87.7,77.6,High
+ST1300,23,Female,Engineering,94.2,3.65,7.7,80.7,71.3,73.7,High
+ST1301,23,Male,Accounting,75.9,2.08,5.8,44.7,64.3,55.9,Medium
+ST1302,24,Female,Economics,94.2,3.25,9.2,65.7,87.1,91.8,High
+ST1303,26,Female,Engineering,91.6,3.13,7.5,75.5,99.3,86.4,High
+ST1304,17,Female,Economics,54.5,2.2,0.4,56.5,28.8,29.4,Low
+ST1305,23,Female,Economics,87.4,3.42,5.3,78.5,70.9,79.9,High
+ST1306,19,Male,Computer Science,88.0,3.07,1.9,77.1,75.8,58.2,Medium
+ST1307,23,Male,Law,88.1,3.23,9.8,88.8,76.2,83.3,High
+ST1308,25,Female,Accounting,81.1,3.98,9.6,88.7,76.9,85.9,High
+ST1309,27,Female,Accounting,89.7,1.85,11.0,69.0,56.9,61.3,Medium
+ST1310,21,Female,Business Admin,75.0,2.5,6.0,25.3,40.6,21.4,Low
+ST1311,23,Male,Business Admin,79.3,3.5,8.4,85.0,79.1,84.4,High
+ST1312,17,Female,Accounting,80.3,2.33,4.7,61.2,64.4,68.8,Medium
+ST1313,26,Male,Computer Science,60.7,2.62,1.2,66.4,68.4,44.8,Medium
+ST1314,17,Male,Computer Science,88.9,2.44,6.8,73.4,58.1,60.9,Medium
+ST1315,27,Male,Accounting,82.8,2.36,4.1,63.9,80.6,54.0,Medium
+ST1316,21,Male,Engineering,78.6,3.5,7.2,60.5,57.1,49.8,Medium
+ST1317,28,Male,Economics,78.3,3.1,4.8,81.3,46.4,43.3,Medium
+ST1318,20,Male,Medicine,79.2,4.0,7.5,74.7,88.4,79.7,High
+ST1319,23,Female,Education,55.3,1.18,1.8,27.4,61.5,53.5,Low
+ST1320,28,Male,Computer Science,70.4,3.5,5.8,57.7,61.5,42.6,Medium
+ST1321,26,Male,Computer Science,91.4,3.43,9.8,84.0,84.1,85.8,High
+ST1322,17,Female,Engineering,85.9,3.5,5.0,56.6,47.7,62.3,Medium
+ST1323,27,Female,Law,83.4,2.76,2.5,53.5,50.6,48.7,Medium
+ST1324,17,Male,Accounting,89.0,2.52,5.7,55.5,60.2,43.2,Medium
+ST1325,18,Male,Business Admin,42.1,1.3,3.9,9.4,33.2,2.1,Low
+ST1326,27,Male,Accounting,85.8,2.96,3.3,72.7,60.2,58.4,Medium
+ST1327,17,Female,Accounting,90.3,3.5,4.0,54.1,42.2,59.7,Medium
+ST1328,25,Male,Education,57.4,1.61,2.4,23.3,49.6,31.6,Low
+ST1329,20,Male,Computer Science,72.3,3.85,7.4,83.6,68.7,74.2,High
+ST1330,24,Male,Accounting,61.8,2.85,4.7,65.5,56.3,64.4,Medium
+ST1331,21,Male,Economics,83.8,3.16,8.2,74.4,83.6,68.6,High
+ST1332,29,Male,Education,50.8,1.43,3.8,17.5,34.1,37.5,Low
+ST1333,17,Male,Medicine,92.9,3.59,8.3,78.7,75.1,84.3,High
+ST1334,27,Male,Engineering,52.2,1.64,2.9,31.3,45.7,40.6,Low
+ST1335,25,Male,Education,77.5,3.26,6.9,66.9,48.7,82.5,Medium
+ST1336,27,Female,Computer Science,53.8,1.77,1.4,55.9,44.2,36.6,Low
+ST1337,18,Female,Business Admin,58.7,2.5,1.4,28.1,31.3,27.5,Low
+ST1338,25,Female,Computer Science,62.3,0.76,2.3,35.5,32.0,8.2,Low
+ST1339,20,Male,Computer Science,60.2,3.45,6.6,51.3,70.2,53.3,Medium
+ST1340,19,Male,Business Admin,51.6,3.06,1.2,54.5,65.2,37.9,Medium
+ST1341,26,Male,Accounting,40.4,1.39,0.0,19.2,62.9,35.8,Low
+ST1342,21,Female,Computer Science,88.3,3.49,6.5,74.8,89.5,66.8,High
+ST1343,19,Male,Business Admin,28.0,1.71,0.0,29.1,23.0,23.1,Low
+ST1344,24,Male,Education,88.6,3.68,7.4,81.2,73.2,81.2,High
+ST1345,20,Male,Education,34.3,1.98,2.4,65.0,16.9,65.0,Low
+ST1346,24,Female,Accounting,81.1,2.42,6.3,55.3,59.1,46.3,Medium
+ST1347,25,Female,Computer Science,76.4,3.21,2.2,43.3,71.0,68.3,Medium
+ST1348,17,Female,Law,73.7,2.99,3.5,53.8,69.5,57.2,Medium
+ST1349,29,Male,Business Admin,62.8,1.6,1.8,49.4,52.1,31.7,Low
+ST1350,23,Female,Business Admin,39.5,2.08,1.4,45.2,37.5,38.9,Low
+ST1351,24,Male,Business Admin,78.8,3.27,9.7,94.8,77.2,83.6,High
+ST1352,18,Male,Accounting,68.9,2.36,1.0,59.4,71.8,46.8,Medium
+ST1353,17,Male,Education,73.1,3.08,3.7,63.7,55.8,65.1,Medium
+ST1354,28,Female,Law,70.7,2.23,1.0,39.0,37.1,39.0,Low
+ST1355,24,Male,Computer Science,71.7,3.44,5.1,79.4,64.1,71.0,High
+ST1356,29,Female,Medicine,59.9,2.91,4.5,65.6,54.2,51.4,Medium
+ST1357,28,Male,Education,83.2,4.0,11.6,69.3,73.8,78.9,High
+ST1358,24,Male,Computer Science,53.7,1.84,0.3,21.0,36.4,62.7,Low
+ST1359,20,Male,Accounting,76.5,2.0,5.2,70.2,50.5,71.7,Medium
+ST1360,25,Male,Business Admin,77.0,3.55,10.8,70.0,87.6,76.6,High
+ST1361,25,Female,Economics,89.4,3.75,9.9,86.7,76.7,59.3,High
+ST1362,18,Female,Computer Science,75.1,2.89,4.5,79.6,53.6,35.7,Medium
+ST1363,22,Female,Accounting,73.2,3.28,5.6,58.4,62.4,76.4,Medium
+ST1364,23,Female,Education,60.0,2.03,1.6,34.9,34.6,44.4,Low
+ST1365,25,Female,Economics,82.0,2.37,4.4,85.0,48.6,72.7,Medium
+ST1366,27,Female,Medicine,81.5,3.84,8.3,72.8,91.6,74.9,High
+ST1367,25,Male,Education,80.1,3.06,3.7,52.2,46.3,57.8,Medium
+ST1368,29,Male,Computer Science,70.5,2.73,4.4,63.5,58.7,67.4,Medium
+ST1369,17,Male,Computer Science,71.6,2.42,5.0,55.5,63.5,55.9,Medium
+ST1370,27,Male,Computer Science,41.0,2.91,3.7,63.6,47.6,77.1,Medium
+ST1371,24,Female,Accounting,100.0,3.85,11.8,80.6,80.4,73.2,High
+ST1372,23,Female,Business Admin,68.3,3.5,6.7,80.8,37.7,77.0,Medium
+ST1373,29,Female,Law,54.5,2.9,5.0,69.9,59.1,70.3,Medium
+ST1374,21,Male,Medicine,71.7,3.5,6.7,59.0,59.7,47.9,Medium
+ST1375,29,Female,Business Admin,93.8,3.2,8.3,72.7,71.2,82.8,High
+ST1376,18,Male,Computer Science,76.9,2.99,4.2,58.7,52.7,65.7,Medium
+ST1377,24,Female,Computer Science,54.5,1.88,1.0,23.7,30.2,34.0,Low
+ST1378,19,Male,Computer Science,95.4,3.77,8.0,82.4,75.6,79.2,High
+ST1379,19,Female,Business Admin,77.2,2.6,6.5,45.1,57.5,63.8,Medium
+ST1380,22,Male,Economics,79.8,3.11,4.4,57.7,63.3,77.7,Medium
+ST1381,18,Male,Engineering,83.8,2.83,6.7,76.7,40.9,57.6,Medium
+ST1382,25,Male,Medicine,52.8,2.16,5.2,56.7,52.0,58.9,Medium
+ST1383,17,Female,Education,82.5,3.99,7.8,94.0,79.8,72.8,High
+ST1384,18,Female,Engineering,79.0,2.5,5.2,38.4,46.7,50.5,Medium
+ST1385,29,Male,Computer Science,29.0,1.19,2.7,42.8,33.8,62.6,Low
+ST1386,19,Female,Medicine,51.4,1.63,1.2,51.1,47.3,35.4,Low
+ST1387,21,Female,Medicine,83.5,3.5,9.9,67.7,83.7,69.0,High
+ST1388,23,Male,Economics,53.0,1.84,1.6,48.2,35.2,33.9,Low
+ST1389,25,Male,Economics,39.9,1.92,4.1,49.2,56.2,29.2,Low
+ST1390,25,Male,Business Admin,59.7,2.48,5.3,72.3,63.1,56.5,Medium
+ST1391,25,Female,Education,63.6,2.05,0.4,49.7,52.7,56.4,Low
+ST1392,28,Male,Education,83.7,3.32,12.2,86.5,90.3,68.2,High
+ST1393,24,Female,Education,42.0,2.5,1.6,45.4,31.4,23.7,Low
+ST1394,20,Female,Engineering,89.9,3.52,9.7,92.1,74.5,82.5,High
+ST1395,23,Female,Business Admin,74.8,3.6,10.3,84.6,68.5,88.0,High
+ST1396,29,Male,Engineering,95.0,2.47,2.5,51.9,62.5,40.2,Medium
+ST1397,29,Male,Business Admin,57.0,2.58,2.9,59.2,56.5,51.3,Medium
+ST1398,21,Female,Education,70.4,3.05,7.8,59.2,60.1,62.6,Medium
+ST1399,24,Male,Law,37.2,1.82,1.2,51.4,59.0,28.7,Low
+ST1400,29,Female,Business Admin,54.4,2.03,0.0,30.1,26.9,22.3,Low
+ST1401,21,Male,Economics,51.0,1.85,3.1,16.7,33.4,65.0,Low
+ST1402,20,Male,Economics,61.8,2.72,1.0,67.9,74.0,43.5,Medium
+ST1403,21,Female,Computer Science,53.8,1.63,0.8,30.3,37.4,45.0,Low
+ST1404,22,Female,Law,54.4,3.15,4.9,57.6,62.6,49.6,Medium
+ST1405,20,Female,Business Admin,82.6,3.11,5.4,85.6,79.8,77.5,High
+ST1406,28,Male,Economics,84.8,3.42,8.8,84.4,94.0,82.5,High
+ST1407,28,Male,Engineering,64.4,2.67,3.2,55.2,55.7,50.9,Medium
+ST1408,28,Female,Medicine,74.2,2.97,2.4,58.9,57.0,43.3,Medium
+ST1409,28,Female,Law,62.3,1.09,2.7,22.4,33.2,36.8,Low
+ST1410,23,Female,Computer Science,61.9,2.33,5.3,55.7,55.9,67.7,Medium
+ST1411,19,Male,Law,57.2,2.5,0.5,31.5,40.2,59.8,Low
+ST1412,17,Female,Medicine,88.6,3.75,12.4,86.5,83.2,79.9,High
+ST1413,17,Female,Computer Science,84.1,3.59,7.6,81.6,61.3,81.4,High
+ST1414,25,Female,Engineering,74.2,2.23,8.9,61.0,58.5,48.3,Medium
+ST1415,23,Male,Medicine,82.4,3.14,6.1,58.4,45.5,56.0,Medium
+ST1416,18,Male,Law,55.7,2.5,3.8,34.5,16.5,54.6,Low
+ST1417,18,Female,Computer Science,85.6,2.25,8.0,65.8,61.6,74.1,Medium
+ST1418,25,Female,Business Admin,96.8,3.46,11.1,78.9,79.5,82.0,High
+ST1419,21,Male,Business Admin,71.4,2.84,1.8,72.0,69.0,60.8,Medium
+ST1420,18,Female,Law,61.2,3.5,4.5,69.6,52.5,53.6,Medium
+ST1421,27,Female,Law,92.2,3.64,9.5,83.7,64.2,81.8,High
+ST1422,23,Male,Law,42.7,1.66,5.7,48.7,26.2,40.1,Low
+ST1423,26,Male,Medicine,64.0,3.5,5.8,67.3,69.5,68.6,Medium
+ST1424,25,Male,Medicine,46.7,2.5,0.0,33.1,37.0,39.6,Low
+ST1425,26,Male,Engineering,70.4,2.9,5.9,79.9,77.8,61.0,Medium
+ST1426,23,Male,Computer Science,77.5,3.89,8.9,85.5,82.7,72.4,High
+ST1427,22,Female,Education,70.8,2.41,5.0,61.9,59.8,63.4,Medium
+ST1428,27,Male,Law,62.0,3.34,9.0,79.4,67.0,41.2,Medium
+ST1429,26,Male,Computer Science,51.3,1.85,2.3,23.3,57.3,56.1,Low
+ST1430,24,Female,Engineering,77.9,3.79,11.6,79.1,65.1,80.9,High
+ST1431,26,Male,Education,90.5,3.97,10.5,85.4,78.7,67.4,High
+ST1432,26,Female,Computer Science,90.8,3.82,7.8,79.1,88.9,74.9,High
+ST1433,27,Female,Accounting,60.0,2.05,2.3,58.2,33.1,26.6,Low
+ST1434,19,Female,Computer Science,44.9,1.72,0.1,42.8,20.5,46.2,Low
+ST1435,22,Female,Accounting,83.0,3.5,5.9,59.1,50.4,60.6,Medium
+ST1436,18,Male,Engineering,81.0,3.41,2.5,64.9,41.0,49.9,Medium
+ST1437,26,Female,Computer Science,62.2,3.19,5.9,79.5,76.8,54.6,Medium
+ST1438,29,Male,Engineering,62.4,2.55,1.0,78.1,75.9,47.8,Medium
+ST1439,27,Female,Business Admin,62.4,2.1,4.6,58.8,56.1,60.2,Medium
+ST1440,21,Male,Law,86.3,2.68,5.3,69.3,65.5,51.9,Medium
+ST1441,18,Male,Law,60.8,2.18,5.5,63.5,72.3,63.5,Medium
+ST1442,21,Female,Economics,77.6,3.64,6.2,89.3,84.7,82.5,High
+ST1443,17,Male,Computer Science,47.3,1.95,2.8,33.8,32.3,46.2,Low
+ST1444,23,Male,Law,88.0,3.87,7.1,96.3,69.2,90.4,High
+ST1445,28,Female,Business Admin,55.7,3.09,4.2,51.9,78.1,46.1,Medium
+ST1446,19,Female,Engineering,43.3,1.6,0.0,41.1,27.1,47.7,Low
+ST1447,28,Male,Accounting,54.9,1.98,0.9,32.6,53.9,46.8,Low
+ST1448,20,Male,Engineering,71.4,2.87,6.2,41.3,69.1,66.3,Medium
+ST1449,28,Female,Engineering,49.8,2.94,5.1,58.9,60.2,63.8,Medium
+ST1450,18,Male,Engineering,53.9,3.2,4.2,72.2,66.4,53.7,Medium
+ST1451,29,Male,Education,81.4,2.68,2.6,58.1,65.5,56.5,Medium
+ST1452,24,Female,Engineering,50.3,2.01,0.5,37.7,24.9,36.5,Low
+ST1453,22,Female,Computer Science,33.0,2.07,4.0,23.4,25.5,41.1,Low
+ST1454,19,Male,Engineering,70.2,3.13,8.1,53.3,67.5,54.0,Medium
+ST1455,29,Female,Law,59.2,1.13,1.3,32.5,47.7,19.4,Low
+ST1456,22,Female,Computer Science,91.0,3.64,8.0,93.4,59.0,77.9,High
+ST1457,29,Male,Business Admin,84.0,2.85,7.7,57.5,58.3,70.3,Medium
+ST1458,21,Male,Law,73.0,2.88,4.1,60.0,70.8,58.0,Medium
+ST1459,23,Male,Medicine,71.1,2.5,4.1,52.0,55.8,69.7,Medium
+ST1460,19,Male,Business Admin,64.4,2.99,5.4,68.5,53.9,54.3,Medium
+ST1461,19,Female,Education,73.8,3.99,10.8,78.7,81.7,86.1,High
+ST1462,19,Female,Business Admin,80.1,2.04,3.3,47.4,55.4,62.6,Medium
+ST1463,26,Male,Business Admin,67.6,0.75,3.9,33.5,37.1,31.7,Low
+ST1464,19,Female,Economics,72.1,3.01,1.8,52.8,58.5,49.1,Medium
+ST1465,29,Female,Accounting,78.5,2.66,7.2,52.0,47.5,77.3,Medium
+ST1466,18,Male,Economics,54.6,3.23,4.3,59.5,58.4,68.1,Medium
+ST1467,23,Male,Law,73.3,3.22,6.6,61.6,54.1,61.3,Medium
+ST1468,19,Female,Engineering,73.7,3.29,9.1,70.5,78.6,51.7,Medium
+ST1469,28,Female,Engineering,93.6,4.0,7.2,78.1,93.9,70.2,High
+ST1470,20,Male,Law,66.4,2.12,1.9,34.7,41.4,57.0,Low
+ST1471,19,Male,Economics,88.8,3.96,9.5,65.8,84.2,79.9,High
+ST1472,18,Female,Economics,85.4,2.86,6.6,70.3,69.3,58.2,Medium
+ST1473,23,Male,Business Admin,87.1,3.45,7.9,78.5,88.6,70.4,High
+ST1474,23,Male,Computer Science,79.6,2.59,3.3,64.2,35.4,45.0,Medium
+ST1475,17,Male,Accounting,57.4,1.97,5.6,45.9,25.5,50.3,Low
+ST1476,28,Male,Accounting,65.6,2.52,2.2,57.9,47.7,63.6,Medium
+ST1477,29,Female,Economics,87.4,3.9,12.2,67.7,73.8,67.7,High
+ST1478,25,Female,Education,67.3,2.06,3.3,38.0,65.0,30.7,Low
+ST1479,20,Male,Computer Science,55.5,2.99,5.6,51.5,50.8,57.8,Medium
+ST1480,27,Female,Medicine,75.0,2.66,5.9,69.2,83.3,53.4,Medium
+ST1481,24,Female,Engineering,66.2,2.6,5.9,59.0,61.0,64.6,Medium
+ST1482,19,Male,Engineering,79.0,3.72,8.0,97.1,76.0,78.1,High
+ST1483,22,Female,Business Admin,99.1,3.8,13.7,85.6,90.4,74.2,High
+ST1484,23,Female,Business Admin,78.5,3.36,8.8,49.7,58.5,57.5,Medium
+ST1485,17,Female,Economics,86.5,3.37,11.5,82.5,73.7,89.1,High
+ST1486,29,Female,Medicine,68.6,2.61,2.8,56.3,56.1,64.8,Medium
+ST1487,26,Female,Economics,100.0,2.72,10.0,71.7,73.6,89.4,High
+ST1488,19,Male,Education,93.0,3.35,10.1,91.0,84.2,76.3,High
+ST1489,28,Female,Law,88.7,2.48,4.2,71.9,66.2,44.9,Medium
+ST1490,28,Male,Business Admin,70.9,3.36,5.1,76.3,74.9,48.7,Medium
+ST1491,18,Male,Business Admin,33.5,1.79,2.8,32.5,45.1,30.8,Low
+ST1492,24,Male,Economics,83.1,3.82,11.7,76.3,70.3,77.7,High
+ST1493,22,Female,Economics,91.7,3.38,12.3,80.8,74.2,93.5,High
+ST1494,27,Female,Engineering,82.7,2.54,6.5,79.8,47.9,52.6,Medium
+ST1495,18,Male,Education,57.7,1.86,0.0,25.2,27.4,44.7,Low
+ST1496,29,Male,Engineering,60.7,2.94,7.3,63.5,79.9,59.5,Medium
+ST1497,17,Female,Education,41.1,1.69,1.7,37.2,60.3,42.5,Low
+ST1498,22,Female,Medicine,59.4,1.86,1.5,42.0,51.9,51.5,Low
+ST1499,22,Male,Medicine,70.1,2.81,4.1,60.2,73.4,58.9,Medium
+ST1500,20,Male,Engineering,68.9,2.7,3.3,62.2,55.7,58.8,Medium
+ST1501,23,Male,Accounting,84.8,3.62,11.4,84.1,74.7,81.2,High
+ST1502,17,Male,Business Admin,92.4,3.82,11.9,90.6,84.5,86.5,High
+ST1503,19,Male,Business Admin,84.9,3.06,10.8,86.1,87.4,76.5,High
+ST1504,17,Male,Engineering,82.0,3.51,10.8,79.8,79.6,79.9,High
+ST1505,20,Female,Computer Science,62.3,2.52,7.5,74.0,60.7,69.7,Medium
+ST1506,27,Female,Economics,34.3,1.72,2.0,19.8,45.1,47.1,Low
+ST1507,28,Female,Accounting,57.0,1.87,0.0,44.7,44.7,21.7,Low
+ST1508,28,Male,Law,77.3,3.14,3.9,64.0,65.7,56.2,Medium
+ST1509,29,Female,Accounting,49.9,1.3,4.1,27.0,36.9,41.9,Low
+ST1510,19,Female,Engineering,46.5,1.93,1.0,40.3,29.6,45.3,Low
+ST1511,22,Female,Computer Science,71.2,3.2,5.0,71.6,53.6,52.9,Medium
+ST1512,18,Female,Business Admin,81.8,2.45,1.0,57.9,48.3,53.0,Medium
+ST1513,25,Female,Accounting,59.6,1.86,2.6,33.9,51.9,43.1,Low
+ST1514,23,Female,Education,74.2,2.83,5.0,66.1,55.7,53.1,Medium
+ST1515,28,Male,Economics,93.7,4.0,6.0,79.8,88.9,69.5,High
+ST1516,27,Female,Engineering,56.9,1.94,6.0,48.9,11.9,37.1,Low
+ST1517,22,Male,Engineering,67.4,2.64,6.1,49.4,54.4,68.3,Medium
+ST1518,18,Male,Accounting,35.5,2.22,2.6,51.7,36.6,41.8,Low
+ST1519,26,Female,Computer Science,95.0,3.19,5.2,59.8,73.2,59.0,Medium
+ST1520,22,Male,Economics,41.5,1.82,2.0,45.1,55.6,51.3,Low
+ST1521,17,Male,Law,69.1,3.19,7.4,69.4,54.4,47.6,Medium
+ST1522,28,Female,Accounting,76.6,3.3,5.4,48.9,54.9,66.6,Medium
+ST1523,21,Male,Economics,89.7,2.94,5.6,70.6,48.3,53.5,Medium
+ST1524,28,Male,Economics,89.5,3.5,5.1,70.6,62.2,47.2,Medium
+ST1525,28,Male,Business Admin,90.5,2.07,4.0,62.6,45.9,78.2,Medium
+ST1526,28,Male,Medicine,72.3,2.73,5.8,65.7,51.5,71.2,Medium
+ST1527,20,Male,Medicine,45.1,1.0,4.2,48.9,52.0,52.8,Low
+ST1528,25,Male,Engineering,50.9,2.18,2.4,18.0,36.6,55.0,Low
+ST1529,19,Male,Engineering,62.4,2.94,3.0,53.4,51.5,80.1,Medium
+ST1530,20,Male,Education,77.3,3.08,2.9,81.2,62.7,65.3,Medium
+ST1531,17,Male,Education,75.8,2.08,3.2,54.7,47.2,59.1,Medium
+ST1532,24,Male,Accounting,60.8,2.89,3.2,44.8,65.9,64.7,Medium
+ST1533,19,Male,Medicine,53.0,2.2,3.4,47.5,49.6,50.8,Low
+ST1534,22,Female,Business Admin,82.0,2.96,7.4,70.7,53.7,44.9,Medium
+ST1535,28,Female,Accounting,88.7,3.6,11.6,86.0,87.8,74.1,High
+ST1536,19,Female,Accounting,87.0,3.38,6.9,85.0,82.1,68.1,High
+ST1537,18,Male,Law,49.8,3.41,4.8,66.3,76.7,48.0,Medium
+ST1538,22,Female,Business Admin,80.5,4.0,6.2,81.2,71.4,83.6,High
+ST1539,22,Male,Medicine,92.8,3.34,7.8,65.3,77.6,69.3,High
+ST1540,19,Female,Computer Science,88.8,3.56,12.3,86.0,65.3,67.9,High
+ST1541,28,Male,Accounting,64.3,4.0,10.4,86.2,75.1,81.4,High
+ST1542,18,Male,Law,80.6,4.0,5.9,91.9,80.3,74.1,High
+ST1543,29,Female,Accounting,74.0,2.37,5.2,76.3,61.7,49.7,Medium
+ST1544,23,Male,Engineering,76.3,3.48,1.7,63.7,55.9,53.2,Medium
+ST1545,22,Male,Accounting,80.5,2.38,7.0,61.8,57.2,42.6,Medium
+ST1546,17,Female,Medicine,100.0,3.62,7.8,76.9,69.1,90.2,High
+ST1547,24,Female,Accounting,82.9,4.0,9.9,67.7,74.0,63.7,High
+ST1548,22,Male,Medicine,30.5,2.5,1.7,32.0,49.7,48.1,Low
+ST1549,24,Female,Engineering,80.7,3.34,4.0,73.9,78.6,55.3,High
+ST1550,23,Female,Computer Science,35.5,2.2,0.0,38.1,18.2,42.9,Low
+ST1551,29,Male,Business Admin,48.1,1.44,0.0,29.3,46.0,56.6,Low
+ST1552,28,Male,Medicine,65.2,3.29,4.5,70.9,62.5,59.2,Medium
+ST1553,29,Male,Business Admin,99.7,4.0,6.8,84.1,73.7,81.5,High
+ST1554,28,Female,Economics,90.3,3.48,8.5,98.7,78.9,60.4,High
+ST1555,25,Male,Computer Science,62.8,3.08,6.8,53.6,54.5,51.0,Medium
+ST1556,20,Female,Computer Science,87.2,3.17,6.4,51.7,42.9,70.3,Medium
+ST1557,29,Male,Engineering,100.0,3.57,9.3,71.5,65.8,59.9,High
+ST1558,19,Female,Engineering,91.7,3.94,8.8,95.5,73.4,74.7,High
+ST1559,22,Male,Education,41.2,2.32,3.7,34.6,21.3,52.8,Low
+ST1560,28,Male,Economics,81.0,3.48,6.9,84.3,73.8,83.6,High
+ST1561,22,Male,Computer Science,40.9,2.5,1.3,41.1,23.7,37.8,Low
+ST1562,19,Female,Medicine,79.7,3.73,10.5,87.8,70.3,86.0,High
+ST1563,23,Female,Economics,32.6,1.81,0.5,34.6,38.7,47.9,Low
+ST1564,23,Male,Engineering,60.1,2.0,1.2,29.4,37.3,40.8,Low
+ST1565,24,Male,Computer Science,56.5,1.8,0.0,34.1,23.8,62.7,Low
+ST1566,17,Male,Accounting,59.6,2.06,1.4,33.5,13.8,39.7,Low
+ST1567,21,Male,Education,53.7,1.3,1.6,32.2,46.0,38.5,Low
+ST1568,23,Male,Education,52.4,2.5,0.6,35.6,43.0,29.4,Low
+ST1569,28,Male,Law,50.0,1.84,3.1,35.9,24.6,38.8,Low
+ST1570,18,Female,Business Admin,54.7,3.17,6.3,76.1,60.0,68.8,Medium
+ST1571,23,Male,Education,80.5,3.03,7.5,80.4,82.9,88.2,High
+ST1572,26,Male,Medicine,89.0,3.63,9.7,85.0,82.9,68.1,High
+ST1573,18,Female,Law,80.9,3.59,6.3,88.0,86.0,66.0,High
+ST1574,17,Female,Business Admin,87.7,2.46,4.7,58.3,69.9,64.6,Medium
+ST1575,20,Female,Accounting,88.2,3.91,6.6,95.1,87.2,77.4,High
+ST1576,22,Female,Law,89.9,3.63,7.0,75.4,72.0,80.2,High
+ST1577,18,Female,Engineering,95.0,2.73,2.7,47.5,63.3,78.0,Medium
+ST1578,20,Female,Accounting,100.0,4.0,10.5,85.4,80.5,83.4,High
+ST1579,26,Male,Economics,78.3,2.91,3.1,64.8,59.0,50.0,Medium
+ST1580,21,Male,Medicine,72.7,2.98,6.2,57.4,64.5,64.8,Medium
+ST1581,20,Female,Accounting,59.3,1.69,5.9,39.2,51.5,32.2,Low
+ST1582,17,Male,Medicine,92.2,3.35,9.8,78.1,86.6,71.0,High
+ST1583,19,Female,Education,90.5,3.25,7.7,54.3,56.2,58.0,Medium
+ST1584,25,Female,Education,92.9,3.63,10.1,83.1,79.9,80.3,High
+ST1585,21,Male,Engineering,67.4,3.5,4.7,49.4,43.8,68.2,Medium
+ST1586,21,Female,Medicine,41.5,1.85,2.5,23.6,32.5,29.9,Low
+ST1587,25,Male,Education,65.8,3.15,3.6,66.5,64.2,43.0,Medium
+ST1588,27,Male,Medicine,66.9,2.76,5.5,59.6,70.4,59.0,Medium
+ST1589,21,Female,Business Admin,76.6,3.5,6.1,73.0,57.1,67.2,Medium
+ST1590,18,Female,Medicine,51.1,1.15,2.0,46.8,28.8,22.8,Low
+ST1591,29,Female,Education,73.8,2.73,7.0,69.4,50.2,47.9,Medium
+ST1592,28,Male,Medicine,53.8,1.58,2.4,36.0,48.6,42.0,Low
+ST1593,25,Female,Engineering,98.5,3.43,9.8,81.4,83.4,72.8,High
+ST1594,28,Male,Medicine,40.8,1.24,0.1,26.0,45.1,21.1,Low
+ST1595,29,Male,Medicine,91.3,3.48,9.4,82.9,78.2,76.3,High
+ST1596,22,Female,Education,95.0,2.6,4.8,48.7,51.9,77.0,Medium
+ST1597,17,Female,Education,59.6,2.38,4.3,61.4,69.2,62.5,Medium
+ST1598,23,Male,Business Admin,68.8,2.43,3.2,72.3,41.7,74.2,Medium
+ST1599,28,Female,Economics,79.4,3.39,7.2,67.0,70.9,40.8,Medium
+ST1600,21,Female,Economics,84.2,2.65,6.7,67.4,51.4,52.1,Medium
+ST1601,21,Female,Medicine,84.9,2.49,5.2,54.2,56.9,57.5,Medium
+ST1602,21,Female,Economics,90.3,3.35,7.4,74.5,79.4,85.5,High
+ST1603,26,Female,Engineering,100.0,3.3,11.2,76.2,73.0,72.0,High
+ST1604,21,Male,Law,78.7,2.42,3.0,52.8,58.9,55.9,Medium
+ST1605,20,Male,Business Admin,94.6,2.6,4.1,67.6,54.4,64.7,Medium
+ST1606,29,Male,Economics,66.8,2.99,2.3,47.2,57.0,74.5,Medium
+ST1607,29,Male,Engineering,35.5,1.74,0.0,43.5,40.7,20.9,Low
+ST1608,23,Male,Medicine,70.9,2.5,2.5,50.8,35.9,19.5,Low
+ST1609,27,Male,Business Admin,89.9,3.13,9.0,72.1,87.8,81.0,High
+ST1610,23,Female,Computer Science,78.8,2.94,8.8,72.2,77.0,49.0,Medium
+ST1611,17,Male,Engineering,68.1,2.79,5.9,56.7,67.4,64.7,Medium
+ST1612,27,Male,Accounting,72.3,3.71,12.0,83.1,74.7,87.9,High
+ST1613,26,Female,Medicine,61.8,2.95,3.6,65.1,60.5,68.8,Medium
+ST1614,22,Female,Computer Science,80.0,2.71,5.0,57.9,58.4,64.7,Medium
+ST1615,28,Male,Economics,77.9,3.56,9.1,80.3,75.6,68.1,High
+ST1616,23,Male,Computer Science,72.9,3.07,2.6,76.4,54.4,62.8,Medium
+ST1617,20,Female,Law,57.2,2.2,6.0,47.7,45.5,51.7,Low
+ST1618,29,Male,Engineering,90.5,3.41,9.9,84.3,87.0,83.0,High
+ST1619,21,Male,Medicine,72.9,2.97,6.0,72.9,77.4,64.0,Medium
+ST1620,28,Male,Law,85.3,3.38,4.0,75.3,78.6,75.5,High
+ST1621,19,Male,Engineering,91.7,3.36,7.5,65.1,83.8,70.9,High
+ST1622,27,Male,Economics,63.2,2.95,2.6,61.8,53.9,55.3,Medium
+ST1623,28,Female,Law,99.4,3.32,10.7,90.5,83.4,68.3,High
+ST1624,25,Female,Education,72.1,2.76,4.6,67.2,59.1,60.8,Medium
+ST1625,25,Male,Engineering,100.0,3.57,15.4,85.4,84.8,75.5,High
+ST1626,24,Female,Computer Science,42.0,1.44,4.7,49.6,56.0,51.5,Low
+ST1627,24,Female,Engineering,84.3,3.63,11.3,81.6,100.0,74.5,High
+ST1628,24,Male,Economics,91.3,3.56,8.5,77.0,81.2,84.7,High
+ST1629,27,Male,Engineering,91.0,3.35,8.6,89.6,68.9,61.3,High
+ST1630,29,Female,Medicine,70.1,2.16,2.9,27.1,46.9,41.3,Low
+ST1631,25,Female,Medicine,56.2,3.37,5.3,58.0,56.2,37.8,Medium
+ST1632,21,Female,Economics,80.2,2.74,7.4,55.2,72.4,53.5,Medium
+ST1633,24,Female,Accounting,51.5,2.05,0.0,38.3,37.0,14.2,Low
+ST1634,23,Male,Law,95.5,3.63,7.9,90.0,93.3,78.3,High
+ST1635,28,Female,Education,85.7,2.73,6.9,58.3,78.3,68.8,Medium
+ST1636,17,Male,Accounting,57.6,0.63,2.7,25.2,42.2,53.3,Low
+ST1637,29,Male,Economics,68.3,2.19,3.5,58.7,59.9,70.7,Medium
+ST1638,21,Male,Economics,40.0,2.48,3.3,38.6,26.5,30.6,Low
+ST1639,20,Male,Medicine,65.4,3.48,6.7,70.7,60.9,55.7,Medium
+ST1640,22,Male,Education,50.8,2.08,0.4,43.2,36.7,29.4,Low
+ST1641,27,Male,Computer Science,84.8,2.69,6.3,70.4,61.2,57.8,Medium
+ST1642,17,Male,Economics,55.1,1.27,0.4,37.9,23.0,36.4,Low
+ST1643,22,Female,Computer Science,94.3,2.6,2.8,59.9,59.0,48.1,Medium
+ST1644,18,Female,Engineering,92.0,3.46,6.7,77.9,70.2,73.4,High
+ST1645,28,Male,Medicine,89.7,3.08,7.1,46.3,50.7,72.3,Medium
+ST1646,21,Male,Economics,69.4,2.91,8.5,61.0,67.0,64.7,Medium
+ST1647,17,Female,Engineering,87.3,3.03,3.6,58.9,50.1,68.7,Medium
+ST1648,23,Female,Economics,62.1,1.06,1.9,39.9,34.6,31.4,Low
+ST1649,27,Male,Accounting,39.9,1.98,1.2,34.2,40.4,32.0,Low
+ST1650,29,Male,Law,82.5,2.5,3.4,45.4,55.1,55.7,Medium
+ST1651,29,Male,Education,78.2,3.25,3.2,62.3,50.0,62.1,Medium
+ST1652,23,Female,Medicine,78.9,3.22,3.2,66.4,56.4,56.8,Medium
+ST1653,29,Female,Medicine,84.9,3.53,11.3,81.4,75.2,78.6,High
+ST1654,26,Male,Medicine,88.5,3.43,8.3,75.0,87.4,78.2,High
+ST1655,18,Male,Engineering,85.4,2.89,1.0,66.6,57.4,56.4,Medium
+ST1656,28,Female,Economics,89.1,2.84,4.1,43.9,52.8,54.8,Medium
+ST1657,28,Male,Law,71.7,1.33,0.8,53.5,30.9,51.2,Low
+ST1658,21,Male,Business Admin,41.7,1.36,0.2,44.2,41.7,29.8,Low
+ST1659,19,Male,Law,62.3,2.02,5.9,60.9,52.9,64.5,Medium
+ST1660,29,Female,Medicine,65.5,3.5,6.2,68.8,71.7,58.2,Medium
+ST1661,29,Male,Education,65.1,3.5,4.0,41.7,70.6,71.6,Medium
+ST1662,25,Male,Education,49.2,0.85,1.9,64.9,40.4,47.2,Low
+ST1663,19,Female,Engineering,94.6,3.89,12.7,90.6,79.4,69.1,High
+ST1664,19,Female,Law,79.2,2.45,4.4,62.1,50.6,58.4,Medium
+ST1665,28,Male,Economics,64.6,3.16,1.0,61.9,60.7,66.1,Medium
+ST1666,19,Female,Economics,76.1,3.22,9.7,92.9,80.3,79.7,High
+ST1667,22,Male,Computer Science,83.8,2.18,6.0,61.9,65.7,53.2,Medium
+ST1668,29,Male,Medicine,81.5,3.64,12.3,88.9,75.9,67.3,High
+ST1669,22,Female,Computer Science,80.4,3.5,11.6,69.1,91.9,76.0,High
+ST1670,22,Male,Medicine,64.8,2.98,3.7,42.9,57.8,44.4,Medium
+ST1671,27,Male,Engineering,67.1,2.87,4.6,64.5,66.8,46.4,Medium
+ST1672,18,Female,Computer Science,90.0,3.51,7.0,84.5,89.4,74.2,High
+ST1673,18,Male,Computer Science,77.3,3.4,11.4,82.5,65.0,63.6,High
+ST1674,19,Male,Law,55.8,2.98,7.7,80.9,63.3,63.1,Medium
+ST1675,22,Female,Law,66.2,2.43,4.5,77.1,82.1,59.3,Medium
+ST1676,20,Female,Law,39.5,2.5,1.1,58.4,53.6,45.4,Low
+ST1677,20,Male,Education,60.6,3.1,7.9,62.0,74.0,57.5,Medium
+ST1678,27,Female,Computer Science,60.6,2.72,8.0,56.0,58.6,69.9,Medium
+ST1679,23,Female,Business Admin,77.3,3.23,5.6,74.8,66.7,56.5,Medium
+ST1680,28,Female,Medicine,68.8,3.04,6.7,69.2,60.0,63.5,Medium
+ST1681,22,Male,Computer Science,68.0,3.5,7.2,60.0,60.2,69.8,Medium
+ST1682,20,Male,Business Admin,32.1,2.1,2.4,45.8,48.3,47.3,Low
+ST1683,28,Female,Accounting,46.8,2.42,3.4,37.2,51.3,38.9,Low
+ST1684,21,Female,Computer Science,57.9,1.48,1.4,62.7,33.1,28.4,Low
+ST1685,28,Female,Accounting,65.1,3.03,6.9,74.2,52.5,64.0,Medium
+ST1686,21,Male,Engineering,97.6,3.44,9.6,83.2,71.4,85.7,High
+ST1687,17,Female,Business Admin,90.2,3.37,11.2,70.4,77.1,80.9,High
+ST1688,20,Female,Engineering,94.4,3.95,7.1,75.1,93.7,75.9,High
+ST1689,28,Female,Computer Science,53.2,2.97,4.6,62.8,36.2,35.0,Medium
+ST1690,26,Male,Education,46.5,2.1,0.8,36.8,32.6,48.6,Low
+ST1691,24,Male,Engineering,47.9,2.5,2.6,44.4,42.3,43.0,Low
+ST1692,22,Female,Business Admin,51.5,2.5,2.1,20.2,43.2,28.4,Low
+ST1693,23,Male,Education,93.5,3.8,11.1,85.1,84.4,89.5,High
+ST1694,19,Female,Education,66.6,2.81,5.2,58.3,67.7,39.7,Medium
+ST1695,21,Male,Business Admin,83.6,2.74,5.1,46.9,70.2,64.3,Medium
+ST1696,24,Male,Business Admin,64.3,2.89,3.6,66.3,38.4,53.1,Medium
+ST1697,27,Female,Computer Science,73.7,3.5,1.0,53.8,56.0,66.6,Medium
+ST1698,28,Female,Computer Science,74.8,1.61,2.2,54.0,51.9,29.5,Low
+ST1699,24,Female,Accounting,76.2,2.75,4.2,52.4,71.9,50.6,Medium
+ST1700,25,Female,Medicine,76.8,3.42,4.1,66.7,64.9,51.3,Medium
+ST1701,18,Male,Accounting,40.8,2.5,0.6,54.7,52.7,45.5,Low
+ST1702,26,Male,Computer Science,53.5,2.01,2.9,18.2,36.7,48.3,Low
+ST1703,29,Male,Education,73.3,3.01,8.1,63.3,75.3,63.8,Medium
+ST1704,21,Female,Accounting,77.9,2.44,7.2,55.9,58.1,70.6,Medium
+ST1705,27,Male,Computer Science,47.6,2.07,1.9,39.8,36.2,25.6,Low
+ST1706,26,Male,Engineering,83.3,3.47,10.8,79.9,80.7,70.9,High
+ST1707,24,Female,Medicine,93.4,3.7,11.6,82.4,65.5,64.4,High
+ST1708,27,Male,Law,76.4,2.85,4.7,61.0,51.3,57.8,Medium
+ST1709,25,Male,Computer Science,68.8,2.71,6.8,60.7,70.2,73.4,Medium
+ST1710,28,Female,Economics,75.3,3.15,5.2,71.8,66.1,54.4,Medium
+ST1711,19,Female,Law,87.2,3.46,9.3,90.0,87.1,80.8,High
+ST1712,20,Male,Education,70.5,2.35,7.6,56.7,53.1,40.0,Medium
+ST1713,22,Male,Accounting,43.0,2.19,3.1,32.2,36.4,27.5,Low
+ST1714,26,Female,Education,83.6,3.68,8.0,80.0,68.3,87.1,High
+ST1715,17,Male,Accounting,98.3,3.35,8.3,66.8,100.0,76.8,High
+ST1716,29,Male,Computer Science,64.0,2.5,1.9,27.9,36.3,11.3,Low
+ST1717,27,Female,Law,77.9,2.59,4.2,46.5,50.2,62.4,Medium
+ST1718,26,Male,Business Admin,75.0,2.5,1.8,28.8,34.9,31.4,Low
+ST1719,19,Female,Law,76.8,3.43,5.8,49.2,54.3,62.0,Medium
+ST1720,22,Female,Medicine,72.1,2.73,1.9,53.9,63.1,60.1,Medium
+ST1721,23,Male,Education,70.9,2.4,5.0,61.6,73.7,71.3,Medium
+ST1722,21,Female,Business Admin,79.3,3.86,8.7,89.1,76.6,87.6,High
+ST1723,20,Female,Medicine,64.2,2.28,0.4,31.3,33.9,37.2,Low
+ST1724,20,Male,Engineering,74.3,2.55,3.2,53.8,63.3,56.1,Medium
+ST1725,29,Female,Engineering,73.9,2.08,2.3,50.8,54.7,43.2,Medium
+ST1726,21,Male,Business Admin,63.4,2.78,6.2,71.5,62.9,61.5,Medium
+ST1727,24,Female,Law,96.3,2.96,8.8,82.4,79.1,79.0,High
+ST1728,29,Male,Engineering,83.7,3.53,11.9,92.4,81.3,72.9,High
+ST1729,26,Female,Economics,77.1,2.51,5.0,58.5,42.8,59.2,Medium
+ST1730,28,Male,Economics,69.9,3.02,3.1,45.4,65.6,75.4,Medium
+ST1731,28,Male,Education,40.0,2.5,2.1,24.0,24.4,38.2,Low
+ST1732,23,Female,Medicine,41.4,2.37,2.1,33.6,27.2,48.3,Low
+ST1733,17,Male,Education,74.7,2.52,4.0,62.1,60.6,59.9,Medium
+ST1734,26,Male,Law,37.4,2.5,3.6,53.9,8.5,34.4,Low
+ST1735,22,Female,Medicine,62.8,2.5,0.0,30.4,38.7,48.0,Low
+ST1736,24,Female,Accounting,82.9,3.45,7.7,74.2,72.0,69.3,High
+ST1737,22,Male,Engineering,62.7,2.12,4.3,76.8,60.1,66.0,Medium
+ST1738,21,Male,Law,34.3,1.7,1.2,57.8,40.2,53.3,Low
+ST1739,21,Female,Medicine,72.0,3.47,6.1,67.0,69.1,62.8,Medium
+ST1740,21,Female,Computer Science,75.3,2.79,3.0,54.0,46.8,73.0,Medium
+ST1741,17,Male,Accounting,57.4,3.11,6.9,73.5,49.6,59.6,Medium
+ST1742,29,Male,Engineering,72.4,3.13,3.8,65.3,50.9,47.6,Medium
+ST1743,25,Male,Business Admin,83.9,3.66,6.3,85.7,74.1,74.9,High
+ST1744,21,Female,Medicine,76.7,2.86,2.9,70.8,69.3,67.9,Medium
+ST1745,20,Female,Education,28.6,1.57,3.4,39.0,21.1,17.8,Low
+ST1746,22,Female,Engineering,67.0,3.5,10.3,72.3,67.6,63.3,Medium
+ST1747,21,Female,Business Admin,83.8,3.31,6.5,83.3,92.1,74.7,High
+ST1748,25,Male,Education,92.7,3.57,6.4,87.9,71.2,78.2,High
+ST1749,18,Female,Economics,61.4,2.96,3.3,56.9,35.0,78.9,Medium
+ST1750,20,Male,Education,60.8,2.6,6.4,43.1,58.6,75.7,Medium
+ST1751,28,Female,Law,94.6,3.8,10.3,72.4,81.1,81.1,High
+ST1752,25,Male,Computer Science,84.5,2.99,1.6,53.3,48.4,56.8,Medium
+ST1753,19,Male,Education,69.2,2.7,7.4,69.0,62.6,58.0,Medium
+ST1754,20,Female,Accounting,55.0,2.1,1.0,47.8,48.0,48.3,Medium
+ST1755,25,Female,Engineering,90.3,3.22,7.2,67.3,74.7,83.8,High
+ST1756,25,Female,Law,72.0,2.29,4.2,64.2,69.7,61.6,Medium
+ST1757,20,Male,Business Admin,57.0,2.1,6.6,47.6,70.6,53.5,Medium
+ST1758,26,Female,Education,88.7,2.62,4.2,62.7,55.9,62.2,Medium
+ST1759,25,Female,Medicine,71.0,2.98,3.4,62.9,55.1,55.5,Medium
+ST1760,17,Female,Business Admin,74.9,3.05,5.0,66.9,70.3,76.8,Medium
+ST1761,28,Male,Engineering,97.2,3.76,7.8,86.5,71.0,82.5,High
+ST1762,23,Male,Economics,84.0,2.65,6.0,69.0,56.9,64.8,Medium
+ST1763,25,Female,Education,57.5,2.25,0.5,55.3,43.4,36.6,Low
+ST1764,28,Male,Computer Science,71.1,2.78,3.3,73.9,69.6,68.3,Medium
+ST1765,28,Female,Engineering,74.8,3.79,10.2,94.4,88.7,79.1,High
+ST1766,26,Female,Computer Science,45.5,2.9,6.9,60.8,56.2,60.9,Medium
+ST1767,26,Female,Law,85.5,2.98,3.6,74.2,74.1,49.9,Medium
+ST1768,22,Male,Law,63.4,2.26,1.0,34.6,38.8,15.6,Low
+ST1769,21,Female,Law,72.1,2.53,6.2,40.0,43.4,52.0,Medium
+ST1770,26,Female,Computer Science,58.2,2.01,3.6,41.3,37.8,25.1,Low
+ST1771,27,Male,Computer Science,51.5,2.44,5.9,63.8,57.5,51.9,Medium
+ST1772,22,Female,Medicine,84.5,3.58,10.3,84.8,100.0,81.6,High
+ST1773,25,Female,Engineering,68.1,2.2,5.1,69.8,53.9,49.9,Medium
+ST1774,24,Female,Business Admin,71.5,3.25,5.9,85.1,77.1,76.2,High
+ST1775,29,Male,Accounting,88.5,4.0,9.9,88.1,77.4,82.7,High
+ST1776,18,Male,Economics,50.8,2.07,1.9,34.2,54.7,40.4,Low
+ST1777,21,Male,Medicine,43.6,2.39,4.1,53.7,33.0,33.5,Low
+ST1778,18,Male,Engineering,96.8,3.77,12.5,66.5,81.1,84.7,High
+ST1779,24,Male,Education,59.9,2.84,2.5,76.7,65.1,56.0,Medium
+ST1780,18,Female,Economics,85.4,2.43,3.5,58.4,53.8,40.0,Medium
+ST1781,29,Male,Medicine,68.2,2.5,1.5,39.2,46.4,25.7,Low
+ST1782,18,Female,Economics,56.5,3.12,5.2,69.8,53.7,64.5,Medium
+ST1783,19,Male,Economics,66.7,2.91,3.1,60.2,80.3,40.3,Medium
+ST1784,19,Male,Law,83.8,3.56,8.3,78.0,93.5,73.6,High
+ST1785,17,Male,Engineering,91.2,3.88,8.9,77.4,79.0,82.3,High
+ST1786,22,Female,Law,87.4,3.98,7.7,78.7,94.3,77.2,High
+ST1787,26,Male,Computer Science,59.9,1.46,3.5,26.2,23.3,48.7,Low
+ST1788,27,Male,Economics,79.4,2.43,8.3,61.3,51.3,58.3,Medium
+ST1789,24,Female,Computer Science,73.6,3.15,6.6,70.2,57.2,55.2,Medium
+ST1790,28,Female,Economics,88.8,3.6,12.3,78.0,72.1,83.2,High
+ST1791,21,Male,Accounting,74.7,3.61,6.5,81.3,77.6,73.9,High
+ST1792,20,Female,Economics,39.3,1.35,3.3,39.5,20.9,33.0,Low
+ST1793,26,Female,Accounting,65.6,3.17,10.0,65.0,46.5,55.8,Medium
+ST1794,29,Male,Education,94.5,4.0,9.0,82.1,64.9,69.9,High
+ST1795,20,Female,Computer Science,78.8,3.27,11.2,66.6,78.4,84.9,High
+ST1796,28,Male,Law,66.0,3.5,1.9,75.3,51.1,72.4,Medium
+ST1797,19,Male,Medicine,88.6,3.32,2.9,61.3,62.8,55.4,Medium
+ST1798,20,Female,Medicine,96.0,4.0,8.3,71.1,82.9,93.1,High
+ST1799,24,Male,Law,74.7,2.69,4.7,81.9,70.4,53.0,Medium
+ST1800,24,Male,Engineering,72.8,2.79,5.2,59.5,53.9,54.1,Medium
+ST1801,21,Male,Business Admin,57.8,2.5,0.2,35.2,52.0,42.3,Low
+ST1802,26,Female,Law,41.8,0.78,0.0,12.5,63.7,37.9,Low
+ST1803,23,Male,Computer Science,62.9,2.11,4.2,70.4,57.8,42.0,Medium
+ST1804,17,Female,Accounting,66.7,2.54,1.6,68.3,55.4,35.0,Medium
+ST1805,21,Female,Education,47.9,1.33,2.1,29.9,30.3,34.8,Low
+ST1806,25,Female,Business Admin,52.3,2.77,2.1,51.4,41.4,49.3,Medium
+ST1807,26,Male,Law,63.6,2.02,5.0,60.2,57.4,64.1,Medium
+ST1808,19,Male,Economics,55.2,1.77,2.8,22.4,45.4,41.4,Low
+ST1809,24,Female,Accounting,58.4,2.93,3.1,67.8,80.0,65.8,Medium
+ST1810,29,Female,Business Admin,44.9,2.14,2.1,25.4,58.5,52.9,Low
+ST1811,18,Female,Education,37.9,2.13,2.1,60.1,42.0,19.5,Low
+ST1812,23,Female,Education,67.1,2.81,3.9,79.9,68.1,46.6,Medium
+ST1813,27,Female,Education,43.3,1.25,3.5,39.2,26.3,56.9,Low
+ST1814,21,Male,Economics,74.0,2.99,3.9,69.8,64.7,58.4,Medium
+ST1815,29,Female,Computer Science,47.7,2.89,5.1,63.9,65.0,61.9,Medium
+ST1816,26,Male,Education,41.5,1.11,0.0,42.8,49.8,49.0,Low
+ST1817,29,Male,Education,81.4,4.0,13.1,86.9,91.9,85.0,High
+ST1818,18,Female,Computer Science,45.8,1.62,3.0,39.8,31.2,41.7,Low
+ST1819,19,Male,Education,70.9,2.87,3.9,71.3,64.8,55.2,Medium
+ST1820,27,Male,Computer Science,86.2,3.54,5.5,82.2,82.5,97.7,High
+ST1821,19,Male,Computer Science,55.6,2.38,4.0,57.2,57.6,54.0,Medium
+ST1822,25,Female,Accounting,52.2,1.45,0.1,37.1,43.2,24.6,Low
+ST1823,29,Male,Accounting,70.3,3.1,6.9,64.2,72.1,54.3,Medium
+ST1824,18,Male,Education,94.7,3.42,9.6,87.2,80.4,70.3,High
+ST1825,23,Female,Computer Science,99.0,2.88,7.4,77.9,57.2,66.8,High
+ST1826,27,Male,Law,55.3,1.39,2.6,55.6,53.0,38.5,Low
+ST1827,28,Female,Business Admin,66.8,2.89,5.1,66.6,53.7,54.0,Medium
+ST1828,26,Male,Medicine,61.6,1.68,0.3,44.4,46.8,36.4,Low
+ST1829,29,Female,Medicine,64.9,2.61,8.3,64.2,70.1,50.0,Medium
+ST1830,27,Male,Law,71.0,3.04,7.6,50.9,54.7,63.2,Medium
+ST1831,25,Female,Computer Science,72.2,2.96,6.4,67.0,57.5,56.2,Medium
+ST1832,19,Male,Economics,68.3,2.5,0.8,48.8,25.0,57.4,Low
+ST1833,17,Female,Business Admin,73.9,2.86,3.3,55.9,62.3,58.9,Medium
+ST1834,29,Male,Business Admin,88.0,3.3,10.4,72.7,64.6,78.8,High
+ST1835,17,Female,Engineering,61.8,2.39,2.7,24.1,29.4,38.1,Low
+ST1836,27,Female,Law,88.1,3.32,8.1,88.5,84.0,75.5,High
+ST1837,19,Male,Accounting,94.6,3.81,10.5,84.4,74.8,82.7,High
+ST1838,18,Female,Education,74.3,3.42,6.8,96.5,67.8,92.4,High
+ST1839,27,Male,Education,81.9,3.05,2.5,61.7,73.8,53.9,Medium
+ST1840,23,Female,Engineering,75.0,3.61,6.1,83.0,80.0,71.9,High
+ST1841,25,Female,Engineering,84.3,3.64,7.3,84.6,79.4,96.2,High
+ST1842,20,Female,Accounting,74.9,2.97,7.5,64.9,63.5,52.2,Medium
+ST1843,27,Female,Economics,88.0,3.8,10.7,80.5,89.1,61.4,High
+ST1844,21,Female,Accounting,78.1,3.93,8.2,80.6,79.0,76.3,High
+ST1845,18,Female,Accounting,96.1,3.42,8.9,71.5,88.6,88.6,High
+ST1846,27,Male,Engineering,59.1,3.08,5.6,61.2,59.6,59.4,Medium
+ST1847,25,Male,Accounting,95.1,3.2,10.2,62.8,63.0,87.0,High
+ST1848,19,Male,Economics,99.2,3.78,9.7,81.6,81.0,73.0,High
+ST1849,25,Female,Law,62.3,2.57,5.4,67.1,44.1,57.8,Medium
+ST1850,24,Male,Computer Science,73.3,2.58,7.8,73.9,71.8,53.1,Medium
+ST1851,19,Female,Business Admin,94.9,3.5,5.5,69.7,76.4,60.4,Medium
+ST1852,23,Female,Medicine,66.2,2.55,7.0,57.3,73.2,51.1,Medium
+ST1853,22,Female,Computer Science,75.3,3.19,6.0,72.7,45.4,53.9,Medium
+ST1854,26,Male,Accounting,63.6,1.64,0.9,51.3,25.5,26.0,Low
+ST1855,24,Female,Medicine,77.1,3.34,5.3,45.8,66.8,52.1,Medium
+ST1856,19,Male,Law,83.4,2.63,3.6,42.8,53.4,59.8,Medium
+ST1857,25,Female,Law,84.4,2.81,5.1,73.1,62.3,48.8,Medium
+ST1858,19,Female,Business Admin,62.6,2.12,5.7,74.1,50.6,49.0,Medium
+ST1859,21,Female,Law,74.6,3.1,3.6,55.1,54.9,42.5,Medium
+ST1860,24,Male,Education,72.8,3.34,4.5,68.2,64.9,50.0,Medium
+ST1861,26,Male,Computer Science,81.7,2.28,5.2,57.4,51.5,72.1,Medium
+ST1862,22,Female,Accounting,84.0,3.88,7.3,74.4,78.8,81.8,High
+ST1863,28,Male,Law,42.1,1.2,0.0,61.8,61.1,38.4,Low
+ST1864,19,Female,Law,25.6,2.06,0.5,25.5,49.7,36.1,Low
+ST1865,18,Female,Medicine,50.9,1.9,3.6,33.5,51.9,13.7,Low
+ST1866,18,Male,Education,43.6,1.85,2.3,52.4,27.4,34.8,Low
+ST1867,22,Male,Medicine,80.7,3.21,10.3,69.9,90.3,76.8,High
+ST1868,26,Male,Engineering,75.8,2.59,5.0,69.4,58.0,48.6,Medium
+ST1869,28,Male,Medicine,100.0,3.13,8.2,83.4,66.2,76.2,High
+ST1870,19,Male,Economics,64.3,2.57,6.9,66.2,67.3,40.5,Medium
+ST1871,24,Female,Education,71.2,2.75,4.8,77.7,52.5,64.7,Medium
+ST1872,28,Male,Medicine,61.5,1.83,4.5,47.5,21.0,32.9,Low
+ST1873,18,Female,Engineering,100.0,3.61,10.2,77.1,72.9,64.5,High
+ST1874,25,Male,Law,55.5,2.5,4.7,26.0,36.7,52.0,Low
+ST1875,18,Female,Accounting,84.0,2.76,8.1,77.3,68.5,52.8,Medium
+ST1876,20,Male,Economics,65.9,2.48,6.9,49.9,66.8,47.2,Medium
+ST1877,18,Male,Law,69.8,3.39,6.5,58.5,47.1,67.9,Medium
+ST1878,17,Female,Business Admin,55.3,2.25,4.4,50.6,43.3,49.2,Low
+ST1879,20,Male,Medicine,81.2,2.53,7.1,55.3,49.9,56.7,Medium
+ST1880,27,Female,Accounting,66.5,1.51,1.0,48.6,39.8,29.8,Low
+ST1881,18,Male,Economics,85.2,3.58,5.9,88.1,76.2,55.7,High
+ST1882,28,Female,Economics,70.0,2.51,6.7,65.3,35.0,77.3,Medium
+ST1883,27,Female,Computer Science,59.3,2.11,2.7,29.6,38.9,41.6,Low
+ST1884,28,Male,Education,78.6,3.02,1.7,61.7,43.0,75.4,Medium
+ST1885,19,Female,Computer Science,81.4,2.93,11.9,89.1,77.3,82.9,High
+ST1886,20,Male,Medicine,81.1,4.0,9.7,83.0,73.4,71.5,High
+ST1887,29,Female,Computer Science,63.3,3.36,5.6,51.0,65.5,55.2,Medium
+ST1888,29,Female,Accounting,79.6,3.68,7.7,82.7,85.3,96.9,High
+ST1889,22,Male,Economics,51.4,1.6,0.0,12.6,27.9,57.6,Low
+ST1890,19,Male,Engineering,76.7,2.56,4.9,54.2,52.2,64.1,Medium
+ST1891,24,Male,Law,70.5,3.37,6.1,64.4,45.7,53.1,Medium
+ST1892,18,Female,Economics,70.8,1.48,2.7,52.6,38.1,10.6,Low
+ST1893,25,Male,Engineering,62.5,2.7,2.7,36.3,70.3,58.0,Medium
+ST1894,27,Male,Medicine,68.5,2.77,6.1,71.7,63.2,69.1,Medium
+ST1895,29,Male,Accounting,71.4,2.88,2.6,48.6,64.5,53.9,Medium
+ST1896,29,Male,Computer Science,100.0,3.98,6.5,77.7,86.8,82.8,High
+ST1897,25,Male,Economics,49.1,1.8,1.6,36.3,43.3,38.3,Low
+ST1898,20,Male,Computer Science,66.6,2.89,6.0,72.9,64.3,47.1,Medium
+ST1899,28,Female,Medicine,86.0,3.31,7.9,62.3,66.1,80.7,High
+ST1900,22,Female,Computer Science,63.1,1.64,0.0,46.5,20.6,28.3,Low
+ST1901,29,Male,Accounting,80.9,2.92,3.1,44.9,62.1,61.4,Medium
+ST1902,21,Female,Economics,87.0,1.8,5.2,71.2,55.8,42.0,Medium
+ST1903,20,Male,Engineering,67.1,2.92,7.6,58.0,72.2,56.8,Medium
+ST1904,22,Male,Medicine,90.9,3.76,10.3,82.0,55.0,82.8,High
+ST1905,19,Female,Accounting,91.6,2.9,7.0,72.6,87.6,88.4,High
+ST1906,22,Male,Accounting,100.0,3.77,10.8,82.8,76.0,69.4,High
+ST1907,19,Male,Law,74.9,3.26,3.5,59.8,76.3,56.0,Medium
+ST1908,29,Female,Medicine,62.6,2.94,3.2,64.7,52.6,36.8,Medium
+ST1909,18,Male,Accounting,58.2,1.56,0.8,44.8,56.2,38.1,Low
+ST1910,24,Female,Law,75.7,3.89,10.8,87.7,78.5,82.8,High
+ST1911,17,Female,Education,63.9,1.93,0.0,41.9,41.1,46.5,Low
+ST1912,19,Male,Engineering,76.4,3.34,9.8,86.7,81.6,75.2,High
+ST1913,24,Female,Computer Science,79.3,2.57,6.7,61.3,53.2,67.3,Medium
+ST1914,21,Male,Engineering,73.0,2.63,2.4,50.1,68.5,62.5,Medium
+ST1915,17,Female,Medicine,84.1,3.63,8.3,87.5,81.4,65.9,High
+ST1916,18,Male,Medicine,84.3,3.63,9.6,63.1,88.2,77.3,High
+ST1917,21,Male,Business Admin,50.9,2.17,9.3,63.5,52.6,59.1,Medium
+ST1918,22,Female,Computer Science,91.9,3.54,9.7,80.7,73.4,69.2,High
+ST1919,28,Female,Engineering,69.6,3.17,6.0,71.6,51.9,49.9,Medium
+ST1920,25,Female,Computer Science,72.2,2.19,4.5,64.5,77.8,62.0,Medium
+ST1921,29,Male,Accounting,34.3,2.5,0.5,46.4,44.6,1.0,Low
+ST1922,20,Female,Medicine,89.8,4.0,7.6,66.8,79.1,81.7,High
+ST1923,25,Female,Engineering,61.7,2.15,1.3,58.6,64.2,59.6,Medium
+ST1924,22,Female,Accounting,85.1,2.81,5.7,65.5,61.5,58.2,Medium
+ST1925,26,Female,Medicine,69.2,1.05,2.3,40.1,53.1,37.6,Low
+ST1926,22,Male,Medicine,74.5,2.54,6.6,49.6,56.9,47.5,Medium
+ST1927,24,Female,Engineering,94.7,3.53,12.0,80.1,71.3,76.1,High
+ST1928,21,Male,Education,82.8,4.0,8.6,78.4,86.2,89.4,High
+ST1929,28,Male,Law,75.3,3.5,1.0,65.7,57.2,48.6,Medium
+ST1930,27,Female,Law,68.5,3.2,6.8,68.0,61.7,56.8,Medium
+ST1931,17,Male,Business Admin,67.3,2.41,6.6,64.1,68.4,50.2,Medium
+ST1932,28,Female,Law,69.7,2.41,3.9,28.6,19.7,39.6,Low
+ST1933,21,Female,Medicine,99.8,3.08,10.7,73.2,86.8,74.2,High
+ST1934,24,Female,Business Admin,63.9,2.56,2.1,62.4,52.3,65.9,Medium
+ST1935,23,Male,Engineering,90.9,3.76,11.8,77.0,68.1,79.6,High
+ST1936,17,Male,Law,54.5,2.42,2.6,39.3,29.0,27.7,Low
+ST1937,22,Male,Economics,42.9,2.5,3.3,57.3,42.8,27.4,Low
+ST1938,17,Female,Economics,78.4,2.27,2.1,68.4,56.9,61.1,Medium
+ST1939,28,Male,Medicine,82.2,3.64,6.8,84.0,85.8,84.3,High
+ST1940,28,Male,Business Admin,66.1,3.41,6.9,62.3,81.8,50.7,Medium
+ST1941,26,Male,Computer Science,92.3,3.39,6.6,53.2,51.2,65.0,Medium
+ST1942,18,Female,Business Admin,37.0,2.06,3.2,22.3,45.8,48.8,Low
+ST1943,22,Male,Business Admin,54.1,2.76,1.9,55.1,56.0,46.4,Medium
+ST1944,19,Male,Economics,98.7,3.9,6.8,85.0,95.1,89.0,High
+ST1945,20,Female,Engineering,95.4,3.29,9.4,85.8,71.4,83.6,High
+ST1946,18,Male,Engineering,89.3,3.52,9.7,74.2,76.2,62.3,High
+ST1947,20,Male,Accounting,78.2,2.85,3.0,64.0,52.9,74.6,Medium
+ST1948,29,Male,Business Admin,66.8,1.93,2.6,37.2,27.2,62.0,Low
+ST1949,27,Female,Business Admin,43.0,2.35,3.1,42.2,36.1,36.3,Low
+ST1950,19,Female,Accounting,78.5,3.82,8.5,74.3,69.8,76.9,High
+ST1951,18,Male,Business Admin,58.0,2.07,2.1,28.9,29.1,21.2,Low
+ST1952,21,Female,Engineering,82.5,2.47,5.9,70.7,49.3,56.6,Medium
+ST1953,29,Male,Education,63.2,2.75,6.6,68.4,51.4,64.5,Medium
+ST1954,26,Female,Business Admin,56.9,1.69,2.9,48.0,51.3,36.7,Low
+ST1955,26,Male,Business Admin,70.0,2.19,6.7,43.7,64.0,83.4,Medium
+ST1956,29,Female,Law,92.3,3.39,8.1,85.0,79.8,84.1,High
+ST1957,18,Male,Education,38.1,1.91,2.7,58.2,42.3,29.8,Low
+ST1958,19,Female,Law,49.0,1.55,2.0,32.2,47.9,30.3,Low
+ST1959,17,Male,Business Admin,84.9,3.0,6.4,68.9,68.5,54.9,Medium
+ST1960,25,Female,Business Admin,38.8,1.29,2.8,33.7,27.0,23.5,Low
+ST1961,27,Male,Medicine,88.9,2.81,9.9,85.7,79.2,78.6,High
+ST1962,18,Female,Computer Science,54.6,2.5,4.3,58.0,28.4,47.1,Low
+ST1963,24,Female,Accounting,70.9,2.93,5.1,66.2,80.6,53.0,Medium
+ST1964,18,Male,Accounting,53.5,2.13,1.1,31.2,23.5,40.1,Low
+ST1965,23,Male,Engineering,78.6,2.55,2.6,49.0,69.1,56.9,Medium
+ST1966,21,Male,Engineering,77.2,3.68,9.9,83.4,74.5,71.5,High
+ST1967,20,Female,Computer Science,52.4,1.83,0.0,42.4,41.9,47.0,Low
+ST1968,17,Female,Education,45.1,1.11,1.4,48.5,37.1,48.2,Low
+ST1969,29,Male,Law,74.5,2.66,7.1,64.4,50.2,67.8,Medium
+ST1970,21,Male,Business Admin,63.4,2.78,3.1,60.3,60.3,64.1,Medium
+ST1971,21,Female,Business Admin,76.7,3.9,11.1,80.5,81.0,80.5,High
+ST1972,22,Male,Computer Science,68.1,2.5,5.9,46.7,66.2,65.2,Medium
+ST1973,21,Female,Engineering,68.5,2.63,3.7,66.5,56.1,43.6,Medium
+ST1974,27,Female,Medicine,56.1,1.75,3.6,43.7,41.2,50.2,Low
+ST1975,17,Male,Education,80.0,2.73,4.2,65.8,69.1,59.7,Medium
+ST1976,24,Male,Computer Science,82.9,3.21,5.8,82.3,86.5,59.6,High
+ST1977,17,Female,Accounting,75.8,2.53,2.5,55.9,52.3,58.1,Medium
+ST1978,26,Female,Engineering,71.9,3.21,4.1,68.2,63.2,55.0,Medium
+ST1979,20,Male,Computer Science,84.4,2.49,2.3,47.8,60.9,52.4,Medium
+ST1980,24,Female,Economics,73.8,2.36,6.0,63.8,55.4,64.2,Medium
+ST1981,24,Male,Education,62.6,2.46,0.8,53.6,27.2,47.3,Low
+ST1982,18,Female,Engineering,87.6,3.51,7.4,76.9,84.0,84.8,High
+ST1983,19,Male,Medicine,60.5,2.76,3.9,73.9,53.0,64.0,Medium
+ST1984,27,Female,Accounting,54.1,2.16,2.6,33.3,39.2,33.5,Low
+ST1985,24,Male,Law,84.6,3.42,5.6,64.5,35.0,85.0,Medium
+ST1986,28,Female,Accounting,72.7,1.91,5.4,62.3,45.9,62.5,Medium
+ST1987,21,Female,Economics,80.8,3.03,8.9,66.9,40.1,66.3,Medium
+ST1988,26,Male,Computer Science,54.9,2.61,4.3,54.3,56.5,68.3,Medium
+ST1989,18,Male,Education,94.9,3.25,11.3,70.0,73.4,69.7,High
+ST1990,24,Male,Computer Science,78.8,2.77,2.4,42.0,68.5,65.2,Medium
+ST1991,28,Male,Engineering,82.7,2.75,6.3,55.6,64.8,53.2,Medium
+ST1992,22,Female,Engineering,89.4,3.87,6.4,89.4,81.0,86.5,High
+ST1993,18,Female,Medicine,96.4,3.93,6.5,69.5,86.2,78.9,High
+ST1994,27,Male,Engineering,75.0,1.97,3.0,72.4,60.4,50.8,Medium
+ST1995,21,Male,Education,59.5,3.21,7.3,66.8,44.7,76.5,Medium
+ST1996,26,Female,Computer Science,75.0,2.84,5.9,50.6,54.6,52.1,Medium
+ST1997,17,Male,Accounting,75.9,3.6,8.2,83.8,89.3,88.8,High
+ST1998,22,Male,Engineering,71.8,2.45,3.7,66.8,50.3,53.5,Medium
+ST1999,28,Male,Accounting,39.2,2.23,1.5,13.4,57.6,50.2,Low
+ST2000,28,Male,Computer Science,47.7,1.78,2.4,19.4,31.7,47.5,Low
+ST2001,28,Male,Law,66.9,2.38,2.4,71.9,61.2,60.1,Medium
+ST2002,25,Female,Economics,63.6,1.92,3.4,35.4,35.2,46.6,Low
+ST2003,25,Male,Education,69.0,3.05,7.2,61.0,54.9,71.4,Medium
+ST2004,21,Male,Law,77.7,2.47,4.4,79.6,69.4,74.1,Medium
+ST2005,17,Female,Business Admin,82.6,3.82,9.8,81.6,74.0,86.7,High
+ST2006,21,Male,Law,81.1,2.41,2.8,85.0,51.4,74.2,Medium
+ST2007,17,Male,Education,69.3,3.23,5.1,60.5,51.2,68.3,Medium
+ST2008,23,Female,Engineering,73.1,3.89,6.7,85.6,73.8,69.4,High
+ST2009,17,Female,Medicine,72.4,3.5,8.9,59.5,46.9,72.1,Medium
+ST2010,25,Male,Law,69.3,2.83,7.5,54.1,53.9,65.6,Medium
+ST2011,23,Female,Education,34.6,1.69,0.5,50.2,38.7,48.5,Low
+ST2012,21,Male,Engineering,49.9,1.97,1.1,56.3,22.8,36.6,Low
+ST2013,17,Male,Accounting,89.8,3.31,3.3,54.1,65.1,64.5,Medium
+ST2014,28,Male,Economics,67.8,1.45,4.0,20.6,24.6,58.7,Low
+ST2015,19,Female,Computer Science,68.7,2.79,5.8,67.0,57.1,38.6,Medium
+ST2016,19,Female,Medicine,66.6,2.18,6.5,65.7,58.9,55.5,Medium
+ST2017,28,Female,Business Admin,64.0,3.46,4.5,37.6,72.1,54.9,Medium
+ST2018,21,Male,Medicine,77.2,2.96,8.6,53.5,60.5,51.0,Medium
+ST2019,25,Female,Education,69.7,3.13,2.3,70.6,65.1,44.4,Medium
+ST2020,24,Female,Education,49.2,2.22,0.0,27.6,19.7,31.1,Low
+ST2021,23,Male,Education,45.9,2.41,3.0,55.3,36.9,44.5,Low
+ST2022,29,Male,Business Admin,100.0,3.51,8.9,80.7,79.3,82.5,High
+ST2023,28,Male,Accounting,72.2,2.59,1.5,73.5,54.7,61.8,Medium
+ST2024,20,Female,Law,40.5,3.0,4.4,46.5,54.5,51.1,Medium
+ST2025,18,Female,Medicine,75.8,3.73,4.9,73.0,80.1,73.0,High
+ST2026,29,Female,Accounting,66.3,1.98,2.9,48.0,32.7,25.2,Low
+ST2027,22,Female,Medicine,69.7,3.04,4.9,46.5,45.3,73.6,Medium
+ST2028,24,Female,Economics,81.2,2.32,3.6,59.9,56.6,48.3,Medium
+ST2029,22,Female,Economics,87.0,3.4,10.9,95.7,87.6,69.0,High
+ST2030,29,Female,Medicine,73.7,2.31,5.6,63.0,74.8,53.6,Medium
+ST2031,26,Female,Education,85.9,3.37,3.7,65.5,57.9,55.5,Medium
+ST2032,28,Male,Law,75.2,3.44,11.4,80.4,79.8,84.3,High
+ST2033,20,Male,Economics,78.2,3.0,11.0,92.1,69.5,63.6,High
+ST2034,29,Male,Computer Science,75.0,1.69,3.2,48.7,53.9,30.5,Low
+ST2035,23,Male,Accounting,77.4,3.29,9.4,58.1,61.4,66.7,Medium
+ST2036,26,Male,Business Admin,59.3,2.5,1.8,35.2,54.5,41.6,Low
+ST2037,25,Female,Medicine,81.3,2.45,4.1,35.5,53.7,67.3,Medium
+ST2038,17,Male,Economics,73.3,2.56,5.2,64.4,47.6,58.8,Medium
+ST2039,24,Male,Business Admin,61.9,2.5,1.2,60.3,29.7,43.3,Low
+ST2040,25,Male,Education,65.8,3.08,6.7,61.4,46.4,62.0,Medium
+ST2041,18,Female,Law,100.0,3.13,4.6,76.2,85.7,69.6,High
+ST2042,19,Male,Accounting,91.7,3.71,10.6,78.6,77.0,84.5,High
+ST2043,25,Male,Computer Science,46.8,2.37,2.4,50.3,13.8,41.8,Low
+ST2044,17,Female,Education,94.9,3.57,15.1,64.6,91.0,74.8,High
+ST2045,20,Female,Economics,55.3,2.42,4.6,57.1,26.4,51.6,Low
+ST2046,17,Male,Engineering,91.1,3.4,8.6,76.3,80.3,72.2,High
+ST2047,28,Female,Computer Science,78.3,2.72,7.7,59.4,57.0,64.6,Medium
+ST2048,19,Male,Business Admin,86.9,3.63,4.0,82.1,65.4,68.2,High
+ST2049,18,Male,Accounting,83.6,3.45,10.3,83.8,64.8,78.7,High
+ST2050,24,Female,Law,51.3,2.0,3.1,21.1,35.1,56.1,Low
+ST2051,28,Male,Education,92.3,4.0,12.8,81.0,72.2,75.8,High
+ST2052,17,Male,Law,46.4,1.19,2.2,25.6,36.7,14.6,Low
+ST2053,29,Female,Education,78.2,3.29,4.2,60.6,58.4,59.8,Medium
+ST2054,26,Female,Computer Science,97.9,3.36,8.4,89.2,68.6,62.2,High
+ST2055,19,Male,Medicine,43.3,1.61,0.9,29.6,46.3,23.8,Low
+ST2056,22,Male,Accounting,76.4,3.86,8.0,83.5,67.9,72.1,High
+ST2057,28,Female,Accounting,72.2,3.54,9.8,77.1,86.8,71.1,High
+ST2058,23,Female,Accounting,70.1,3.15,5.1,46.3,56.4,59.3,Medium
+ST2059,26,Male,Computer Science,47.9,1.73,2.9,32.9,48.3,30.1,Low
+ST2060,29,Male,Business Admin,52.4,3.06,5.5,66.9,82.5,55.4,Medium
+ST2061,17,Female,Accounting,30.6,1.53,2.1,29.2,37.2,36.4,Low
+ST2062,24,Male,Law,72.9,2.43,3.9,68.8,65.2,61.4,Medium
+ST2063,19,Male,Computer Science,94.0,3.15,1.5,68.2,73.5,37.4,Medium
+ST2064,29,Male,Economics,98.5,3.58,9.7,84.9,85.7,81.6,High
+ST2065,21,Female,Education,71.9,3.29,6.0,55.4,50.8,64.5,Medium
+ST2066,26,Male,Economics,71.4,3.38,3.5,76.4,69.8,53.6,Medium
+ST2067,20,Female,Law,63.2,3.5,3.2,65.1,63.5,58.1,Medium
+ST2068,28,Female,Education,66.0,3.18,3.9,59.9,69.9,48.1,Medium
+ST2069,29,Female,Engineering,85.8,3.34,10.4,86.1,86.7,76.8,High
+ST2070,21,Male,Business Admin,60.3,1.99,4.5,63.0,76.0,45.9,Medium
+ST2071,23,Male,Engineering,67.2,1.55,1.5,36.1,47.1,20.6,Low
+ST2072,24,Female,Accounting,100.0,3.27,4.0,95.6,83.9,71.7,High
+ST2073,28,Male,Law,52.4,2.73,4.7,65.4,50.3,50.3,Medium
+ST2074,19,Female,Education,49.3,2.16,3.8,56.4,48.0,65.5,Medium
+ST2075,21,Male,Engineering,72.0,2.71,2.5,61.6,35.0,56.4,Medium
+ST2076,19,Female,Medicine,72.6,2.9,1.9,64.2,49.6,49.9,Medium
+ST2077,27,Male,Medicine,72.5,2.47,5.4,71.4,66.2,85.0,Medium
+ST2078,26,Male,Computer Science,64.8,2.9,8.1,76.9,40.5,58.0,Medium
+ST2079,17,Male,Accounting,59.6,2.33,6.5,78.8,77.2,39.2,Medium
+ST2080,18,Female,Medicine,64.0,1.58,2.3,28.6,47.0,20.4,Low
+ST2081,27,Female,Accounting,75.6,2.7,4.3,71.5,75.3,49.4,Medium
+ST2082,26,Female,Law,89.5,3.27,8.1,76.2,69.9,86.5,High
+ST2083,23,Male,Economics,71.4,3.28,7.1,67.6,53.3,59.2,Medium
+ST2084,19,Female,Accounting,53.0,1.79,2.8,42.1,48.9,45.9,Low
+ST2085,29,Male,Education,79.0,2.64,4.1,77.5,67.1,62.0,Medium
+ST2086,19,Female,Accounting,42.4,1.01,1.6,34.6,34.3,48.2,Low
+ST2087,24,Male,Economics,44.7,2.17,1.3,17.9,37.1,53.1,Low
+ST2088,17,Female,Education,76.6,2.23,6.2,53.2,72.2,63.1,Medium
+ST2089,27,Female,Law,68.3,2.64,5.3,52.8,71.2,61.1,Medium
+ST2090,22,Female,Computer Science,100.0,3.92,12.8,73.5,94.4,76.7,High
+ST2091,23,Male,Economics,77.1,3.22,6.8,55.5,50.0,56.1,Medium
+ST2092,22,Female,Law,68.4,1.99,6.0,57.3,34.4,16.7,Low
+ST2093,21,Male,Law,57.3,2.5,0.0,35.7,38.4,42.0,Low
+ST2094,24,Male,Education,60.4,3.09,3.5,73.3,43.1,53.5,Medium
+ST2095,17,Female,Business Admin,64.7,2.25,0.0,42.5,56.3,33.1,Low
+ST2096,26,Female,Medicine,86.3,3.15,8.6,78.1,78.9,58.8,High
+ST2097,17,Female,Education,90.9,3.11,10.5,90.6,64.1,88.4,High
+ST2098,28,Female,Accounting,81.3,2.22,3.3,78.1,47.6,61.6,Medium
+ST2099,23,Female,Computer Science,87.9,4.0,10.5,73.6,81.6,63.1,High
+ST2100,20,Female,Economics,79.1,3.42,5.7,62.1,56.6,63.3,Medium
+ST2101,21,Female,Economics,60.2,2.59,3.6,54.1,53.6,60.1,Medium
+ST2102,21,Male,Business Admin,45.1,2.12,2.2,42.0,37.7,58.7,Low
+ST2103,19,Female,Accounting,42.7,2.35,0.2,56.3,15.0,52.7,Low
+ST2104,22,Female,Computer Science,64.5,3.29,8.6,55.9,65.8,67.8,Medium
+ST2105,17,Female,Business Admin,68.1,2.91,1.0,75.4,42.9,49.6,Medium
+ST2106,20,Male,Education,82.7,2.06,8.2,79.1,49.8,58.8,Medium
+ST2107,29,Female,Medicine,74.6,1.91,1.2,40.9,29.2,38.3,Low
+ST2108,22,Male,Law,67.5,2.49,6.6,45.1,77.6,60.3,Medium
+ST2109,22,Male,Law,100.0,3.89,6.3,82.6,65.6,70.8,High
+ST2110,25,Female,Accounting,67.2,2.53,9.5,63.2,66.2,57.5,Medium
+ST2111,27,Male,Medicine,100.0,3.38,11.3,91.5,65.6,78.4,High
+ST2112,27,Female,Law,52.0,1.68,0.9,52.7,42.8,40.2,Low
+ST2113,28,Female,Computer Science,51.3,2.32,0.0,26.9,59.6,28.4,Low
+ST2114,24,Female,Law,64.1,3.06,6.3,52.3,56.2,63.4,Medium
+ST2115,29,Female,Economics,72.8,3.36,6.1,64.5,62.4,85.0,Medium
+ST2116,29,Male,Business Admin,49.1,2.5,0.0,17.2,33.2,63.4,Low
+ST2117,17,Female,Computer Science,68.8,2.82,3.6,71.6,77.5,35.0,Medium
+ST2118,22,Female,Accounting,68.7,2.5,2.3,32.7,31.1,34.3,Low
+ST2119,24,Male,Engineering,43.6,2.04,3.7,45.4,34.2,44.2,Low
+ST2120,21,Male,Accounting,86.0,1.97,6.6,46.6,72.3,51.6,Medium
+ST2121,26,Female,Medicine,90.9,3.3,6.5,80.5,70.4,69.5,High
+ST2122,28,Female,Business Admin,76.3,3.4,4.7,63.3,80.2,46.1,Medium
+ST2123,19,Male,Law,62.3,2.5,2.4,33.0,51.1,51.6,Low
+ST2124,26,Female,Law,64.8,2.88,6.9,72.2,55.7,61.2,Medium
+ST2125,17,Male,Accounting,64.2,3.11,2.7,72.3,63.2,50.2,Medium
+ST2126,20,Female,Education,78.9,2.56,6.5,59.3,42.8,48.2,Medium
+ST2127,28,Male,Law,95.2,4.0,12.3,77.7,78.5,74.7,High
+ST2128,28,Male,Engineering,75.0,1.88,5.2,39.6,39.9,45.1,Low
+ST2129,28,Male,Engineering,69.1,2.89,1.6,53.1,43.2,65.3,Medium
+ST2130,24,Female,Computer Science,90.8,3.89,7.7,73.0,77.2,86.5,High
+ST2131,25,Female,Law,77.7,2.64,4.4,60.2,65.4,64.4,Medium
+ST2132,17,Male,Accounting,78.4,2.52,3.9,68.4,54.3,60.5,Medium
+ST2133,23,Female,Law,86.4,3.72,11.2,79.3,67.7,75.1,High
+ST2134,26,Male,Law,61.4,2.72,6.0,60.7,58.5,50.9,Medium
+ST2135,19,Female,Education,76.9,2.73,4.0,69.6,55.8,60.9,Medium
+ST2136,18,Female,Business Admin,73.3,2.08,4.1,64.6,64.3,56.0,Medium
+ST2137,19,Male,Computer Science,88.1,3.68,10.9,76.6,76.1,72.6,High
+ST2138,26,Male,Computer Science,92.6,3.26,7.8,85.0,72.7,72.2,High
+ST2139,25,Male,Law,81.5,3.3,3.5,53.1,57.2,47.1,Medium
+ST2140,29,Male,Accounting,56.3,2.5,3.2,45.9,14.4,43.3,Low
+ST2141,19,Male,Economics,93.5,3.55,7.3,88.4,93.7,84.2,High
+ST2142,24,Male,Business Admin,100.0,3.4,8.0,70.8,88.6,78.8,High
+ST2143,21,Female,Education,80.0,4.0,11.8,77.7,94.3,78.0,High
+ST2144,24,Female,Education,92.6,4.0,11.6,86.1,78.9,82.1,High
+ST2145,20,Male,Business Admin,79.1,3.07,9.1,92.1,87.4,77.3,High
+ST2146,23,Male,Education,73.0,1.62,0.0,13.8,23.8,47.8,Low
+ST2147,29,Male,Economics,64.2,2.14,3.0,50.7,27.6,34.1,Low
+ST2148,26,Male,Education,72.7,2.48,7.7,71.4,72.4,64.6,Medium
+ST2149,21,Female,Engineering,43.6,1.77,3.6,22.3,31.0,33.3,Low
+ST2150,26,Male,Education,58.9,2.88,4.3,73.1,57.2,62.6,Medium
+ST2151,21,Male,Law,34.8,2.09,2.5,39.2,54.0,44.1,Low
+ST2152,17,Female,Law,100.0,3.42,9.0,91.5,63.1,76.0,High
+ST2153,26,Female,Economics,96.1,3.41,10.8,87.4,81.4,82.8,High
+ST2154,27,Female,Law,84.9,3.04,6.9,53.2,65.8,62.9,Medium
+ST2155,26,Male,Accounting,69.4,3.47,2.0,79.6,56.4,54.2,Medium
+ST2156,17,Female,Engineering,71.3,2.5,3.6,66.9,51.0,50.3,Medium
+ST2157,19,Male,Education,85.1,2.46,3.5,63.9,56.3,80.3,Medium
+ST2158,18,Female,Medicine,95.6,3.88,9.5,80.7,96.2,77.2,High
+ST2159,20,Male,Law,74.2,3.85,4.3,82.0,78.4,95.9,High
+ST2160,28,Female,Computer Science,53.7,2.44,4.7,60.0,54.5,57.2,Medium
+ST2161,18,Female,Business Admin,77.9,3.71,4.4,81.8,75.2,86.1,High
+ST2162,20,Female,Computer Science,99.1,3.51,7.1,96.0,84.2,78.0,High
+ST2163,29,Male,Law,71.3,2.27,4.5,68.2,58.8,67.0,Medium
+ST2164,24,Female,Medicine,91.1,3.34,6.4,80.7,75.8,80.7,High
+ST2165,17,Female,Medicine,96.4,3.64,7.6,82.1,91.0,80.4,High
+ST2166,24,Female,Education,77.9,2.5,7.1,85.0,52.1,46.2,Medium
+ST2167,23,Male,Medicine,73.8,3.15,4.8,51.5,58.9,64.0,Medium
+ST2168,20,Male,Medicine,97.3,3.67,8.9,88.6,73.2,70.4,High
+ST2169,19,Female,Accounting,82.1,3.06,7.1,60.7,47.3,68.5,Medium
+ST2170,24,Male,Medicine,93.5,3.35,7.2,82.9,74.2,78.8,High
+ST2171,27,Female,Business Admin,75.0,1.55,2.5,18.9,44.3,29.5,Low
+ST2172,24,Female,Education,73.4,2.42,4.4,64.4,57.6,72.0,Medium
+ST2173,27,Male,Economics,57.2,0.68,4.9,19.4,48.8,46.9,Low
+ST2174,29,Male,Education,65.1,2.73,5.9,61.5,50.0,62.1,Medium
+ST2175,23,Male,Computer Science,71.5,2.26,2.8,56.1,64.1,48.7,Medium
+ST2176,18,Female,Education,56.4,1.73,0.0,46.4,29.3,20.1,Low
+ST2177,24,Female,Medicine,23.5,1.73,3.5,40.4,52.4,33.2,Low
+ST2178,27,Male,Education,59.2,1.85,4.0,35.1,25.4,44.1,Low
+ST2179,29,Female,Engineering,71.6,2.31,6.9,61.5,67.0,60.0,Medium
+ST2180,17,Male,Education,45.8,2.41,3.6,52.8,37.8,40.5,Low
+ST2181,23,Female,Engineering,78.0,3.03,3.0,62.7,60.4,57.7,Medium
+ST2182,25,Female,Law,89.6,2.46,4.2,53.7,61.9,52.6,Medium
+ST2183,26,Male,Business Admin,74.4,3.24,1.0,66.9,55.4,62.6,Medium
+ST2184,26,Female,Medicine,63.0,3.28,6.8,67.7,67.9,50.5,Medium
+ST2185,20,Female,Computer Science,81.9,4.0,8.4,86.0,96.8,72.4,High
+ST2186,19,Female,Law,53.1,1.09,3.7,41.2,49.6,30.3,Low
+ST2187,17,Male,Medicine,74.7,3.01,7.0,71.2,52.0,56.8,Medium
+ST2188,17,Male,Economics,76.5,3.12,13.8,97.5,89.3,81.9,High
+ST2189,19,Male,Economics,71.9,1.65,0.9,39.8,45.1,34.9,Low
+ST2190,20,Male,Computer Science,63.6,3.39,6.9,81.1,81.8,61.7,Medium
+ST2191,28,Female,Computer Science,56.8,2.0,1.3,49.1,51.8,21.2,Low
+ST2192,27,Male,Business Admin,83.3,3.77,8.9,84.7,78.9,82.2,High
+ST2193,28,Male,Business Admin,80.1,3.77,7.6,80.8,83.7,78.8,High
+ST2194,20,Female,Business Admin,43.7,2.23,0.7,32.2,30.3,34.0,Low
+ST2195,27,Male,Law,77.4,3.02,5.6,75.8,51.2,40.7,Medium
+ST2196,24,Male,Economics,70.6,2.91,9.1,56.5,55.3,64.6,Medium
+ST2197,28,Female,Education,89.5,3.38,9.9,69.3,100.0,83.8,High
+ST2198,26,Male,Engineering,79.6,3.35,9.4,93.1,79.2,62.9,High
+ST2199,25,Male,Accounting,72.9,2.74,1.0,52.8,48.9,67.0,Medium
+ST2200,17,Male,Engineering,69.1,2.0,3.3,73.7,54.0,51.2,Medium
+ST2201,18,Female,Business Admin,43.9,2.5,1.7,32.9,52.1,50.5,Low
+ST2202,23,Male,Medicine,78.4,3.5,4.7,50.2,66.3,58.6,Medium
+ST2203,24,Female,Law,32.9,2.03,1.5,36.3,33.2,37.5,Low
+ST2204,22,Female,Business Admin,65.9,2.28,1.9,27.6,45.0,34.2,Low
+ST2205,17,Male,Accounting,76.1,3.5,4.0,68.2,72.5,52.8,Medium
+ST2206,26,Male,Accounting,88.6,3.69,9.1,91.3,79.2,95.4,High
+ST2207,23,Female,Engineering,72.1,2.92,1.6,56.2,70.8,57.3,Medium
+ST2208,28,Male,Economics,38.5,1.56,1.0,39.5,28.0,55.1,Low
+ST2209,19,Male,Education,70.4,1.88,2.8,43.7,43.0,33.9,Low
+ST2210,27,Female,Education,56.3,1.81,1.6,22.5,37.9,40.7,Low
+ST2211,27,Male,Accounting,64.8,2.39,5.5,54.6,54.3,50.5,Medium
+ST2212,24,Female,Education,52.1,3.32,4.6,55.7,68.9,55.9,Medium
+ST2213,18,Male,Business Admin,79.0,3.1,4.2,75.2,60.4,71.3,Medium
+ST2214,21,Male,Education,66.9,2.64,7.3,64.9,52.4,58.1,Medium
+ST2215,18,Male,Economics,71.2,2.72,3.5,54.2,68.1,62.2,Medium
+ST2216,22,Female,Engineering,79.3,3.43,11.1,69.2,91.6,69.1,High
+ST2217,19,Male,Computer Science,67.1,2.92,7.6,64.1,72.8,51.3,Medium
+ST2218,23,Male,Economics,85.1,3.16,6.4,70.5,47.9,56.3,Medium
+ST2219,26,Female,Law,86.6,2.92,8.7,75.7,71.6,78.8,High
+ST2220,28,Male,Business Admin,65.5,2.73,9.9,68.2,51.5,70.4,Medium
+ST2221,29,Male,Law,81.7,3.91,7.8,92.8,78.1,75.8,High
+ST2222,26,Female,Law,100.0,3.61,8.2,75.4,68.1,70.0,High
+ST2223,27,Female,Medicine,93.6,3.1,11.2,72.9,77.5,88.0,High
+ST2224,21,Female,Engineering,90.6,3.7,6.6,73.6,87.5,73.3,High
+ST2225,23,Female,Computer Science,79.6,3.68,9.1,82.0,75.9,73.4,High
+ST2226,24,Male,Education,79.4,3.74,7.7,89.7,78.2,69.5,High
+ST2227,23,Female,Engineering,96.1,3.49,8.4,93.3,84.1,91.3,High
+ST2228,21,Male,Engineering,38.9,2.5,3.3,26.7,26.5,20.2,Low
+ST2229,22,Female,Accounting,84.0,2.88,4.4,67.5,62.8,62.3,Medium
+ST2230,28,Male,Education,35.0,1.84,2.4,34.8,23.0,38.1,Low
+ST2231,18,Male,Engineering,100.0,3.35,8.7,92.1,94.2,73.3,High
+ST2232,29,Male,Education,66.9,3.05,4.7,55.7,77.2,64.5,Medium
+ST2233,23,Female,Medicine,66.8,2.72,6.0,64.9,74.3,70.2,Medium
+ST2234,21,Female,Accounting,84.3,2.49,4.8,67.3,51.7,37.4,Medium
+ST2235,22,Female,Computer Science,94.8,3.81,7.4,97.7,80.5,79.1,High
+ST2236,18,Male,Engineering,86.1,3.99,5.3,83.2,80.7,87.9,High
+ST2237,17,Male,Medicine,87.3,3.38,6.7,77.0,71.1,77.2,High
+ST2238,21,Female,Engineering,87.3,3.42,7.0,58.5,52.9,57.6,Medium
+ST2239,28,Female,Economics,77.6,2.94,5.6,57.3,48.0,64.9,Medium
+ST2240,18,Female,Law,57.2,0.89,4.6,33.2,54.5,43.1,Low
+ST2241,21,Female,Business Admin,61.2,2.52,3.6,55.7,42.3,50.0,Medium
+ST2242,20,Male,Economics,78.1,2.82,4.6,59.2,57.0,55.3,Medium
+ST2243,18,Male,Business Admin,65.9,2.89,5.0,55.0,59.1,63.4,Medium
+ST2244,29,Male,Education,49.4,3.03,2.5,57.4,35.0,63.7,Medium
+ST2245,27,Female,Computer Science,88.7,3.01,9.1,87.2,81.4,74.8,High
+ST2246,27,Male,Business Admin,79.6,3.3,4.2,64.3,53.3,62.2,Medium
+ST2247,26,Male,Computer Science,58.2,1.9,1.9,29.4,40.1,31.1,Low
+ST2248,24,Male,Business Admin,91.0,3.29,9.4,77.5,87.2,79.7,High
+ST2249,25,Female,Medicine,53.4,2.48,6.3,73.8,56.9,48.6,Medium
+ST2250,27,Male,Engineering,41.4,1.5,4.3,57.2,39.5,31.8,Low
+ST2251,22,Male,Business Admin,89.8,4.0,7.3,88.6,84.2,77.7,High
+ST2252,26,Female,Law,55.5,1.19,2.2,46.5,49.8,21.2,Low
+ST2253,26,Male,Education,91.3,3.29,8.3,81.6,82.2,78.2,High
+ST2254,25,Female,Education,90.1,3.46,8.3,77.4,95.3,89.7,High
+ST2255,29,Male,Business Admin,94.4,3.65,6.0,79.9,77.3,68.9,High
+ST2256,27,Male,Engineering,57.1,3.0,5.6,50.3,52.5,69.6,Medium
+ST2257,24,Male,Economics,86.5,3.75,7.3,82.7,81.3,79.8,High
+ST2258,27,Female,Engineering,93.9,3.5,3.7,38.8,66.0,59.9,Medium
+ST2259,25,Female,Business Admin,92.2,3.59,8.3,84.8,75.8,81.9,High
+ST2260,18,Female,Engineering,94.8,3.75,10.8,97.3,75.3,91.8,High
+ST2261,27,Female,Economics,76.4,2.4,5.1,81.0,61.4,56.5,Medium
+ST2262,26,Male,Engineering,86.4,3.1,6.8,76.9,57.0,52.0,Medium
+ST2263,20,Male,Education,56.2,1.26,2.8,33.4,24.9,24.3,Low
+ST2264,21,Male,Engineering,86.3,3.88,9.2,64.8,84.9,73.7,High
+ST2265,23,Male,Economics,75.1,2.75,3.7,82.9,35.7,49.4,Medium
+ST2266,18,Female,Business Admin,40.6,1.27,0.3,33.2,35.2,49.3,Low
+ST2267,28,Male,Computer Science,100.0,3.62,9.6,88.0,75.8,77.9,High
+ST2268,27,Female,Engineering,68.8,2.77,6.7,68.7,37.2,68.0,Medium
+ST2269,29,Male,Economics,84.7,3.58,11.6,84.7,90.1,77.6,High
+ST2270,18,Female,Accounting,59.3,1.72,3.4,72.3,74.2,38.0,Medium
+ST2271,22,Female,Economics,57.7,3.22,4.0,85.0,53.3,55.2,Medium
+ST2272,27,Male,Engineering,94.4,3.08,10.3,78.7,73.1,66.8,High
+ST2273,25,Male,Engineering,66.2,3.11,6.1,70.7,76.4,60.2,Medium
+ST2274,28,Male,Engineering,61.4,1.05,2.2,43.0,40.6,36.7,Low
+ST2275,27,Male,Medicine,78.5,3.11,1.7,75.5,45.2,53.9,Medium
+ST2276,23,Female,Engineering,96.7,3.64,10.4,87.1,64.7,73.5,High
+ST2277,17,Male,Computer Science,73.9,3.91,10.2,74.3,83.3,76.2,High
+ST2278,18,Male,Computer Science,68.5,3.27,6.1,69.9,57.7,63.6,Medium
+ST2279,22,Female,Engineering,69.5,3.38,7.3,52.1,55.8,48.8,Medium
+ST2280,28,Male,Accounting,89.4,3.9,13.1,70.6,86.9,77.9,High
+ST2281,19,Male,Accounting,93.7,3.43,6.0,77.7,73.6,86.2,High
+ST2282,23,Male,Computer Science,65.3,3.15,10.7,65.6,68.6,64.9,Medium
+ST2283,23,Male,Education,55.7,1.77,0.7,48.3,26.3,63.6,Low
+ST2284,22,Male,Medicine,83.9,3.52,13.8,74.9,79.1,73.7,High
+ST2285,18,Male,Computer Science,86.0,3.38,10.3,89.6,79.6,74.5,High
+ST2286,26,Male,Education,87.5,2.57,6.7,63.1,42.7,73.2,Medium
+ST2287,25,Male,Law,57.3,3.28,1.0,68.1,67.0,74.9,Medium
+ST2288,25,Female,Engineering,79.9,4.0,12.4,78.4,80.2,88.9,High
+ST2289,28,Female,Accounting,64.4,2.46,6.9,58.3,55.9,64.1,Medium
+ST2290,28,Female,Computer Science,68.8,2.65,3.5,69.1,60.9,60.9,Medium
+ST2291,28,Female,Engineering,75.1,3.09,5.7,64.9,41.8,69.4,Medium
+ST2292,29,Female,Engineering,51.1,1.1,1.9,22.0,51.3,31.8,Low
+ST2293,22,Male,Education,82.4,2.39,3.2,67.8,70.5,60.8,Medium
+ST2294,23,Male,Law,78.7,3.85,9.2,88.4,71.8,74.5,High
+ST2295,23,Female,Medicine,86.3,3.11,4.4,76.1,63.3,58.1,Medium
+ST2296,17,Male,Law,79.0,3.87,9.9,77.4,69.9,76.0,High
+ST2297,24,Male,Education,53.8,2.24,0.3,39.2,41.6,43.5,Low
+ST2298,22,Female,Economics,62.8,1.8,2.1,31.1,42.7,27.6,Low
+ST2299,25,Male,Accounting,76.7,3.31,4.1,50.0,58.4,51.9,Medium
+ST2300,23,Male,Economics,89.4,3.61,10.7,86.4,78.6,85.3,High
+ST2301,21,Female,Law,89.6,4.0,9.7,75.4,71.0,66.2,High
+ST2302,27,Female,Business Admin,86.6,3.31,7.6,74.4,67.4,76.6,High
+ST2303,17,Male,Education,65.6,1.98,3.3,40.4,46.1,21.1,Low
+ST2304,21,Male,Business Admin,83.0,2.7,8.5,67.3,50.9,69.3,Medium
+ST2305,21,Male,Engineering,98.3,3.7,9.1,78.0,86.7,75.8,High
+ST2306,17,Male,Law,87.5,3.65,10.1,84.7,77.3,80.3,High
+ST2307,18,Female,Medicine,70.3,2.88,3.2,71.3,66.0,68.0,Medium
+ST2308,26,Male,Education,85.7,3.88,7.8,85.7,88.3,84.7,High
+ST2309,25,Female,Engineering,93.7,3.63,9.5,84.0,84.3,77.7,High
+ST2310,25,Male,Medicine,76.6,3.65,9.7,81.7,83.5,77.0,High
+ST2311,28,Female,Engineering,94.6,3.15,3.9,64.3,61.5,64.7,Medium
+ST2312,22,Female,Computer Science,89.9,2.06,4.0,71.6,59.6,63.9,Medium
+ST2313,29,Male,Accounting,95.0,2.44,5.3,74.3,68.3,64.8,Medium
+ST2314,18,Male,Education,65.8,2.5,4.9,57.6,60.8,61.4,Medium
+ST2315,19,Female,Medicine,53.5,1.24,2.0,32.8,38.4,25.8,Low
+ST2316,20,Male,Law,39.5,2.11,3.4,31.5,40.3,37.8,Low
+ST2317,20,Male,Law,39.7,1.51,2.2,42.9,52.9,25.6,Low
+ST2318,22,Female,Economics,84.3,3.48,7.6,72.4,74.9,65.1,High
+ST2319,17,Male,Accounting,61.7,2.47,6.9,69.5,46.3,53.9,Medium
+ST2320,17,Male,Law,92.1,3.46,9.5,80.3,83.1,89.8,High
+ST2321,27,Male,Engineering,50.8,1.77,1.8,55.8,45.0,32.3,Low
+ST2322,26,Female,Engineering,30.5,0.75,2.8,36.6,50.0,42.6,Low
+ST2323,25,Female,Economics,77.2,3.42,1.0,60.5,73.5,46.5,Medium
+ST2324,19,Male,Education,69.3,2.09,7.0,63.5,45.6,62.2,Medium
+ST2325,21,Male,Business Admin,91.7,3.01,7.6,60.4,43.7,35.0,Medium
+ST2326,17,Male,Engineering,96.6,3.64,10.5,90.0,83.1,70.8,High
+ST2327,21,Female,Economics,48.2,2.18,2.8,35.6,49.2,33.4,Low
+ST2328,24,Male,Engineering,76.5,2.7,5.1,71.3,40.5,64.2,Medium
+ST2329,19,Male,Economics,71.7,2.41,3.4,64.7,85.0,64.6,Medium
+ST2330,17,Male,Law,77.8,2.11,4.4,60.6,61.2,57.7,Medium
+ST2331,28,Female,Medicine,68.7,2.69,7.3,55.0,57.6,54.4,Medium
+ST2332,27,Female,Engineering,89.2,3.38,7.9,79.8,81.6,84.4,High
+ST2333,20,Female,Economics,99.0,3.31,8.5,82.4,79.2,66.7,High
+ST2334,27,Male,Law,95.8,3.95,10.8,79.6,81.0,72.6,High
+ST2335,23,Female,Engineering,79.2,3.56,8.0,91.4,72.5,83.0,High
+ST2336,25,Female,Law,59.9,1.71,2.2,53.3,28.7,41.3,Low
+ST2337,22,Male,Accounting,80.8,2.99,7.6,60.8,66.7,69.0,Medium
+ST2338,27,Male,Law,75.8,3.17,5.5,76.0,54.7,45.7,Medium
+ST2339,20,Male,Business Admin,41.9,2.5,3.1,47.8,57.1,33.4,Low
+ST2340,26,Female,Education,99.3,3.73,7.8,81.9,81.5,86.9,High
+ST2341,17,Female,Education,64.1,2.77,6.4,57.4,64.2,74.0,Medium
+ST2342,26,Female,Economics,100.0,3.39,7.4,86.2,75.8,86.6,High
+ST2343,24,Female,Engineering,100.0,3.46,8.7,74.3,76.4,76.1,High
+ST2344,28,Male,Economics,45.8,1.65,3.3,41.4,39.4,39.0,Low
+ST2345,28,Male,Business Admin,40.9,2.35,1.7,32.7,50.5,23.7,Low
+ST2346,29,Female,Economics,73.9,3.13,6.4,61.3,61.0,56.5,Medium
+ST2347,19,Female,Medicine,88.3,3.83,11.2,76.7,72.2,68.1,High
+ST2348,28,Male,Engineering,67.3,3.08,4.9,68.1,61.5,41.1,Medium
+ST2349,19,Female,Medicine,86.9,3.42,11.4,70.7,98.9,85.0,High
+ST2350,24,Female,Education,70.3,2.96,3.0,62.3,58.8,50.6,Medium
+ST2351,24,Male,Education,31.6,2.14,3.2,37.4,38.6,52.0,Low
+ST2352,25,Male,Education,46.1,2.48,3.9,23.2,50.1,47.8,Low
+ST2353,29,Female,Medicine,51.5,2.47,3.0,65.0,49.5,39.8,Low
+ST2354,23,Female,Medicine,34.8,1.79,3.4,40.0,50.3,42.1,Low
+ST2355,29,Male,Business Admin,84.8,3.63,9.9,83.1,81.2,71.8,High
+ST2356,18,Male,Law,67.7,3.5,7.5,47.3,36.3,58.8,Medium
+ST2357,20,Male,Education,82.2,2.82,4.7,69.6,54.7,55.1,Medium
+ST2358,26,Female,Medicine,100.0,3.81,10.3,81.6,87.0,75.4,High
+ST2359,20,Female,Engineering,96.3,3.69,13.0,100.0,86.1,78.5,High
+ST2360,24,Female,Business Admin,74.1,3.02,8.5,53.8,50.8,55.6,Medium
+ST2361,26,Male,Engineering,80.8,3.83,6.6,75.3,79.1,73.6,High
+ST2362,29,Female,Education,89.7,2.7,4.8,74.1,59.1,72.9,Medium
+ST2363,23,Male,Computer Science,63.7,2.66,2.9,62.2,42.4,57.4,Medium
+ST2364,26,Male,Computer Science,65.0,2.54,7.4,63.6,68.4,67.4,Medium
+ST2365,26,Male,Accounting,51.8,1.75,3.9,25.9,22.3,56.3,Low
+ST2366,26,Male,Education,65.7,2.88,5.6,54.1,52.1,69.3,Medium
+ST2367,22,Female,Computer Science,70.6,2.93,5.8,74.6,59.8,62.4,Medium
+ST2368,19,Female,Accounting,99.6,3.6,7.9,79.1,85.1,77.1,High
+ST2369,28,Female,Law,80.4,3.7,12.1,75.5,73.2,76.5,High
+ST2370,21,Female,Computer Science,75.7,3.67,10.4,76.4,79.4,79.5,High
+ST2371,20,Female,Computer Science,89.7,3.76,10.4,100.0,71.8,70.9,High
+ST2372,18,Male,Education,59.4,2.05,1.0,28.9,21.3,50.6,Low
+ST2373,28,Male,Medicine,78.1,2.36,3.3,52.3,62.8,52.0,Medium
+ST2374,24,Female,Computer Science,77.7,2.75,7.3,70.0,71.2,65.8,Medium
+ST2375,28,Female,Economics,68.5,2.6,3.2,56.3,45.4,66.8,Medium
+ST2376,29,Male,Economics,79.5,3.84,11.7,75.9,75.6,82.0,High
+ST2377,20,Male,Education,84.5,3.36,9.9,76.1,97.1,82.5,High
+ST2378,17,Male,Business Admin,93.4,3.57,12.7,76.1,86.1,67.3,High
+ST2379,17,Female,Education,62.6,3.01,7.1,53.1,55.4,48.1,Medium
+ST2380,21,Male,Education,72.3,2.48,4.6,54.8,64.8,47.5,Medium
+ST2381,23,Female,Medicine,67.6,3.5,5.4,43.9,46.8,52.1,Medium
+ST2382,17,Female,Medicine,84.1,3.97,9.7,79.4,89.4,71.5,High
+ST2383,22,Male,Medicine,73.8,3.0,8.5,68.6,58.8,53.0,Medium
+ST2384,24,Female,Law,31.2,1.12,3.3,16.3,50.1,47.6,Low
+ST2385,28,Male,Computer Science,77.8,2.84,7.5,48.1,65.0,51.9,Medium
+ST2386,29,Male,Business Admin,66.8,2.81,3.2,56.9,56.0,49.2,Medium
+ST2387,19,Female,Medicine,88.5,2.88,5.3,61.2,56.1,63.8,Medium
+ST2388,27,Female,Education,81.8,2.34,7.1,78.3,49.9,67.2,Medium
+ST2389,22,Female,Medicine,71.6,2.26,1.7,49.3,28.2,34.2,Low
+ST2390,27,Male,Engineering,78.6,2.58,3.3,78.7,43.9,61.6,Medium
+ST2391,20,Female,Education,78.9,3.13,4.4,49.5,75.0,53.5,Medium
+ST2392,20,Female,Engineering,87.3,2.95,4.0,65.9,71.5,58.8,Medium
+ST2393,20,Female,Accounting,46.9,2.3,0.5,48.2,38.3,46.9,Low
+ST2394,28,Male,Medicine,84.3,4.0,7.5,81.0,97.2,81.4,High
+ST2395,25,Male,Economics,83.8,3.33,6.0,61.1,65.6,41.7,Medium
+ST2396,24,Female,Engineering,85.8,4.0,11.2,69.0,72.4,83.1,High
+ST2397,26,Male,Education,54.6,3.37,5.2,76.1,52.6,51.4,Medium
+ST2398,26,Female,Law,59.6,3.02,1.8,76.4,61.8,49.1,Medium
+ST2399,24,Male,Accounting,52.0,2.5,5.4,43.9,50.8,53.7,Low
+ST2400,23,Male,Law,65.2,2.47,5.2,64.0,43.9,61.4,Medium
+ST2401,28,Female,Accounting,86.0,4.0,11.3,75.2,90.5,82.3,High
+ST2402,28,Female,Business Admin,60.5,2.31,1.3,62.2,39.4,49.3,Medium
+ST2403,22,Male,Accounting,60.5,3.04,4.4,56.8,61.5,51.5,Medium
+ST2404,23,Male,Education,71.2,2.83,7.3,75.8,54.0,55.3,Medium
+ST2405,29,Female,Law,93.7,3.87,11.0,82.7,70.7,76.7,High
+ST2406,28,Female,Engineering,87.3,3.42,6.8,52.7,74.0,62.3,Medium
+ST2407,22,Female,Engineering,69.8,2.02,3.0,61.3,59.0,47.4,Medium
+ST2408,17,Female,Business Admin,87.6,3.32,8.1,91.5,80.4,74.3,High
+ST2409,19,Male,Medicine,41.9,1.8,0.0,50.5,38.0,46.0,Low
+ST2410,28,Male,Medicine,49.5,1.72,5.0,30.1,49.1,38.0,Low
+ST2411,22,Male,Economics,71.4,3.27,7.9,59.6,68.0,61.6,Medium
+ST2412,27,Male,Engineering,65.1,2.68,3.8,71.0,59.0,45.0,Medium
+ST2413,28,Male,Business Admin,67.1,2.82,4.7,81.8,65.7,63.3,Medium
+ST2414,27,Female,Business Admin,74.9,3.49,8.0,75.7,73.6,63.5,High
+ST2415,22,Male,Business Admin,86.9,3.45,9.0,91.3,80.0,82.3,High
+ST2416,22,Male,Engineering,56.2,2.5,4.1,47.0,39.8,54.8,Low
+ST2417,26,Male,Medicine,61.5,2.94,1.4,53.0,53.0,55.4,Medium
+ST2418,29,Male,Business Admin,60.7,2.23,0.7,51.3,39.0,26.1,Low
+ST2419,19,Male,Medicine,60.4,1.3,0.0,18.3,35.0,56.5,Low
+ST2420,21,Female,Medicine,67.8,2.16,3.5,51.7,34.2,35.2,Low
+ST2421,19,Male,Engineering,78.2,3.33,8.9,82.9,84.7,77.7,High
+ST2422,18,Male,Engineering,74.8,3.97,11.5,80.3,74.7,75.9,High
+ST2423,25,Female,Engineering,86.1,3.18,12.4,86.2,84.4,83.4,High
+ST2424,21,Male,Economics,75.0,1.85,4.2,29.8,47.8,59.4,Low
+ST2425,22,Female,Accounting,87.6,3.02,10.1,80.3,86.8,74.3,High
+ST2426,22,Male,Medicine,94.3,3.3,6.6,71.6,69.7,83.4,High
+ST2427,26,Female,Law,63.2,2.01,3.1,44.3,23.2,27.4,Low
+ST2428,29,Male,Accounting,64.3,2.98,5.6,77.9,59.6,40.5,Medium
+ST2429,24,Male,Business Admin,59.8,2.5,3.1,30.5,25.0,26.6,Low
+ST2430,18,Female,Law,65.4,2.74,4.4,77.7,49.9,69.8,Medium
+ST2431,17,Male,Engineering,87.8,2.83,4.4,62.7,59.1,41.4,Medium
+ST2432,19,Male,Education,60.4,1.97,1.0,69.7,53.8,53.5,Medium
+ST2433,22,Male,Engineering,92.4,3.63,8.8,69.4,73.4,82.8,High
+ST2434,22,Male,Medicine,90.6,3.76,7.3,81.8,74.6,90.1,High
+ST2435,18,Female,Accounting,64.3,2.35,4.4,74.9,53.6,40.0,Medium
+ST2436,20,Male,Accounting,80.4,3.64,5.8,87.8,67.4,74.1,High
+ST2437,21,Female,Law,61.8,1.65,0.0,38.9,32.1,52.5,Low
+ST2438,17,Male,Economics,74.2,3.16,5.1,62.0,37.7,71.2,Medium
+ST2439,28,Male,Law,76.8,3.05,2.7,48.5,64.0,54.2,Medium
+ST2440,17,Female,Economics,70.3,2.95,6.0,71.8,57.4,68.0,Medium
+ST2441,28,Female,Medicine,38.7,1.85,4.8,23.5,59.5,59.0,Low
+ST2442,20,Male,Engineering,54.4,0.83,2.7,47.7,16.4,26.2,Low
+ST2443,27,Male,Computer Science,72.8,2.74,6.0,60.6,72.6,54.8,Medium
+ST2444,23,Male,Computer Science,79.4,2.81,6.3,68.1,39.8,46.6,Medium
+ST2445,27,Female,Engineering,61.8,2.47,4.2,72.0,72.0,55.1,Medium
+ST2446,25,Female,Economics,72.9,2.88,6.6,70.0,37.0,56.5,Medium
+ST2447,17,Male,Economics,88.6,3.05,8.0,52.6,56.5,43.4,Medium
+ST2448,29,Male,Business Admin,55.6,2.06,5.0,41.0,19.8,49.3,Low
+ST2449,29,Male,Law,50.5,2.49,5.5,70.8,60.8,68.6,Medium
+ST2450,28,Female,Computer Science,67.3,3.0,4.5,55.6,44.4,49.1,Medium
+ST2451,25,Female,Computer Science,62.3,3.42,6.2,83.9,43.9,61.1,Medium
+ST2452,29,Male,Education,90.5,2.1,3.9,54.5,54.3,36.9,Medium
+ST2453,27,Male,Computer Science,92.7,3.2,9.6,88.9,83.1,77.6,High
+ST2454,18,Male,Economics,86.6,3.79,9.6,86.5,84.3,82.2,High
+ST2455,25,Male,Economics,89.1,4.0,9.0,86.8,80.9,94.3,High
+ST2456,26,Female,Medicine,43.4,1.34,2.0,54.2,45.6,13.0,Low
+ST2457,20,Male,Engineering,79.3,2.19,6.7,67.4,58.5,65.3,Medium
+ST2458,29,Male,Accounting,34.7,1.77,3.4,24.0,47.8,13.8,Low
+ST2459,28,Male,Computer Science,53.8,1.61,1.1,53.3,52.3,32.9,Low
+ST2460,27,Female,Engineering,94.2,2.81,8.1,69.3,59.0,51.5,Medium
+ST2461,24,Female,Medicine,74.3,2.85,3.4,53.0,61.9,49.7,Medium
+ST2462,23,Female,Economics,76.7,2.39,2.1,69.2,69.6,57.2,Medium
+ST2463,26,Male,Economics,64.3,2.74,7.7,65.8,59.5,55.2,Medium
+ST2464,17,Female,Accounting,60.7,3.28,4.1,60.0,68.1,56.6,Medium
+ST2465,26,Female,Computer Science,73.0,2.89,5.7,67.6,70.5,67.9,Medium
+ST2466,22,Male,Accounting,31.6,1.58,1.8,26.0,41.4,46.9,Low
+ST2467,19,Male,Accounting,82.3,3.74,10.7,66.5,81.4,81.0,High
+ST2468,28,Female,Education,82.5,3.54,7.5,86.4,83.4,81.0,High
+ST2469,17,Female,Accounting,66.9,2.36,1.1,36.6,41.7,46.3,Low
+ST2470,19,Male,Accounting,90.1,3.99,10.5,69.9,78.3,70.6,High
+ST2471,23,Female,Economics,88.8,3.52,9.1,83.7,74.9,68.3,High
+ST2472,20,Female,Computer Science,27.4,2.5,2.7,44.4,53.2,22.9,Low
+ST2473,29,Male,Business Admin,90.3,3.08,9.7,78.8,73.5,75.3,High
+ST2474,29,Male,Engineering,82.4,3.77,8.7,87.1,59.6,71.3,High
+ST2475,25,Male,Law,94.8,3.06,10.5,76.9,74.1,85.9,High
+ST2476,21,Male,Accounting,75.0,2.5,0.8,41.7,33.7,62.3,Low
+ST2477,23,Male,Medicine,80.8,2.31,5.5,52.6,43.1,65.8,Medium
+ST2478,29,Male,Accounting,49.8,1.27,0.3,28.4,35.2,50.9,Low
+ST2479,25,Male,Engineering,82.5,3.38,4.0,86.5,78.0,77.1,High
+ST2480,28,Female,Medicine,67.7,3.03,7.1,65.0,66.9,56.5,Medium
+ST2481,19,Male,Computer Science,43.0,1.62,4.1,64.1,57.1,22.1,Low
+ST2482,21,Male,Education,57.8,2.32,5.3,35.0,54.1,72.1,Medium
+ST2483,26,Female,Business Admin,84.5,3.77,10.9,77.7,78.1,73.5,High
+ST2484,29,Male,Computer Science,69.0,2.3,6.3,66.8,67.0,50.3,Medium
+ST2485,17,Male,Accounting,65.4,2.44,2.5,59.2,75.8,52.9,Medium
+ST2486,24,Male,Engineering,73.7,1.95,6.3,83.3,35.0,45.6,Medium
+ST2487,19,Female,Accounting,95.9,3.63,11.8,88.6,93.6,87.3,High
+ST2488,19,Male,Accounting,41.6,1.78,2.1,39.0,54.1,34.0,Low
+ST2489,21,Male,Education,59.9,1.2,1.7,55.9,41.5,37.1,Low
+ST2490,27,Male,Computer Science,63.4,2.72,5.5,71.5,60.9,71.5,Medium
+ST2491,22,Female,Medicine,97.8,3.3,6.7,86.1,69.3,75.7,High
+ST2492,18,Male,Law,61.3,2.5,1.6,32.2,41.8,25.1,Low
+ST2493,18,Male,Medicine,71.7,2.84,3.3,54.7,52.5,41.8,Medium
+ST2494,19,Male,Medicine,61.6,1.77,0.8,48.9,45.7,40.6,Low
+ST2495,18,Male,Education,69.4,2.64,1.9,68.6,58.9,63.1,Medium
+ST2496,23,Male,Economics,48.6,2.99,5.3,54.7,64.0,65.9,Medium
+ST2497,20,Female,Medicine,86.8,2.51,5.1,35.8,45.2,59.6,Medium
+ST2498,18,Male,Engineering,72.7,2.65,6.9,49.8,64.3,51.5,Medium
+ST2499,25,Female,Business Admin,69.5,2.99,5.1,60.7,56.4,58.8,Medium
+ST2500,17,Male,Engineering,91.1,4.0,8.2,89.1,80.0,83.1,High
+ST2501,18,Male,Business Admin,97.6,3.21,10.4,89.9,82.9,89.1,High
+ST2502,27,Female,Economics,89.9,3.14,10.9,92.4,78.8,67.3,High
+ST2503,26,Male,Economics,75.0,2.88,7.0,64.9,55.3,41.8,Medium
+ST2504,24,Female,Education,68.7,3.16,2.2,51.9,49.3,59.4,Medium
+ST2505,26,Male,Law,100.0,4.0,11.1,66.3,74.0,55.0,High
+ST2506,28,Female,Business Admin,94.5,3.07,11.8,91.6,92.3,86.9,High
+ST2507,19,Male,Law,97.4,3.83,5.1,74.3,72.5,83.8,High
+ST2508,22,Male,Law,87.5,3.82,6.8,84.1,87.2,66.2,High
+ST2509,22,Male,Economics,79.5,2.61,3.0,77.7,70.7,61.4,Medium
+ST2510,17,Male,Engineering,49.6,1.48,2.5,37.1,42.3,26.2,Low
+ST2511,26,Female,Economics,89.1,3.72,8.5,100.0,83.7,78.8,High
+ST2512,28,Female,Computer Science,79.4,2.59,3.9,70.0,68.9,69.9,Medium
+ST2513,29,Female,Economics,90.6,3.82,10.1,75.2,84.1,80.6,High
+ST2514,17,Male,Economics,75.2,2.36,3.1,80.1,69.9,57.4,Medium
+ST2515,24,Female,Accounting,88.4,3.56,7.4,80.1,66.5,82.2,High
+ST2516,28,Male,Accounting,43.6,0.75,2.5,55.8,18.8,33.5,Low
+ST2517,19,Female,Accounting,87.6,3.51,6.8,72.7,95.5,73.0,High
+ST2518,29,Female,Business Admin,80.3,3.43,1.9,75.1,63.7,68.8,Medium
+ST2519,17,Female,Medicine,75.4,3.19,2.5,58.0,48.0,62.2,Medium
+ST2520,19,Female,Business Admin,79.8,2.85,5.7,56.0,66.5,56.0,Medium
+ST2521,29,Male,Accounting,73.5,1.64,3.5,63.7,52.3,27.2,Low
+ST2522,21,Female,Medicine,52.7,2.16,3.8,41.0,30.5,40.5,Low
+ST2523,27,Female,Accounting,56.1,1.07,0.0,49.2,33.6,42.3,Low
+ST2524,22,Male,Business Admin,84.2,2.31,5.4,67.2,62.7,46.4,Medium
+ST2525,25,Female,Education,40.5,0.97,2.9,65.0,25.8,40.0,Low
+ST2526,22,Male,Medicine,46.2,1.47,3.5,55.9,39.9,27.9,Low
+ST2527,26,Female,Economics,62.2,2.76,6.1,66.9,59.9,58.6,Medium
+ST2528,20,Male,Law,87.3,3.21,9.3,77.3,69.2,81.0,High
+ST2529,23,Male,Accounting,66.6,3.5,4.3,66.0,74.5,37.2,Medium
+ST2530,22,Female,Economics,80.2,3.37,8.2,74.6,77.5,86.5,High
+ST2531,28,Male,Accounting,90.3,3.81,11.7,73.3,90.7,71.0,High
+ST2532,25,Male,Education,29.8,1.74,2.0,27.2,42.6,59.0,Low
+ST2533,17,Female,Education,77.4,2.28,4.3,65.1,76.4,66.5,Medium
+ST2534,20,Male,Engineering,66.0,3.89,7.6,74.0,77.9,68.4,High
+ST2535,27,Male,Law,86.8,3.93,5.2,81.8,79.1,82.6,High
+ST2536,23,Female,Engineering,86.2,3.23,3.6,81.9,49.0,65.7,Medium
+ST2537,21,Female,Computer Science,82.7,2.52,7.0,61.3,71.7,60.6,Medium
+ST2538,21,Male,Business Admin,64.0,1.62,3.9,15.0,47.2,43.2,Low
+ST2539,19,Male,Computer Science,45.1,1.51,3.2,45.4,38.6,33.4,Low
+ST2540,24,Female,Medicine,82.3,3.16,4.8,75.5,58.1,60.0,Medium
+ST2541,20,Female,Engineering,65.7,3.08,5.8,51.5,65.7,75.9,Medium
+ST2542,20,Female,Economics,91.2,2.81,1.9,59.2,60.6,62.5,Medium
+ST2543,21,Female,Education,79.2,3.4,7.9,72.9,74.1,83.3,High
+ST2544,26,Female,Law,67.7,2.39,3.2,35.9,39.7,33.0,Low
+ST2545,29,Female,Business Admin,69.8,2.83,6.4,66.2,58.4,58.6,Medium
+ST2546,23,Female,Law,56.8,2.37,7.2,61.4,55.8,55.4,Medium
+ST2547,26,Female,Law,85.9,3.77,6.8,82.2,82.0,81.2,High
+ST2548,28,Female,Education,54.3,1.75,4.1,56.7,31.6,55.0,Low
+ST2549,22,Male,Engineering,60.3,1.98,2.3,45.4,33.0,53.9,Low
+ST2550,17,Male,Economics,64.0,2.17,1.7,37.5,25.1,31.6,Low
+ST2551,25,Female,Law,42.0,1.96,1.3,32.3,45.1,41.0,Low
+ST2552,29,Male,Economics,59.9,2.35,4.3,61.0,67.6,51.7,Medium
+ST2553,23,Male,Business Admin,39.0,2.41,2.0,30.7,24.8,35.8,Low
+ST2554,29,Male,Engineering,81.2,3.16,6.6,70.5,54.7,65.8,Medium
+ST2555,22,Female,Business Admin,68.1,2.57,5.2,69.7,61.8,46.9,Medium
+ST2556,28,Female,Accounting,76.5,2.94,4.0,65.4,35.0,66.4,Medium
+ST2557,27,Female,Accounting,81.6,2.87,4.2,59.3,73.8,58.0,Medium
+ST2558,26,Male,Medicine,81.2,3.12,8.4,53.5,55.9,45.4,Medium
+ST2559,17,Male,Law,75.0,2.5,2.3,46.1,42.8,54.6,Low
+ST2560,18,Male,Computer Science,64.4,2.31,2.4,69.0,52.3,48.4,Medium
+ST2561,23,Male,Medicine,76.9,3.14,3.1,66.5,60.2,51.2,Medium
+ST2562,28,Male,Computer Science,73.3,4.0,9.4,93.2,77.5,69.5,High
+ST2563,28,Male,Accounting,61.6,1.6,0.0,53.2,13.5,64.1,Low
+ST2564,17,Male,Education,89.8,3.71,9.6,83.0,76.5,76.2,High
+ST2565,29,Male,Accounting,65.5,2.85,1.5,65.2,59.0,66.4,Medium
+ST2566,19,Male,Business Admin,92.4,3.56,9.7,71.3,90.7,73.6,High
+ST2567,21,Male,Computer Science,64.3,3.46,5.3,59.0,57.0,58.0,Medium
+ST2568,27,Male,Economics,89.7,3.32,8.4,83.3,79.8,74.7,High
+ST2569,26,Male,Economics,87.4,3.98,9.0,83.6,83.4,72.6,High
+ST2570,23,Female,Accounting,88.8,3.02,7.5,83.5,79.2,84.0,High
+ST2571,22,Female,Computer Science,79.6,3.0,3.9,61.9,49.0,72.9,Medium
+ST2572,22,Male,Business Admin,93.2,2.76,6.8,69.3,70.5,63.9,Medium
+ST2573,26,Female,Computer Science,92.8,2.9,7.1,61.0,73.4,73.7,High
+ST2574,17,Female,Business Admin,85.2,3.44,9.7,88.1,81.7,83.0,High
+ST2575,19,Male,Computer Science,74.4,0.68,3.7,24.5,40.2,41.1,Low
+ST2576,27,Female,Medicine,83.2,2.79,4.1,53.8,52.6,57.4,Medium
+ST2577,18,Male,Medicine,80.0,2.57,5.0,65.1,64.8,56.0,Medium
+ST2578,21,Male,Economics,58.7,2.65,7.6,74.2,42.8,55.0,Medium
+ST2579,18,Female,Engineering,60.6,3.42,2.1,60.6,48.0,64.6,Medium
+ST2580,29,Female,Law,49.7,1.45,3.8,60.4,33.2,39.6,Low
+ST2581,21,Female,Computer Science,90.3,4.0,8.9,71.0,81.6,83.6,High
+ST2582,28,Female,Economics,83.2,3.37,5.4,84.2,94.5,80.9,High
+ST2583,27,Female,Law,61.6,2.48,0.1,58.6,40.6,59.0,Low
+ST2584,23,Female,Computer Science,62.5,3.19,2.8,64.7,55.7,57.1,Medium
+ST2585,19,Female,Business Admin,82.9,2.66,7.2,57.9,61.3,79.5,Medium
+ST2586,29,Male,Education,68.2,2.77,3.3,64.3,51.4,52.1,Medium
+ST2587,18,Female,Engineering,99.4,3.95,9.4,84.8,78.1,86.4,High
+ST2588,29,Female,Economics,82.8,3.19,10.0,87.6,80.6,82.6,High
+ST2589,28,Male,Engineering,97.4,3.91,9.2,91.5,70.9,82.6,High
+ST2590,29,Female,Economics,40.7,2.01,1.6,16.5,23.9,51.9,Low
+ST2591,26,Male,Education,65.7,2.17,1.1,51.3,40.6,38.5,Low
+ST2592,17,Female,Computer Science,48.5,2.19,1.5,31.6,43.8,50.5,Low
+ST2593,26,Female,Medicine,100.0,3.96,10.9,79.2,75.0,75.8,High
+ST2594,20,Female,Economics,79.5,3.76,9.6,75.8,71.3,89.5,High
+ST2595,21,Male,Business Admin,90.9,3.19,6.4,79.1,85.9,82.8,High
+ST2596,17,Male,Law,97.1,3.15,9.4,93.4,90.7,80.9,High
+ST2597,28,Male,Accounting,82.4,2.82,3.4,53.2,61.8,55.9,Medium
+ST2598,17,Male,Accounting,85.5,3.82,9.0,81.4,72.1,78.2,High
+ST2599,28,Female,Engineering,75.9,3.22,10.2,80.2,79.4,73.1,High
+ST2600,24,Female,Engineering,70.1,2.46,6.8,59.8,66.1,46.1,Medium
+ST2601,20,Male,Education,40.0,3.25,4.1,61.4,52.6,74.8,Medium
+ST2602,17,Female,Engineering,98.7,3.86,6.7,84.7,81.8,66.2,High
+ST2603,24,Female,Engineering,90.9,3.5,7.0,71.9,67.5,50.6,Medium
+ST2604,23,Female,Accounting,69.6,1.72,5.4,40.7,54.8,51.7,Low
+ST2605,17,Female,Computer Science,43.9,1.13,1.4,40.3,45.8,40.2,Low
+ST2606,28,Female,Accounting,80.9,3.5,5.4,37.9,64.3,80.7,Medium
+ST2607,19,Female,Education,88.8,3.87,11.6,79.3,76.0,81.6,High
+ST2608,27,Female,Education,95.8,2.77,8.6,66.4,79.0,91.5,High
+ST2609,20,Male,Business Admin,78.6,3.2,6.9,62.4,65.7,63.3,Medium
+ST2610,27,Female,Law,41.2,2.5,5.3,38.9,54.8,34.4,Low
+ST2611,20,Female,Engineering,64.2,1.58,0.7,40.6,47.8,40.0,Low
+ST2612,20,Male,Medicine,55.1,2.62,4.7,67.5,48.3,64.7,Medium
+ST2613,29,Male,Business Admin,68.6,2.59,3.9,60.6,77.0,56.5,Medium
+ST2614,25,Male,Engineering,100.0,3.45,6.6,78.0,81.0,83.5,High
+ST2615,27,Female,Economics,80.4,3.5,10.4,71.9,75.1,73.3,High
+ST2616,19,Male,Accounting,95.2,4.0,8.4,72.5,70.6,63.3,High
+ST2617,23,Male,Accounting,79.9,2.81,4.0,60.8,49.6,68.3,Medium
+ST2618,17,Male,Computer Science,80.2,3.03,1.6,70.6,52.6,54.3,Medium
+ST2619,19,Female,Business Admin,91.6,3.59,8.2,85.3,79.1,92.4,High
+ST2620,20,Female,Medicine,67.2,2.82,7.6,76.1,56.0,48.7,Medium
+ST2621,18,Female,Computer Science,62.2,3.03,5.1,63.8,56.3,70.5,Medium
+ST2622,18,Female,Engineering,68.7,2.13,1.5,29.9,14.1,44.5,Low
+ST2623,28,Female,Business Admin,77.5,2.63,5.4,66.6,76.0,60.0,Medium
+ST2624,23,Male,Business Admin,66.2,3.5,5.7,67.8,73.5,49.5,Medium
+ST2625,17,Male,Medicine,100.0,3.56,5.5,73.9,85.6,72.2,High
+ST2626,29,Male,Accounting,54.0,1.6,0.0,47.4,38.2,53.6,Low
+ST2627,19,Male,Education,74.5,2.19,1.4,62.4,22.3,34.7,Low
+ST2628,25,Female,Business Admin,95.2,3.36,8.9,76.4,79.7,72.4,High
+ST2629,21,Male,Business Admin,98.6,3.72,10.5,83.2,76.5,80.7,High
+ST2630,18,Female,Economics,89.6,2.87,9.1,87.4,74.3,84.9,High
+ST2631,21,Male,Economics,54.9,2.04,4.4,33.1,35.3,36.7,Low
+ST2632,17,Female,Computer Science,91.8,3.97,9.4,80.6,89.4,81.9,High
+ST2633,27,Male,Education,49.5,1.73,3.3,38.9,42.7,45.9,Low
+ST2634,22,Male,Business Admin,64.2,2.95,7.7,52.4,64.5,49.7,Medium
+ST2635,29,Female,Accounting,73.8,3.12,7.3,68.4,53.2,59.7,Medium
+ST2636,29,Male,Computer Science,46.6,2.66,3.9,68.9,50.3,59.7,Medium
+ST2637,18,Female,Law,85.0,3.47,7.5,84.4,78.7,70.3,High
+ST2638,18,Male,Business Admin,57.1,2.92,6.1,63.8,53.0,66.8,Medium
+ST2639,26,Male,Engineering,45.9,1.77,4.8,39.9,22.8,26.5,Low
+ST2640,18,Male,Medicine,95.6,3.17,8.8,90.1,75.0,81.5,High
+ST2641,29,Female,Education,89.4,3.31,7.9,93.5,94.9,69.1,High
+ST2642,24,Female,Business Admin,74.0,2.42,6.3,69.3,68.5,65.5,Medium
+ST2643,17,Female,Medicine,49.9,2.08,0.0,38.5,51.8,38.8,Low
+ST2644,18,Female,Law,81.5,3.85,9.7,72.5,73.6,90.5,High
+ST2645,18,Male,Economics,62.8,3.17,4.0,62.0,62.9,37.0,Medium
+ST2646,18,Female,Education,82.2,3.9,5.8,86.5,69.0,75.2,High
+ST2647,28,Female,Education,35.9,1.84,0.0,59.2,42.8,39.6,Low
+ST2648,23,Female,Computer Science,74.2,2.85,6.1,57.1,57.9,66.1,Medium
+ST2649,20,Male,Accounting,76.8,4.0,7.7,89.9,81.4,67.7,High
+ST2650,20,Female,Law,68.0,1.81,3.1,18.8,32.0,22.7,Low
+ST2651,21,Male,Engineering,66.0,3.15,3.3,70.9,73.1,68.1,Medium
+ST2652,29,Male,Law,70.6,2.94,4.0,50.7,72.3,68.5,Medium
+ST2653,26,Male,Computer Science,68.2,2.08,5.6,63.8,53.3,38.4,Medium
+ST2654,28,Male,Computer Science,95.0,3.41,8.7,95.4,83.0,69.2,High
+ST2655,19,Female,Law,41.7,2.35,0.3,34.3,40.4,38.2,Low
+ST2656,23,Male,Engineering,77.2,2.5,4.7,46.0,64.8,42.8,Medium
+ST2657,22,Male,Economics,83.8,2.95,5.6,56.7,52.3,54.4,Medium
+ST2658,20,Male,Law,52.6,1.43,4.4,47.3,46.3,32.2,Low
+ST2659,18,Female,Business Admin,90.9,3.82,8.2,88.9,87.5,88.4,High
+ST2660,26,Male,Engineering,83.7,2.87,6.6,63.3,57.5,47.6,Medium
+ST2661,19,Female,Education,70.8,3.16,3.4,66.2,56.6,58.5,Medium
+ST2662,22,Male,Engineering,100.0,3.46,9.0,80.8,68.5,85.4,High
+ST2663,18,Male,Economics,82.2,3.73,12.6,86.1,75.8,71.3,High
+ST2664,21,Male,Education,87.1,3.6,8.5,83.7,63.1,79.0,High
+ST2665,27,Male,Computer Science,90.0,3.66,9.1,85.1,70.4,68.7,High
+ST2666,19,Male,Business Admin,75.0,1.83,0.7,50.3,31.3,42.1,Low
+ST2667,18,Male,Engineering,57.1,2.23,2.1,49.7,25.1,55.5,Low
+ST2668,17,Male,Engineering,70.4,2.87,4.4,68.1,70.5,48.1,Medium
+ST2669,29,Male,Medicine,57.2,1.75,1.4,50.6,44.1,40.6,Low
+ST2670,19,Male,Engineering,61.6,2.09,0.0,54.0,45.1,46.7,Low
+ST2671,25,Male,Accounting,43.2,1.23,2.0,48.1,50.2,39.8,Low
+ST2672,26,Male,Engineering,68.7,2.58,8.2,59.2,69.2,71.6,Medium
+ST2673,17,Male,Accounting,73.6,1.25,0.0,49.8,33.1,48.3,Low
+ST2674,23,Male,Medicine,89.8,3.28,4.0,54.1,62.0,43.5,Medium
+ST2675,20,Male,Education,70.6,3.33,1.7,72.2,58.7,53.4,Medium
+ST2676,20,Male,Education,95.4,3.65,8.0,87.5,79.2,82.2,High
+ST2677,26,Female,Engineering,58.9,1.08,1.8,27.9,14.3,41.0,Low
+ST2678,20,Female,Engineering,85.1,2.96,11.0,73.3,76.1,84.2,High
+ST2679,25,Male,Computer Science,92.2,3.26,9.5,75.7,71.9,78.3,High
+ST2680,21,Female,Business Admin,44.6,1.3,0.7,39.8,39.3,41.7,Low
+ST2681,25,Female,Computer Science,75.0,2.15,2.1,47.8,54.1,55.3,Low
+ST2682,24,Female,Business Admin,81.2,3.01,2.7,54.8,56.2,57.3,Medium
+ST2683,24,Female,Law,72.5,2.7,1.5,74.9,55.5,73.5,Medium
+ST2684,17,Female,Law,59.3,1.18,1.1,38.0,27.5,33.5,Low
+ST2685,22,Male,Computer Science,77.1,3.6,9.5,74.0,95.5,78.5,High
+ST2686,25,Female,Law,88.5,3.52,10.6,80.9,70.5,91.4,High
+ST2687,20,Female,Computer Science,73.6,2.99,2.1,63.6,55.5,63.1,Medium
+ST2688,27,Male,Business Admin,88.6,3.29,1.0,73.6,59.3,50.9,Medium
+ST2689,24,Female,Accounting,43.8,1.34,0.0,27.5,41.9,38.6,Low
+ST2690,20,Male,Accounting,58.7,1.87,0.0,45.9,25.9,45.8,Low
+ST2691,29,Female,Economics,47.7,2.24,2.3,40.2,60.6,16.0,Low
+ST2692,26,Male,Law,54.3,2.51,6.4,56.1,56.7,40.8,Medium
+ST2693,21,Male,Accounting,78.4,2.13,4.1,72.9,55.5,36.8,Medium
+ST2694,23,Female,Engineering,80.7,2.1,8.0,54.3,54.9,51.0,Medium
+ST2695,29,Female,Engineering,91.7,3.83,9.0,67.8,76.3,70.6,High
+ST2696,26,Female,Medicine,61.7,3.11,4.7,65.9,70.6,40.7,Medium
+ST2697,19,Male,Education,30.7,2.25,5.0,23.2,23.9,47.8,Low
+ST2698,17,Male,Accounting,86.0,3.65,4.0,72.4,79.1,61.1,High
+ST2699,29,Female,Education,43.2,1.56,0.4,34.2,42.3,43.2,Low
+ST2700,25,Female,Law,83.9,3.45,7.0,54.4,47.6,54.5,Medium
+ST2701,28,Female,Education,80.2,2.76,6.9,49.4,57.5,49.0,Medium
+ST2702,20,Male,Law,60.8,2.92,5.1,52.5,52.6,61.3,Medium
+ST2703,26,Male,Accounting,49.2,1.75,2.0,57.3,44.3,36.4,Low
+ST2704,17,Female,Accounting,61.3,2.55,2.4,41.6,62.7,63.9,Medium
+ST2705,23,Female,Business Admin,50.7,1.62,1.9,56.6,28.1,34.6,Low
+ST2706,24,Male,Medicine,72.7,1.8,6.1,52.3,51.6,56.3,Medium
+ST2707,26,Female,Engineering,59.6,2.19,2.3,55.4,34.2,34.5,Low
+ST2708,29,Female,Education,71.2,3.5,4.2,62.9,65.5,47.0,Medium
+ST2709,26,Male,Medicine,85.6,3.95,7.2,84.2,91.6,72.3,High
+ST2710,22,Male,Accounting,76.7,2.6,6.6,56.3,44.4,71.7,Medium
+ST2711,21,Female,Law,89.1,3.31,4.5,52.8,61.7,59.9,Medium
+ST2712,18,Male,Medicine,56.8,1.45,3.1,24.7,30.5,45.2,Low
+ST2713,29,Male,Economics,87.7,3.59,7.2,79.0,64.7,91.3,High
+ST2714,24,Male,Business Admin,57.7,3.34,3.4,75.9,67.5,54.8,Medium
+ST2715,17,Male,Computer Science,71.5,3.01,6.6,72.0,83.6,61.6,Medium
+ST2716,17,Female,Accounting,84.9,3.31,6.4,56.7,71.0,62.5,Medium
+ST2717,28,Female,Accounting,75.0,3.79,7.9,83.3,68.8,72.2,High
+ST2718,19,Male,Accounting,44.9,2.07,2.7,34.6,38.5,44.4,Low
+ST2719,18,Female,Law,44.3,0.57,1.4,27.9,32.4,43.6,Low
+ST2720,28,Male,Accounting,93.6,3.38,16.4,83.5,81.2,67.7,High
+ST2721,25,Male,Accounting,99.0,3.96,9.0,72.3,77.8,89.4,High
+ST2722,19,Male,Accounting,68.2,2.68,6.5,39.9,61.7,51.0,Medium
+ST2723,27,Female,Computer Science,66.6,3.1,2.4,63.8,64.8,63.8,Medium
+ST2724,19,Female,Law,79.2,2.45,7.7,50.2,63.7,51.2,Medium
+ST2725,29,Male,Business Admin,74.3,3.43,8.8,93.1,94.6,77.0,High
+ST2726,18,Female,Business Admin,94.2,3.81,7.8,72.6,87.9,68.2,High
+ST2727,18,Female,Business Admin,52.0,3.18,9.8,63.1,59.7,58.4,Medium
+ST2728,29,Male,Business Admin,70.5,2.58,8.0,66.9,75.7,85.0,Medium
+ST2729,23,Male,Business Admin,69.4,2.52,2.1,83.3,70.0,55.7,Medium
+ST2730,17,Female,Business Admin,93.0,3.06,8.8,75.9,91.6,90.1,High
+ST2731,26,Male,Computer Science,65.5,3.09,2.2,46.9,58.9,63.3,Medium
+ST2732,22,Female,Economics,33.4,1.67,0.7,47.3,25.8,61.3,Low
+ST2733,29,Female,Computer Science,60.5,2.27,4.4,56.2,42.7,71.7,Medium
+ST2734,26,Female,Accounting,76.4,2.15,4.2,47.9,64.1,58.6,Medium
+ST2735,29,Male,Engineering,66.2,1.71,0.0,28.7,13.9,30.1,Low
+ST2736,28,Male,Economics,92.6,3.66,10.9,72.6,82.5,66.5,High
+ST2737,25,Female,Education,45.6,2.5,1.5,49.6,34.8,39.6,Low
+ST2738,28,Male,Economics,89.3,3.42,4.0,59.7,60.5,64.4,Medium
+ST2739,24,Female,Computer Science,69.3,2.96,5.5,55.9,70.1,35.0,Medium
+ST2740,23,Female,Law,96.0,3.72,5.4,73.7,63.5,91.6,High
+ST2741,29,Male,Accounting,63.4,1.84,1.0,46.2,40.6,49.2,Low
+ST2742,23,Female,Medicine,98.8,3.52,7.1,78.1,74.9,76.6,High
+ST2743,23,Female,Accounting,59.6,1.72,0.0,45.3,20.3,41.0,Low
+ST2744,29,Female,Computer Science,59.7,1.41,2.0,39.1,18.6,28.2,Low
+ST2745,29,Female,Medicine,70.2,3.5,4.2,61.1,69.9,54.0,Medium
+ST2746,24,Male,Medicine,80.5,3.32,9.3,77.1,97.3,69.5,High
+ST2747,29,Female,Engineering,80.1,3.1,1.0,61.9,57.4,46.7,Medium
+ST2748,17,Male,Business Admin,64.7,3.5,6.3,35.7,70.2,47.8,Medium
+ST2749,18,Male,Accounting,88.6,3.5,3.8,59.1,62.2,66.7,Medium
+ST2750,29,Female,Computer Science,80.9,3.07,7.5,56.5,71.2,56.2,Medium
+ST2751,28,Female,Law,59.0,2.5,5.1,52.9,40.4,44.7,Low
+ST2752,21,Male,Law,76.3,2.57,7.3,66.7,61.5,51.0,Medium
+ST2753,21,Female,Education,82.0,3.58,10.3,86.4,83.9,78.7,High
+ST2754,22,Male,Computer Science,64.3,2.5,3.1,33.0,25.3,31.5,Low
+ST2755,24,Female,Computer Science,75.0,1.84,1.6,39.1,36.9,28.7,Low
+ST2756,24,Female,Engineering,64.7,2.5,1.3,35.8,28.7,51.5,Low
+ST2757,25,Female,Medicine,63.0,3.18,5.8,69.6,51.2,39.2,Medium
+ST2758,21,Male,Business Admin,100.0,3.47,13.6,88.6,68.9,79.7,High
+ST2759,28,Male,Law,78.4,3.27,5.8,61.4,58.3,55.7,Medium
+ST2760,17,Male,Education,67.8,2.85,3.9,53.3,67.6,61.7,Medium
+ST2761,28,Male,Engineering,84.4,3.62,11.0,77.2,70.6,76.8,High
+ST2762,20,Male,Engineering,69.2,1.81,6.1,60.2,71.8,60.2,Medium
+ST2763,28,Female,Business Admin,70.7,2.8,1.9,74.4,58.5,47.9,Medium
+ST2764,28,Male,Accounting,79.4,1.93,4.1,71.1,55.6,50.8,Medium
+ST2765,22,Male,Medicine,47.0,0.9,3.1,38.5,34.7,34.8,Low
+ST2766,25,Male,Accounting,51.4,1.22,2.9,46.0,40.5,50.9,Low
+ST2767,29,Female,Computer Science,99.3,3.77,7.5,81.0,89.9,66.0,High
+ST2768,21,Female,Engineering,63.3,3.15,5.8,54.9,66.1,56.4,Medium
+ST2769,24,Male,Business Admin,53.8,1.98,3.5,46.0,32.1,22.6,Low
+ST2770,24,Female,Medicine,95.8,3.74,12.6,80.3,80.3,84.3,High
+ST2771,25,Male,Computer Science,56.1,2.09,4.2,62.2,41.3,57.7,Medium
+ST2772,18,Male,Engineering,85.0,3.72,8.8,72.7,87.7,61.8,High
+ST2773,29,Male,Computer Science,64.3,3.49,5.7,44.0,44.2,54.6,Medium
+ST2774,23,Female,Computer Science,59.7,2.97,2.8,63.0,80.4,54.5,Medium
+ST2775,17,Male,Economics,78.2,4.0,11.8,80.7,72.8,74.6,High
+ST2776,23,Female,Engineering,64.5,1.38,3.5,47.4,31.9,25.0,Low
+ST2777,26,Female,Medicine,87.0,3.16,8.2,67.7,76.3,90.0,High
+ST2778,24,Female,Law,84.1,4.0,8.1,69.6,65.4,74.8,High
+ST2779,22,Male,Business Admin,86.6,3.35,10.1,65.1,76.1,80.5,High
+ST2780,20,Male,Engineering,100.0,3.19,9.2,86.4,80.5,68.1,High
+ST2781,18,Female,Computer Science,100.0,3.61,10.6,77.6,77.6,84.2,High
+ST2782,19,Female,Business Admin,82.4,3.75,7.5,96.0,79.5,84.2,High
+ST2783,21,Female,Law,58.9,2.48,0.0,41.6,36.7,40.5,Low
+ST2784,22,Male,Computer Science,83.6,2.91,4.1,37.8,74.2,35.0,Medium
+ST2785,23,Female,Law,91.7,2.91,6.0,60.1,60.8,50.8,Medium
+ST2786,17,Male,Economics,85.2,2.6,6.0,57.1,64.3,65.4,Medium
+ST2787,28,Female,Economics,48.5,1.44,0.8,24.0,11.0,36.6,Low
+ST2788,26,Female,Education,81.8,2.95,5.1,46.6,68.5,77.5,Medium
+ST2789,18,Male,Economics,51.1,1.76,1.4,40.3,64.0,39.3,Low
+ST2790,20,Male,Engineering,58.9,2.51,7.0,63.9,81.0,60.7,Medium
+ST2791,28,Female,Medicine,42.9,2.94,3.5,42.2,65.9,56.4,Medium
+ST2792,26,Male,Engineering,55.1,1.57,4.5,53.7,51.0,47.5,Low
+ST2793,17,Male,Economics,78.3,2.85,7.5,70.1,65.5,41.2,Medium
+ST2794,25,Male,Law,87.3,3.43,9.5,78.7,77.8,81.7,High
+ST2795,28,Male,Law,56.8,2.47,6.3,49.7,72.5,67.7,Medium
+ST2796,17,Female,Accounting,48.8,2.5,3.9,28.6,47.0,38.8,Low
+ST2797,19,Female,Engineering,96.0,3.42,8.8,74.6,74.0,77.0,High
+ST2798,19,Male,Business Admin,88.1,3.38,11.8,100.0,77.1,64.2,High
+ST2799,20,Male,Economics,77.1,3.13,3.7,47.2,64.1,68.4,Medium
+ST2800,26,Male,Economics,83.7,3.74,10.2,96.5,83.6,71.3,High
+ST2801,21,Female,Engineering,82.3,3.08,5.8,57.5,60.1,55.8,Medium
+ST2802,23,Male,Medicine,64.3,2.77,1.6,43.0,74.6,60.7,Medium
+ST2803,27,Female,Engineering,50.7,1.93,3.7,46.4,33.1,17.0,Low
+ST2804,28,Female,Medicine,69.0,1.37,1.9,28.0,26.9,32.8,Low
+ST2805,24,Male,Accounting,71.3,1.94,5.8,65.7,50.7,66.3,Medium
+ST2806,19,Male,Accounting,74.4,2.22,4.3,63.4,63.0,68.3,Medium
+ST2807,22,Female,Accounting,77.6,3.44,3.0,55.9,43.4,51.7,Medium
+ST2808,17,Male,Economics,57.2,1.66,1.9,26.0,36.8,58.2,Low
+ST2809,21,Female,Business Admin,84.1,3.02,5.2,67.7,60.8,74.4,Medium
+ST2810,22,Female,Law,60.2,2.76,7.2,50.0,70.4,58.2,Medium
+ST2811,29,Female,Business Admin,78.3,3.58,7.9,94.2,84.1,78.3,High
+ST2812,26,Male,Computer Science,93.6,3.95,8.5,85.5,76.5,87.2,High
+ST2813,20,Male,Economics,74.0,3.5,3.6,70.6,59.6,55.7,Medium
+ST2814,28,Female,Engineering,80.2,3.51,7.1,75.6,71.4,69.5,High
+ST2815,25,Female,Accounting,88.1,3.81,8.2,76.7,79.3,83.6,High
+ST2816,22,Female,Law,78.6,2.8,3.8,71.1,47.5,43.8,Medium
+ST2817,17,Male,Education,74.3,2.67,7.7,47.0,61.3,65.6,Medium
+ST2818,29,Female,Economics,79.2,3.71,8.6,81.8,89.1,93.2,High
+ST2819,26,Male,Law,55.3,2.78,7.0,54.1,58.1,74.2,Medium
+ST2820,20,Male,Engineering,67.7,3.16,5.2,69.8,80.1,62.2,Medium
+ST2821,21,Male,Law,62.7,2.15,2.9,77.2,63.3,55.3,Medium
+ST2822,29,Female,Business Admin,61.3,2.01,4.1,28.4,33.8,52.0,Low
+ST2823,21,Male,Economics,63.4,1.43,1.4,38.1,32.9,21.9,Low
+ST2824,17,Female,Business Admin,70.7,3.39,4.8,62.1,61.8,56.7,Medium
+ST2825,22,Female,Education,65.4,3.35,3.4,65.0,68.8,63.5,Medium
+ST2826,18,Female,Business Admin,73.6,2.11,7.4,55.9,58.2,61.1,Medium
+ST2827,27,Female,Education,61.0,2.57,7.5,62.3,49.4,58.8,Medium
+ST2828,26,Female,Computer Science,88.5,3.5,5.2,60.0,60.2,66.9,Medium
+ST2829,18,Female,Education,85.8,3.25,3.1,70.9,71.5,60.8,Medium
+ST2830,27,Male,Accounting,69.6,2.87,5.2,47.4,62.8,57.8,Medium
+ST2831,24,Female,Law,69.0,3.05,4.9,44.2,62.5,63.0,Medium
+ST2832,25,Female,Law,84.0,3.09,4.0,57.3,69.9,54.1,Medium
+ST2833,24,Male,Engineering,44.6,2.26,0.8,47.0,57.4,54.1,Low
+ST2834,17,Female,Economics,49.3,2.5,2.0,48.0,45.6,24.9,Low
+ST2835,27,Male,Medicine,81.6,3.42,2.7,58.1,54.7,63.9,Medium
+ST2836,29,Female,Computer Science,73.6,3.1,4.0,75.7,59.3,64.9,Medium
+ST2837,23,Female,Accounting,90.9,3.85,12.5,86.1,74.2,82.7,High
+ST2838,24,Female,Computer Science,51.6,0.73,2.7,41.4,51.9,29.0,Low
+ST2839,25,Male,Medicine,65.4,2.8,7.1,46.8,64.9,65.3,Medium
+ST2840,24,Male,Economics,64.6,1.49,3.4,39.3,38.5,38.4,Low
+ST2841,27,Female,Accounting,62.6,2.34,1.5,40.0,27.7,24.1,Low
+ST2842,28,Female,Computer Science,48.0,1.28,2.7,35.7,29.0,53.3,Low
+ST2843,29,Male,Computer Science,57.0,2.23,6.0,58.6,48.3,67.5,Medium
+ST2844,22,Male,Medicine,75.7,1.95,6.9,51.4,42.9,49.8,Medium
+ST2845,22,Male,Education,55.7,2.23,3.5,55.0,67.6,53.9,Medium
+ST2846,17,Female,Medicine,58.7,0.36,1.5,38.0,37.3,13.0,Low
+ST2847,27,Male,Business Admin,64.4,2.26,3.1,59.4,52.6,49.5,Medium
+ST2848,21,Male,Economics,89.6,3.47,5.9,73.8,77.4,74.4,High
+ST2849,29,Male,Computer Science,57.9,3.07,5.6,56.0,58.4,47.3,Medium
+ST2850,23,Female,Education,44.3,2.5,0.7,33.6,55.2,36.6,Low
+ST2851,17,Male,Education,44.8,1.27,4.5,49.6,35.7,59.5,Low
+ST2852,27,Male,Business Admin,74.2,2.39,0.9,50.1,34.3,52.6,Low
+ST2853,19,Male,Business Admin,64.0,2.5,3.3,56.3,68.6,76.0,Medium
+ST2854,19,Female,Engineering,88.7,2.69,3.1,62.5,56.2,48.5,Medium
+ST2855,24,Male,Accounting,99.0,3.76,8.2,78.6,80.1,74.1,High
+ST2856,26,Female,Economics,79.9,2.72,4.8,63.4,71.4,54.6,Medium
+ST2857,19,Male,Business Admin,82.1,3.59,6.8,71.2,84.9,84.4,High
+ST2858,21,Male,Computer Science,40.9,2.19,2.1,65.0,22.9,50.7,Low
+ST2859,29,Male,Computer Science,99.4,3.5,7.5,80.7,74.1,90.9,High
+ST2860,21,Male,Economics,76.7,3.16,4.1,69.7,73.0,56.4,Medium
+ST2861,21,Male,Medicine,71.3,2.45,4.5,45.1,54.4,62.5,Medium
+ST2862,29,Male,Medicine,71.4,2.69,6.5,48.7,65.3,57.5,Medium
+ST2863,23,Female,Education,95.1,3.76,12.3,75.3,75.3,63.7,High
+ST2864,23,Female,Computer Science,81.4,4.0,9.6,76.2,81.1,77.5,High
+ST2865,22,Female,Business Admin,65.3,2.27,0.0,38.5,29.4,51.1,Low
+ST2866,27,Male,Law,89.0,3.59,8.9,77.9,80.2,71.2,High
+ST2867,25,Female,Business Admin,79.6,3.73,9.9,93.7,78.2,83.6,High
+ST2868,22,Female,Accounting,52.0,2.04,2.1,35.9,44.9,42.1,Low
+ST2869,23,Male,Computer Science,59.4,1.6,0.3,26.5,31.9,55.8,Low
+ST2870,25,Female,Education,74.0,2.38,4.6,57.9,46.8,68.9,Medium
+ST2871,19,Female,Engineering,60.4,2.08,2.1,37.1,46.7,37.9,Low
+ST2872,19,Male,Law,73.4,3.25,7.3,64.7,61.0,64.6,Medium
+ST2873,20,Male,Education,51.2,1.39,5.5,35.2,43.6,37.8,Low
+ST2874,28,Male,Accounting,74.2,2.46,7.4,68.6,45.8,58.1,Medium
+ST2875,24,Female,Economics,81.2,1.81,7.1,65.8,59.2,66.8,Medium
+ST2876,21,Female,Computer Science,75.0,1.24,4.5,51.6,29.5,44.3,Low
+ST2877,28,Male,Business Admin,50.9,2.26,5.8,66.7,64.6,64.4,Medium
+ST2878,20,Male,Economics,64.9,2.02,1.3,38.3,28.0,48.2,Low
+ST2879,18,Female,Economics,77.7,2.39,2.2,39.2,57.2,46.6,Medium
+ST2880,25,Female,Medicine,92.2,3.21,6.0,72.4,88.6,68.4,High
+ST2881,22,Female,Engineering,58.4,3.46,4.7,56.8,65.7,71.4,Medium
+ST2882,27,Male,Economics,62.2,2.04,3.7,46.2,59.7,40.1,Low
+ST2883,20,Male,Business Admin,86.9,3.85,9.5,88.3,87.6,81.4,High
+ST2884,25,Female,Economics,83.6,3.85,11.8,66.5,75.5,78.2,High
+ST2885,17,Male,Engineering,63.2,2.47,5.9,77.8,39.7,56.3,Medium
+ST2886,24,Male,Medicine,90.6,4.0,9.1,92.5,74.8,78.5,High
+ST2887,28,Female,Law,70.8,2.94,4.4,67.9,64.0,48.1,Medium
+ST2888,22,Male,Economics,78.6,3.5,5.6,72.1,43.9,78.1,Medium
+ST2889,24,Female,Engineering,50.0,1.35,0.8,62.9,26.1,25.9,Low
+ST2890,22,Female,Economics,72.2,3.24,3.8,48.3,62.9,57.4,Medium
+ST2891,25,Male,Medicine,85.9,3.56,9.2,78.9,75.6,63.2,High
+ST2892,20,Male,Medicine,62.2,1.66,3.9,39.7,21.9,18.2,Low
+ST2893,25,Male,Engineering,97.7,3.49,6.6,63.9,76.8,81.2,High
+ST2894,26,Male,Computer Science,66.5,3.3,2.2,55.6,72.1,62.9,Medium
+ST2895,17,Male,Law,88.2,3.44,7.3,73.4,86.3,77.5,High
+ST2896,25,Male,Economics,57.3,1.77,1.3,30.2,21.0,24.5,Low
+ST2897,27,Female,Business Admin,74.6,2.83,6.4,55.6,44.9,59.9,Medium
+ST2898,24,Female,Education,61.9,2.2,8.2,35.0,66.2,47.3,Medium
+ST2899,21,Male,Computer Science,95.0,3.08,3.0,61.5,57.1,37.3,Medium
+ST2900,29,Female,Accounting,52.7,1.56,3.1,36.3,56.6,42.2,Low
+ST2901,25,Female,Computer Science,75.0,3.46,2.7,41.8,62.2,70.0,Medium
+ST2902,17,Female,Engineering,55.2,2.79,5.0,68.1,55.0,55.3,Medium
+ST2903,23,Female,Education,78.3,2.89,5.8,70.5,67.3,79.1,Medium
+ST2904,22,Female,Computer Science,48.3,1.93,0.1,32.6,51.5,19.4,Low
+ST2905,17,Female,Accounting,99.2,3.51,7.2,79.8,84.7,78.7,High
+ST2906,26,Male,Business Admin,69.1,2.72,7.3,66.1,64.9,58.9,Medium
+ST2907,28,Male,Medicine,65.7,3.04,4.5,65.1,68.4,43.5,Medium
+ST2908,18,Female,Law,80.5,4.0,9.3,76.2,88.8,82.0,High
+ST2909,17,Female,Business Admin,73.8,3.44,9.6,64.7,80.7,79.3,High
+ST2910,17,Male,Business Admin,72.1,2.32,6.8,70.4,57.1,56.0,Medium
+ST2911,23,Male,Computer Science,72.6,3.75,7.4,78.9,91.7,76.9,High
+ST2912,23,Female,Medicine,58.1,1.44,1.9,40.4,41.3,41.5,Low
+ST2913,22,Male,Medicine,95.8,3.96,10.0,76.8,93.3,60.5,High
+ST2914,20,Male,Accounting,68.3,3.44,2.0,50.9,54.7,62.2,Medium
+ST2915,19,Female,Law,94.3,3.77,7.2,76.6,94.2,84.5,High
+ST2916,29,Male,Engineering,100.0,3.59,8.4,78.6,77.5,84.1,High
+ST2917,24,Male,Medicine,52.0,1.61,2.5,37.4,30.3,37.7,Low
+ST2918,18,Male,Medicine,42.2,1.94,2.3,44.8,42.4,53.8,Low
+ST2919,18,Male,Accounting,58.6,3.3,6.0,56.8,35.8,43.0,Medium
+ST2920,18,Male,Accounting,66.7,2.78,4.1,63.7,46.2,55.4,Medium
+ST2921,18,Male,Economics,94.7,3.54,7.7,85.7,73.3,79.2,High
+ST2922,26,Female,Accounting,95.8,3.57,8.1,77.9,69.7,66.6,High
+ST2923,26,Male,Medicine,70.1,2.23,1.7,51.0,37.7,55.0,Low
+ST2924,24,Male,Engineering,72.5,2.6,5.0,64.9,57.4,61.0,Medium
+ST2925,19,Male,Education,66.7,1.7,7.4,60.9,62.0,63.4,Medium
+ST2926,28,Female,Accounting,96.1,3.83,4.0,85.1,82.0,76.0,High
+ST2927,25,Female,Business Admin,91.8,3.61,7.9,91.9,82.8,79.4,High
+ST2928,24,Female,Engineering,53.4,3.01,6.4,78.4,50.4,49.9,Medium
+ST2929,18,Female,Education,72.4,2.44,1.5,38.7,44.3,19.7,Low
+ST2930,28,Male,Education,42.3,1.79,0.0,51.1,43.0,22.3,Low
+ST2931,21,Female,Economics,94.8,3.75,7.4,77.3,80.4,71.6,High
+ST2932,28,Male,Economics,59.7,2.74,4.6,61.6,62.6,64.1,Medium
+ST2933,18,Female,Economics,70.5,2.94,5.4,67.7,64.5,49.8,Medium
+ST2934,29,Female,Computer Science,60.4,2.21,2.4,43.1,49.1,35.5,Low
+ST2935,27,Female,Law,83.8,2.6,5.2,53.4,71.1,50.6,Medium
+ST2936,18,Male,Economics,83.4,2.78,6.3,51.2,53.7,64.1,Medium
+ST2937,17,Female,Law,84.9,3.01,9.8,69.9,60.2,54.8,Medium
+ST2938,23,Female,Business Admin,45.8,1.57,1.0,46.1,19.8,31.9,Low
+ST2939,29,Female,Engineering,84.4,3.81,10.4,80.3,75.7,84.9,High
+ST2940,27,Male,Medicine,94.3,3.27,8.0,79.9,95.3,68.0,High
+ST2941,24,Female,Law,75.0,2.03,0.6,20.2,45.3,40.3,Low
+ST2942,27,Male,Accounting,90.7,2.83,5.8,68.2,61.0,71.1,Medium
+ST2943,17,Male,Law,66.7,3.21,7.7,72.4,74.3,50.7,Medium
+ST2944,18,Male,Law,77.0,2.97,5.1,68.3,72.1,50.8,Medium
+ST2945,27,Female,Computer Science,59.9,2.72,1.0,61.3,74.3,43.8,Medium
+ST2946,28,Female,Computer Science,56.8,2.22,2.0,31.8,40.3,52.8,Low
+ST2947,26,Female,Business Admin,48.1,1.72,2.7,23.4,44.5,31.5,Low
+ST2948,23,Male,Computer Science,62.5,3.13,3.8,71.6,65.8,48.6,Medium
+ST2949,23,Male,Medicine,91.2,3.4,6.9,79.8,76.3,80.3,High
+ST2950,24,Male,Accounting,60.1,3.41,5.1,36.6,57.7,42.4,Medium
+ST2951,27,Male,Law,36.3,1.23,1.9,30.2,34.9,39.3,Low
+ST2952,24,Female,Economics,76.2,3.67,7.5,90.6,73.0,72.3,High
+ST2953,25,Male,Law,34.7,2.16,1.2,49.7,38.7,58.5,Low
+ST2954,18,Female,Computer Science,77.9,1.97,4.0,61.1,67.2,67.3,Medium
+ST2955,20,Female,Computer Science,64.6,2.82,4.5,45.3,61.6,48.9,Medium
+ST2956,26,Male,Education,75.0,2.35,3.0,51.7,33.8,23.1,Low
+ST2957,28,Female,Computer Science,77.5,2.5,3.7,54.0,52.0,53.0,Medium
+ST2958,19,Female,Economics,100.0,3.49,8.0,91.8,83.9,77.6,High
+ST2959,27,Male,Economics,71.0,2.8,4.4,67.6,67.5,52.4,Medium
+ST2960,23,Male,Economics,58.0,2.18,1.9,40.7,35.2,31.9,Low
+ST2961,25,Female,Law,71.7,2.86,6.0,73.0,61.8,64.2,Medium
+ST2962,20,Male,Economics,74.2,2.86,3.3,55.5,59.0,54.5,Medium
+ST2963,23,Male,Medicine,100.0,3.71,9.6,91.4,81.5,75.8,High
+ST2964,17,Female,Engineering,61.4,1.37,1.6,37.8,31.1,33.7,Low
+ST2965,25,Male,Law,94.9,3.55,9.4,83.3,80.4,78.7,High
+ST2966,29,Male,Law,65.3,3.34,3.3,49.0,59.8,37.6,Medium
+ST2967,21,Male,Economics,72.5,1.97,5.2,59.1,44.8,65.3,Medium
+ST2968,18,Male,Accounting,67.7,1.18,2.7,46.6,34.5,45.5,Low
+ST2969,25,Male,Engineering,61.3,3.5,7.9,39.7,71.7,52.2,Medium
+ST2970,27,Female,Accounting,39.0,2.19,0.9,46.5,38.6,29.2,Low
+ST2971,27,Male,Medicine,76.6,2.74,3.5,57.2,49.0,65.4,Medium
+ST2972,25,Male,Economics,87.4,3.76,10.2,82.9,76.9,86.8,High
+ST2973,21,Female,Education,38.5,1.74,4.1,65.0,40.2,21.7,Low
+ST2974,24,Female,Computer Science,94.8,3.59,6.9,83.8,69.5,79.6,High
+ST2975,23,Female,Engineering,68.1,2.29,2.2,26.6,12.3,39.5,Low
+ST2976,26,Male,Medicine,78.6,3.3,8.6,82.8,88.7,67.5,High
+ST2977,19,Male,Economics,94.7,3.46,6.6,76.6,71.1,78.7,High
+ST2978,29,Male,Education,66.8,3.36,5.0,74.7,58.4,55.7,Medium
+ST2979,28,Female,Business Admin,45.4,2.48,0.6,46.9,44.4,50.8,Low
+ST2980,17,Male,Business Admin,77.2,2.77,7.0,69.2,68.1,55.9,Medium
+ST2981,18,Female,Accounting,74.5,2.5,4.8,63.1,52.1,55.1,Medium
+ST2982,19,Female,Economics,30.8,1.83,1.4,39.7,50.4,62.6,Low
+ST2983,26,Female,Accounting,47.9,2.2,2.7,51.8,36.8,33.6,Low
+ST2984,25,Female,Medicine,82.9,3.19,7.2,52.1,67.2,74.1,Medium
+ST2985,23,Male,Engineering,48.0,1.12,3.9,28.3,32.2,44.7,Low
+ST2986,20,Female,Education,83.4,3.22,9.4,75.0,84.2,70.9,High
+ST2987,27,Female,Accounting,74.2,2.48,6.0,60.6,52.1,58.2,Medium
+ST2988,17,Male,Business Admin,77.9,3.5,7.6,100.0,85.2,69.3,High
+ST2989,17,Female,Computer Science,64.2,0.83,3.1,55.4,24.0,22.2,Low
+ST2990,29,Female,Education,61.1,2.17,4.1,56.1,43.3,52.2,Medium
+ST2991,20,Male,Business Admin,61.7,2.3,5.5,54.2,72.3,43.4,Medium
+ST2992,22,Female,Business Admin,91.9,3.3,7.4,86.3,74.6,73.9,High
+ST2993,26,Female,Engineering,65.8,2.82,4.6,64.2,53.9,56.0,Medium
+ST2994,28,Male,Medicine,85.2,3.78,10.0,71.8,80.3,66.1,High
+ST2995,29,Female,Education,74.6,2.01,6.0,57.7,52.1,65.4,Medium
+ST2996,26,Male,Economics,63.9,3.07,4.5,73.3,62.2,43.3,Medium
+ST2997,23,Female,Computer Science,69.6,2.47,3.4,58.8,62.7,67.1,Medium
+ST2998,28,Male,Computer Science,55.0,2.46,9.1,50.6,72.5,57.7,Medium
+ST2999,20,Male,Medicine,80.0,3.33,4.5,63.4,57.5,46.9,Medium
+ST3000,17,Female,Education,73.0,3.93,9.3,76.4,82.7,73.8,High
